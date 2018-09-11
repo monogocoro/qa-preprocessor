@@ -1,0 +1,41 @@
+- if @has_2f
+  %h2 2F
+  %table{background: "/2f.png"}
+    - 9.times do |tr_num|
+      %tr
+        - 23.times do |td_num|
+          - number = '2,' + tr_num.to_s + ',' + td_num.to_s
+          - if @numbers.include? number
+            %td.red
+          - else
+            %td
+              ="#{'2,' + tr_num.to_s + ',' + td_num.to_s}"
+
+- if @has_1f
+  %h2 1F
+  %table{background: "/1f.png"}
+    - 6.times do |tr_num|
+      %tr
+        - 23.times do |td_num|
+          - number = '1,' + tr_num.to_s + ',' + td_num.to_s
+          - if @numbers.include? number
+            %td.red
+          - else
+            %td
+              ="#{'1,' + tr_num.to_s + ',' + td_num.to_s}"
+
+- if @has_b1f
+  %h2 B1F
+  %table{background: "/b1f.png"}
+    - 7.times do |tr_num|
+      %tr
+        - 23.times do |td_num|
+          - number = '0,' + tr_num.to_s + ',' + td_num.to_s
+          - if @numbers.include? number
+            %td.red
+          - else
+            %td
+              ="#{'0,' + tr_num.to_s + ',' + td_num.to_s}"
+
+- if @has_external
+  %p 構外施設の地図表示には現在は対応していません。

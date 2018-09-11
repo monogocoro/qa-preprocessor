@@ -54,3 +54,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'json'
 gem 'easy_translate'
 gem 'verbs'
+
+gem 'haml-rails'
+gem 'erb2haml'

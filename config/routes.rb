@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'map/show'
+
   get 'paraphrase/:sentence', to: 'analysis#paraphrase'
   get 'complement/:sentence', to: 'analysis#complement'
   get 'analysis/:sentence', to: 'analysis#result'
