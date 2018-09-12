@@ -4,7 +4,7 @@
     - 9.times do |tr_num|
       %tr
         - 23.times do |td_num|
-          - number = '2,' + tr_num.to_s + ',' + td_num.to_s
+          - number = '1,2,' + tr_num.to_s + ',' + td_num.to_s
           - if @numbers.include? number
             %td.red
           - else
@@ -17,7 +17,7 @@
     - 6.times do |tr_num|
       %tr
         - 23.times do |td_num|
-          - number = '1,' + tr_num.to_s + ',' + td_num.to_s
+          - number = '1,1,' + tr_num.to_s + ',' + td_num.to_s
           - if @numbers.include? number
             %td.red
           - else
@@ -30,7 +30,7 @@
     - 7.times do |tr_num|
       %tr
         - 23.times do |td_num|
-          - number = '0,' + tr_num.to_s + ',' + td_num.to_s
+          - number = '1,0,' + tr_num.to_s + ',' + td_num.to_s
           - if @numbers.include? number
             %td.red
           - else
