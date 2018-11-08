@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "中央口北東エスカレーター1",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "79",
+        "y": "37"
+      },
+      {
+        "floor": "2",
+        "x": "79",
+        "y": "37"
+      }
+    ]
+  },
+  {
+    "name": "中央口北東エスカレーター2",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "81",
+        "y": "37"
+      },
+      {
+        "floor": "2",
+        "x": "81",
+        "y": "37"
+      }
+    ]
+  },
+  {
+    "name": "中央口北東階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "79",
+        "y": "39"
+      },
+      {
+        "floor": "2",
+        "x": "79",
+        "y": "39"
+      }
+    ]
+  },
+  {
+    "name": "中央口北東階段2",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "82",
+        "y": "39"
+      },
+      {
+        "floor": "2",
+        "x": "82",
+        "y": "39"
+      }
+    ]
+  },
+  {
+    "name": "中央口前階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B1",
+        "x": "58",
+        "y": "42"
+      },
+      {
+        "floor": "1",
+        "x": "58",
+        "y": "42"
+      }
+    ]
+  },
+  {
+    "name": "中央口前階段2",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B1",
+        "x": "61",
+        "y": "42"
+      },
+      {
+        "floor": "1",
+        "x": "61",
+        "y": "42"
+      }
+    ]
+  },
+  {
+    "name": "南北連絡口南エスカレータ1",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "44",
+        "y": "78"
+      },
+      {
+        "floor": "2",
+        "x": "44",
+        "y": "78"
+      }
+    ]
+  },
+  {
+    "name": "Avanti連絡階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "80",
+        "y": "76"
+      },
+      {
+        "floor": "1",
+        "x": "80",
+        "y": "76"
+      }
+    ]
+  },
+  {
+    "name": "南北連絡口南階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "44",
+        "y": "79"
+      },
+      {
+        "floor": "2",
+        "x": "44",
+        "y": "79"
+      }
+    ]
+  },
+  {
+    "name": "南北連絡口南エレベータ",
+    "name_en": null,
+    "type": "2",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "44",
+        "y": "80"
+      },
+      {
+        "floor": "2",
+        "x": "44",
+        "y": "80"
+      }
+    ]
+  },
+  {
+    "name": "南北連絡口南エスカレータ2",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "49",
+        "y": "77"
+      },
+      {
+        "floor": "2",
+        "x": "49",
+        "y": "77"
+      }
+    ]
+  },
+  {
+    "name": "南北連絡口南階段2",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "49",
+        "y": "78"
+      },
+      {
+        "floor": "2",
+        "x": "49",
+        "y": "78"
+      }
+    ]
+  },
+  {
+    "name": "みやこみち内階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "38",
+        "y": "70"
+      },
+      {
+        "floor": "2",
+        "x": "38",
+        "y": "70"
+      }
+    ]
+  },
+  {
+    "name": "みやこみち内エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "38",
+        "y": "71"
+      },
+      {
+        "floor": "2",
+        "x": "38",
+        "y": "71"
+      }
+    ]
+  },
+  {
+    "name": "地下連絡通路階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "81",
+        "y": "74"
+      },
+      {
+        "floor": "1",
+        "x": "81",
+        "y": "74"
+      }
+    ]
+  },
+  {
+    "name": "大階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "57",
+        "y": "39"
+      },
+      {
+        "floor": "2",
+        "x": "54",
+        "y": "39"
+      },
+      {
+        "floor": "3",
+        "x": "50",
+        "y": "39"
+      },
+      {
+        "floor": "4",
+        "x": "46",
+        "y": "39"
+      },
+      {
+        "floor": "5",
+        "x": "42",
+        "y": "42"
+      },
+      {
+        "floor": "6",
+        "x": "40",
+        "y": "43"
+      },
+      {
+        "floor": "7",
+        "x": "37",
+        "y": "43"
+      },
+      {
+        "floor": "8",
+        "x": "35",
+        "y": "43"
+      },
+      {
+        "floor": "9",
+        "x": "33",
+        "y": "44"
+      },
+      {
+        "floor": "10",
+        "x": "31",
+        "y": "46"
+      },
+      {
+        "floor": "11",
+        "x": "29",
+        "y": "46"
+      },
+      {
+        "floor": "R",
+        "x": "29",
+        "y": "44"
+      }
+    ]
+  },
+  {
+    "name": "大階段2",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "62",
+        "y": "39"
+      },
+      {
+        "floor": "2",
+        "x": "66",
+        "y": "39"
+      },
+      {
+        "floor": "3",
+        "x": "71",
+        "y": "39"
+      },
+      {
+        "floor": "4",
+        "x": "74",
+        "y": "39"
+      },
+      {
+        "floor": "5",
+        "x": "74",
+        "y": "42"
+      },
+      {
+        "floor": "7",
+        "x": "81",
+        "y": "39"
+      },
+      {
+        "floor": "10",
+        "x": "80",
+        "y": "39"
+      }
+    ]
+  },
+  {
+    "name": "中央口駅ビル中央エレベーター",
+    "name_en": null,
+    "type": "2",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B3",
+        "x": "54",
+        "y": "38"
+      },
+      {
+        "floor": "B2",
+        "x": "54",
+        "y": "38"
+      },
+      {
+        "floor": "B1",
+        "x": "54",
+        "y": "38"
+      },
+      {
+        "floor": "1",
+        "x": "54",
+        "y": "38"
+      },
+      {
+        "floor": "2",
+        "x": "54",
+        "y": "38"
+      }
+    ]
+  },
+  {
+    "name": "中央口東エレベーター",
+    "name_en": null,
+    "type": "2",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "89",
+        "y": "40"
+      },
+      {
+        "floor": "2",
+        "x": "89",
+        "y": "40"
+      },
+      {
+        "floor": "7",
+        "x": "89",
+        "y": "40"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内北階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "B1",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "1",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "2",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "M3",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "3",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "4",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "M5",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "5",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "6",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "7",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "M8",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "8",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "9",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "10",
+        "x": "45",
+        "y": "38"
+      },
+      {
+        "floor": "11",
+        "x": "45",
+        "y": "38"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内北階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "48",
+        "y": "38"
+      },
+      {
+        "floor": "B1",
+        "x": "48",
+        "y": "38"
+      },
+      {
+        "floor": "1",
+        "x": "48",
+        "y": "38"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内南エレベーター",
+    "name_en": null,
+    "type": "2",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "4",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "5",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "6",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "7",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "8",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "9",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "10",
+        "x": "44",
+        "y": "47"
+      },
+      {
+        "floor": "11",
+        "x": "44",
+        "y": "47"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内北エレベーター",
+    "name_en": null,
+    "type": "2",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "B1",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "1",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "2",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "M3",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "3",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "4",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "M5",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "5",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "6",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "7",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "M8",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "8",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "9",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "10",
+        "x": "42",
+        "y": "38"
+      },
+      {
+        "floor": "11",
+        "x": "42",
+        "y": "38"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内中央エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "41",
+        "y": "43"
+      },
+      {
+        "floor": "B1",
+        "x": "41",
+        "y": "43"
+      },
+      {
+        "floor": "1",
+        "x": "41",
+        "y": "43"
+      },
+      {
+        "floor": "2",
+        "x": "41",
+        "y": "43"
+      },
+      {
+        "floor": "M3",
+        "x": "41",
+        "y": "43"
+      },
+      {
+        "floor": "3",
+        "x": "41",
+        "y": "43"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内南エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "3",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "4",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "M5",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "5",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "6",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "7",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "M8",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "8",
+        "x": "33",
+        "y": "46"
+      },
+      {
+        "floor": "9",
+        "x": "33",
+        "y": "46"
+      }
+    ]
+  },
+  {
+    "name": "ポルタ左上階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "40",
+        "y": "26"
+      },
+      {
+        "floor": "1",
+        "x": "40",
+        "y": "26"
+      }
+    ]
+  },
+  {
+    "name": "中央口ポルタ左階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "40",
+        "y": "35"
+      },
+      {
+        "floor": "1",
+        "x": "40",
+        "y": "35"
+      }
+    ]
+  },
+  {
+    "name": "中央口ポルタ中央階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "55",
+        "y": "35"
+      },
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "35"
+      }
+    ]
+  },
+  {
+    "name": "中央口ポルタ右階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": "69",
+        "y": "35"
+      },
+      {
+        "floor": "1",
+        "x": "69",
+        "y": "35"
+      }
+    ]
+  },
+  {
+    "name": "0番ホームエスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "48"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "48"
+      }
+    ]
+  },
+  {
+    "name": "0番ホーム階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "49"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "49"
+      }
+    ]
+  },
+  {
+    "name": "2,3番ホームエスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "53"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "53"
+      }
+    ]
+  },
+  {
+    "name": "2,3番ホーム階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "54"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "54"
+      }
+    ]
+  },
+  {
+    "name": "4,5番ホームエスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "58"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "58"
+      }
+    ]
+  },
+  {
+    "name": "4,5番ホーム階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "59"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "59"
+      }
+    ]
+  },
+  {
+    "name": "6,7番ホームエスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "62"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "62"
+      }
+    ]
+  },
+  {
+    "name": "6,7番ホーム階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "63"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "63"
+      }
+    ]
+  },
+  {
+    "name": "8,9,10ホームエスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "66"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "66"
+      }
+    ]
+  },
+  {
+    "name": "8,9,10ホーム階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "55",
+        "y": "67"
+      },
+      {
+        "floor": "2",
+        "x": "55",
+        "y": "67"
+      }
+    ]
+  },
+  {
+    "name": "新幹線コンコースエスカレーター1",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "52",
+        "y": "71"
+      },
+      {
+        "floor": "3",
+        "x": "52",
+        "y": "71"
+      }
+    ]
+  },
+  {
+    "name": "新幹線コンコース階段1",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "52",
+        "y": "72"
+      },
+      {
+        "floor": "3",
+        "x": "52",
+        "y": "72"
+      }
+    ]
+  },
+  {
+    "name": "新幹線コンコースエスカレーター2",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "52",
+        "y": "74"
+      },
+      {
+        "floor": "3",
+        "x": "52",
+        "y": "74"
+      }
+    ]
+  },
+  {
+    "name": "新幹線コンコース階段2",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "52",
+        "y": "75"
+      },
+      {
+        "floor": "3",
+        "x": "52",
+        "y": "75"
+      }
+    ]
+  },
+  {
+    "name": "新幹線八条口改札内エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "59",
+        "y": "71"
+      },
+      {
+        "floor": "2",
+        "x": "59",
+        "y": "71"
+      }
+    ]
+  },
+  {
+    "name": "新幹線八条口改札内階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": true,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": "59",
+        "y": "72"
+      },
+      {
+        "floor": "2",
+        "x": "59",
+        "y": "72"
+      }
+    ]
+  },
+  {
+    "name": "地下鉄南改札口内エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B3",
+        "x": "80",
+        "y": "62"
+      },
+      {
+        "floor": "B2",
+        "x": "80",
+        "y": "62"
+      }
+    ]
+  },
+  {
+    "name": "地下鉄中央２改札口内エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B3",
+        "x": "79",
+        "y": "50"
+      },
+      {
+        "floor": "B2",
+        "x": "79",
+        "y": "50"
+      }
+    ]
+  },
+  {
+    "name": "地下鉄中央２改札口内階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B3",
+        "x": "80",
+        "y": "50"
+      },
+      {
+        "floor": "B2",
+        "x": "80",
+        "y": "50"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内南エスカレーター2",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "9",
+        "x": "24",
+        "y": "46"
+      },
+      {
+        "floor": "10",
+        "x": "24",
+        "y": "46"
+      },
+      {
+        "floor": "11",
+        "x": "24",
+        "y": "46"
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内中央エスカレーター",
+    "name_en": null,
+    "type": "1",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "3",
+        "x": "35",
+        "y": "44"
+      },
+      {
+        "floor": "4",
+        "x": "32",
+        "y": "44"
+      },
+      {
+        "floor": "5",
+        "x": "29",
+        "y": "44"
+      },
+      {
+        "floor": "6",
+        "x": "27",
+        "y": "44"
+      },
+      {
+        "floor": "7",
+        "x": "23",
+        "y": "44"
+      },
+      {
+        "floor": "8",
+        "x": "21",
+        "y": "44"
+      },
+      {
+        "floor": "9",
+        "x": "17",
+        "y": "44"
+      },
+      {
+        "floor": "10",
+        "x": "14",
+        "y": "44"
+      },
+      {
+        "floor": "11",
+        "x": "12",
+        "y": "44"
+      }
+    ]
+  },
+  {
+    "name": "3F・4F往来階段",
+    "name_en": null,
+    "type": "3",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "3",
+        "x": "55",
+        "y": "48"
+      },
+      {
+        "floor": "4",
+        "x": "55",
+        "y": "48"
+      }
+    ]
+  }
+]

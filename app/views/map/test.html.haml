@@ -1,0 +1,27 @@
+:javascript
+  var showAlert = function(tr_num, td_num){
+      id = tr_num +'_'+ td_num;
+      var elem = document.getElementById(id);
+      alert(tr_num + ',' + td_num)
+      // elem.select();
+      // document.execCommand("copy");
+  }
+
+%h2 構内地図
+%div
+  フロア：
+  %select#floorSelect{:onchange => "floormapChange()"}
+    %option B3
+    %option B2
+    %option B1
+    %option{:selected => "selected"} 1
+    %option 2
+    %option 3
+  %br/
+%div{style: "position: relative;"}
+  %img{src: "/map1.png"}
+  - 100.times do |tr_num|
+    - 100.times do |td_num|
+      - str = "#{(tr_num)}_#{(td_num)}"
+      %div{id: "#{(str)}", onclick:"clipboadCopy(#{(tr_num)},#{(td_num)});", style: "position:absolute; top:#{(td_num)*20}px; left:#{(tr_num)*20}px; width: 19px; height: 19px; border:solid 1px #DDD;"}
+        -# = "#{td_num}, #{tr_num}"

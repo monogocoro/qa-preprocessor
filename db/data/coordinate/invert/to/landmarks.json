@@ -1,0 +1,632 @@
+[
+  {
+    "name": "中央口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "1",
+      "x": 41,
+      "y": 55
+    }
+  },
+  {
+    "name": "八条東口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "1",
+      "x": 21,
+      "y": 28
+    }
+  },
+  {
+    "name": "新幹線八条東口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "1",
+      "x": 24,
+      "y": 27
+    }
+  },
+  {
+    "name": "新幹線八条口改札",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "1",
+      "x": 44,
+      "y": 28
+    }
+  },
+  {
+    "name": "西洞院口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "1",
+      "x": 100,
+      "y": 51
+    }
+  },
+  {
+    "name": "新幹線中央口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "2",
+      "x": 47,
+      "y": 38
+    }
+  },
+  {
+    "name": "近鉄改札口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "2",
+      "x": 60,
+      "y": 27
+    }
+  },
+  {
+    "name": "新幹線中央乗換口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "2",
+      "x": 50,
+      "y": 26
+    }
+  },
+  {
+    "name": "新幹線東乗換口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "2",
+      "x": 27,
+      "y": 27
+    }
+  },
+  {
+    "name": "西口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "2",
+      "x": 49,
+      "y": 44
+    }
+  },
+  {
+    "name": "地下中央口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "b1",
+      "x": 41,
+      "y": 61
+    }
+  },
+  {
+    "name": "地下鉄東口",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "b2",
+      "x": 23,
+      "y": 58
+    }
+  },
+  {
+    "name": "地下鉄中央口1",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "b2",
+      "x": 20,
+      "y": 65
+    }
+  },
+  {
+    "name": "地下鉄中央口2",
+    "priority": "1",
+    "type": "41",
+    "end_point": {
+      "floor": "b2",
+      "x": 21,
+      "y": 53
+    }
+  },
+  {
+    "name": "JR京都駅キャリーサービス Crosta京都",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b1",
+      "x": 42,
+      "y": 55
+    }
+  },
+  {
+    "name": "西改札内コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "2",
+      "x": 48,
+      "y": 35
+    }
+  },
+  {
+    "name": "西改札口自由連絡通路コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "2",
+      "x": 52,
+      "y": 49
+    }
+  },
+  {
+    "name": "八条口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 25,
+      "y": 26
+    }
+  },
+  {
+    "name": "京都劇場下コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 17,
+      "y": 63
+    }
+  },
+  {
+    "name": "鳥丸口（B）コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 32,
+      "y": 60
+    }
+  },
+  {
+    "name": "10番線（A）コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 21,
+      "y": 30
+    }
+  },
+  {
+    "name": "鳥丸口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 57,
+      "y": 65
+    }
+  },
+  {
+    "name": "鳥丸口定期観光バス乗り場コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 56,
+      "y": 69
+    }
+  },
+  {
+    "name": "中央改札内コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "1",
+      "x": 49,
+      "y": 54
+    }
+  },
+  {
+    "name": "地下一階（F）コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b1",
+      "x": 27,
+      "y": 61
+    }
+  },
+  {
+    "name": "地下鉄南改札口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 19,
+      "y": 39
+    }
+  },
+  {
+    "name": "JR地下改札内8,9番線コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 22,
+      "y": 42
+    }
+  },
+  {
+    "name": "JR地下東口改札外コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 24,
+      "y": 61
+    }
+  },
+  {
+    "name": "A1出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 12,
+      "y": 71
+    }
+  },
+  {
+    "name": "A3出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 11,
+      "y": 78
+    }
+  },
+  {
+    "name": "B7出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 44,
+      "y": 70
+    }
+  },
+  {
+    "name": "C1出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 60,
+      "y": 73
+    }
+  },
+  {
+    "name": "C3出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 58,
+      "y": 77
+    }
+  },
+  {
+    "name": "C9出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 69,
+      "y": 78
+    }
+  },
+  {
+    "name": "B8出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 43,
+      "y": 72
+    }
+  },
+  {
+    "name": "B12階段横コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 47,
+      "y": 81
+    }
+  },
+  {
+    "name": "1番出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 23,
+      "y": 87
+    }
+  },
+  {
+    "name": "2番出口コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 27,
+      "y": 86
+    }
+  },
+  {
+    "name": "北改札コインロッカー",
+    "priority": "1",
+    "type": "19",
+    "end_point": {
+      "floor": "b2",
+      "x": 23,
+      "y": 81
+    }
+  },
+  {
+    "name": "京都駅烏丸口 (一般)タクシーのりば",
+    "priority": "1",
+    "type": "45",
+    "end_point": {
+      "floor": "1",
+      "x": 26,
+      "y": 69
+    }
+  },
+  {
+    "name": "MKタクシー 京都駅八条口のりば",
+    "priority": "1",
+    "type": "45",
+    "end_point": {
+      "floor": "1",
+      "x": 50,
+      "y": 8
+    }
+  },
+  {
+    "name": "京都駅八条口タクシー乗り場",
+    "priority": "1",
+    "type": "45",
+    "end_point": {
+      "floor": "1",
+      "x": 63,
+      "y": 22
+    }
+  },
+  {
+    "name": "京都駅烏丸口 タクシーおりば",
+    "priority": "1",
+    "type": "45",
+    "end_point": {
+      "floor": "1",
+      "x": 17,
+      "y": 74
+    }
+  },
+  {
+    "name": "セブン‐イレブンハートインJR京都駅地下東口",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "b2",
+      "x": 21,
+      "y": 34
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅西口改札内店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 48,
+      "y": 46
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅0番のりば東店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 39,
+      "y": 47
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅0番のりば西店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 69,
+      "y": 51
+    }
+  },
+  {
+    "name": "セブン-イレブン ハートインＪＲ京都駅東塩小路店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 90,
+      "y": 65
+    }
+  },
+  {
+    "name": "セブン-イレブン ハートインＪＲ京都駅中央改札口店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 44,
+      "y": 60
+    }
+  },
+  {
+    "name": "セブン-イレブン ハートインＪＲ京都駅東口改札内店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 37,
+      "y": 38
+    }
+  },
+  {
+    "name": "セブン-イレブン ハートイン京都地下鉄京都駅南口店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "b2",
+      "x": 21,
+      "y": 34
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅2番のりば店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 40,
+      "y": 47
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅4番のりば店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 40,
+      "y": 41
+    }
+  },
+  {
+    "name": "セブン-イレブン キヨスクＪＲ京都駅30番のりば店",
+    "priority": "1",
+    "type": "154",
+    "end_point": {
+      "floor": "1",
+      "x": 70,
+      "y": 51
+    }
+  },
+  {
+    "name": "みどりの窓口　烏丸中央口改札東",
+    "priority": "1",
+    "type": "98",
+    "end_point": {
+      "floor": "1",
+      "x": 34,
+      "y": 58
+    }
+  },
+  {
+    "name": "みどりの窓口　西口改札横",
+    "priority": "1",
+    "type": "98",
+    "end_point": {
+      "floor": "2",
+      "x": 53,
+      "y": 40
+    }
+  },
+  {
+    "name": "みどりの窓口　西口改札内横",
+    "priority": "1",
+    "type": "98",
+    "end_point": {
+      "floor": "2",
+      "x": 48,
+      "y": 40
+    }
+  },
+  {
+    "name": "みどりの窓口　新幹線中央口改札",
+    "priority": "1",
+    "type": "98",
+    "end_point": {
+      "floor": "2",
+      "x": 51,
+      "y": 28
+    }
+  },
+  {
+    "name": "みどりの窓口　新幹線八条口横",
+    "priority": "1",
+    "type": "98",
+    "end_point": {
+      "floor": "1",
+      "x": 47,
+      "y": 28
+    }
+  },
+  {
+    "name": "券売機　JR京都駅地下東口前",
+    "priority": "1",
+    "type": "17",
+    "end_point": {
+      "floor": "1",
+      "x": 18,
+      "y": 60
+    }
+  },
+  {
+    "name": "トラベレックス TiS京都店",
+    "priority": "1",
+    "type": "22",
+    "end_point": {
+      "floor": "1",
+      "x": 36,
+      "y": 60
+    }
+  },
+  {
+    "name": "外貨両替専門店ワールドカレンシーショップ京都駅ビル店",
+    "priority": "1",
+    "type": "22",
+    "end_point": {
+      "floor": "8",
+      "x": 58,
+      "y": 55
+    }
+  },
+  {
+    "name": "トラベレックスジャパン 京都西口店",
+    "priority": "1",
+    "type": "22",
+    "end_point": {
+      "floor": "2",
+      "x": 52,
+      "y": 46
+    }
+  }
+]

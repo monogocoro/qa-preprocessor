@@ -1,0 +1,91 @@
+:javascript
+  var selectFloor = 1
+  var floormapChange = function() {
+      selectFloor = $("#floorSelect").val();
+      $("#floorLevel").val(selectFloor);
+
+      var elem = document.getElementById("floormap");
+      elem.src = "/map" + selectFloor + "F.png";
+  }
+  var showAlert = function(tr_num, td_num){
+      id = tr_num +'_'+ td_num;
+      var elem = document.getElementById(id);
+      alert(selectFloor + ',' +  tr_num + ',' + td_num)
+  }
+
+  //グリッドデータをアップロード
+  var upMapFile;
+  function gridDataUploadInit() {
+      upMapFile = document.getElementById("map_upload");
+      upMapFile.addEventListener("change", uploadMapFileRead);
+  }
+
+  function uploadMapFileRead(e) {
+      var reader = new FileReader();
+      reader.readAsText(e.target.files[0]);
+
+      reader.addEventListener("load", function() {
+          var aryData = reader.result.split("\n");    //1行ずつ分割し配列に格納
+
+          for(var col = 0, len = aryData.length; col < len; col++) {
+              // [ と ],　を削除
+              aryData[col] = aryData[col].replace("[", "");
+              aryData[col] = aryData[col].replace("],", "");
+
+              // , 区切りを分割し配列に格納
+              var aryRow = aryData[col].split(",");
+              for(var row = 0, len = aryRow.length; row < len; row++) {
+                  var color = aryRow[row];
+
+                  var id = row + "_" + col;
+                  var elem = document.getElementById(id);
+                  var style = elem.style;
+
+                  if(color == 0) {
+                      style.backgroundColor = 'black';
+                  }
+                  else {
+                      style.backgroundColor = 'transparent';
+                  }
+              }
+          }
+
+      });
+  }
+
+%h2 構内地図
+%p
+  地形データUpload
+  %input#map_upload{type:"file"}
+%div
+  フロア：
+  %select#floorSelect{:onchange => "floormapChange()"}
+    %option b3
+    %option b2
+    %option b1
+    %option{:selected => "selected"} 1
+    %option 2
+    %option m3
+    %option 3
+    %option 4
+    %option m5
+    %option 5
+    %option 6
+    %option 7
+    %option m8
+    %option 8
+    %option 9
+    %option 10
+    %option 11
+    %option r
+    %option 15
+  %br/
+%div{style: "position: relative;"}
+  %img#floormap{src: "/map1F.png"}
+  - 100.times do |tr_num|
+    - 100.times do |td_num|
+      - str = "#{(tr_num)}_#{(td_num)}"
+      %div{id: "#{(str)}", onclick:"showAlert(#{(tr_num)},#{(td_num)});", style: "position:absolute; top:#{(td_num)*20}px; left:#{(tr_num)*20}px; width: 19px; height: 19px; border:solid 1px #DDD;"}
+        -# = "#{td_num}, #{tr_num}"
+:javascript
+  gridDataUploadInit();

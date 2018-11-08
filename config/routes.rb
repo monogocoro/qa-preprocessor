@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
   get 'map/show'
+  get 'map/test'
+  get 'map/test2f'
+  get 'map/landform'
+  get 'map/landform2f'
+  get 'map/xy'
 
   get 'paraphrase/:sentence', to: 'analysis#paraphrase'
   get 'complement/:sentence', to: 'analysis#complement'
@@ -9,6 +14,7 @@ Rails.application.routes.draw do
   get 'ja2en/:sentence', to: 'analysis#ja2en'
   get 'en2ja/:sentence', to: 'analysis#en2ja'
   get 'translation/:data', to: 'translation#perform'
+
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end

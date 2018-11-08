@@ -11,4 +11,17 @@ class MapController < ApplicationController
     @has_2f = results.select{|result| result[0] == '1' && result[1] == '2'}.present?
     @numbers = results.map{|result| result[0] + ',' + result[1] + ',' + result[2] + ',' + result[3]}
   end
+
+  def test
+  end
+  def test2f
+  end
+
+  def landform
+  end
+  def landform2f
+  end
+
+  def xy
+  end
 end
