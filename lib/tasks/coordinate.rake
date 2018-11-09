@@ -3,7 +3,7 @@ namespace :coordinate do
   task :invert do
 
     def invert(item)
-      100 - item.to_i
+      99 - item.to_i
     end
 
     # Stairを反転

@@ -1,0 +1,207 @@
+place,JR在来線・各改札内（西洞院口含む）,zairaisenkakukaisatsunai(nishinotoinguchifukumu)
+place,JR新幹線・各改札内（乗り換え口含む）,shinkansenkakukaisatsunai(norikaeguchifukumu)
+place,近鉄・改札内,kintetsukaisatsunai
+place,京都市営地下鉄・改札内,kyotoshieichikatetsukaisatsunai
+place,京都総合観光案内所（亰なび）,kyotosogokankoannaisho(na)
+place,京都駅 屋上展望台,kyotoekiokujotembodai
+place,烏丸小路広場,karasumakojihiroba
+place,京都駅・空中経路,kyotoekikuchukeiro
+place,京都駅屋上・大空広場,kyotoekiokujoozorahiroba
+place,南北自由通路,nambokujiyutsuro
+place,地下自由通路,chikajiyutsuro
+place,東駐車場,higashichushajo
+place,西駐車場（第一/第二）,nishichushajo(daiichidaini)
+place,近鉄名店街みやこみち,kintetsumeitengaimiyakomichi
+place,Time’s Place 京都（近鉄京都駅改札内）,'kyoto(kintetsukyotoekikaisatsunai)
+place,和食小路,washokukoji
+place,京都劇場,kyotogekijo
+place,京都拉麺小路,kyotokoji
+place,おみやげ街道,omiyagekaido
+place,鉄道案内所,tetsudoannaisho
+place,京都総合観光案内所,kyotosogokankoannaisho
+place,中央口,chuoguchi
+place,八条東口,hachijohigashiguchi
+place,新幹線八条東口,shinkansenhachijohigashiguchi
+place,新幹線八条口改札,shinkansenhachijoguchikaisatsu
+place,西洞院口,nishinotoinguchi
+place,新幹線中央口,shinkansenchuoguchi
+place,近鉄改札口,kintetsukaisatsuguchi
+place,新幹線中央乗換口,shinkansenchuonorikaeguchi
+place,新幹線東乗換口,shinkansenhigashinorikaeguchi
+place,西口,nishiguchi
+place,地下中央口,chikachuoguchi
+place,地下鉄東口,chikatetsuhigashiguchi
+place,地下鉄中央口1,chikatetsuchuoguchi
+place,地下鉄中央口2,chikatetsuchuoguchi
+place,西改札内,nishikaisatsunai
+place,西改札口自由連絡通路,nishikaisatsuguchijiyurenrakutsuro
+place,八条口,hachijoguchi
+place,京都劇場下,kyotogekijoka
+place,鳥丸口（B）,torimaruguchi()
+place,10番線（A）,bansen()
+place,鳥丸口,torimaruguchi
+place,中央改札内,chuokaisatsunai
+place,地下一階（F）,chikaichikai()
+place,地下鉄南改札口,chikatetsuminamikaisatsuguchi
+place,"JR地下改札内8,9番線",chikakaisatsunaibansen
+place,JR地下東口改札外,chikahigashiguchikaisatsugai
+place,A1出口,deguchi
+place,A3出口,deguchi
+place,B7出口,deguchi
+place,C1出口,deguchi
+place,C3出口,deguchi
+place,C9出口,deguchi
+place,B8出口,deguchi
+place,B12階段横,kaidanyoko
+place,1番出口,bandeguchi
+place,2番出口,bandeguchi
+place,北改札,kitakaisatsu
+place,三菱UFJ銀行京都駅前支店,mitsubishiginkokyotoekizenshiten
+place,京都銀行 京都駅前支店,kyotoginkokyotoekizenshiten
+place,京都中央信用金庫 八条口支店,kyotochuoshinyokinkohachijoguchishiten
+place,三井住友銀行 JR京都駅出張所,mitsuisumitomoginkokyotoekishucchosho
+place,ゆうちょ銀行大阪支店ＪＲ京都駅内出張所,yuuchoginkoosakashitenjeiarukyotoekinaishucchosho
+place,りそな銀行 JR京都駅出張所 無人ATM,risonaginkokyotoekishucchoshomujin
+place,みずほ銀行ATM 京都駅八条口出張所,mizuhoginkokyotoekihachijoguchishucchosho
+place,ゆうちょ銀行大阪支店 近鉄京都駅構内出張所,yuuchoginkoosakashitenkintetsukyotoekikonaishucchosho
+place,京都信用金庫,kyotoshinyokinko
+place,三井住友銀行,mitsuisumitomoginko
+place,京都中央信用金庫,kyotochuoshinyokinko
+place,ゆうちょ銀行,yuuchoginko
+place,南都銀行,nantoginko
+place,京都銀行,kyotoginko
+place,滋賀銀行,shigaginko
+place,京都信用金庫 近鉄名店街みやこみち出張所,kyotoshinyokinkokintetsumeitengaimiyakomichishucchosho
+place,牛たん 伊之助,ushitaninosuke
+place,京料理 栄寿庵,kyoryorieijuan
+place,八丁味處 串の坊,hacchomikushinobo
+place,京都ことこと,kyotokotokoto
+place,名代とんかつ かつくら,nadaitonkatsukatsukura
+place,京・四条 田ごと,kyoshijotagoto
+place,京都 錦わらい,kyotonishikiwarai
+place,葵茶屋,aoichaya
+place,和幸,kazumiyuki
+place,京都和久傳,kyotowagutsuto
+place,點心茶室,chashitsu
+place,美々卯,yoshiu
+place,天一,tenichi
+place,西櫻亭,nishisakuratei
+place,美菜莉,yoshisai
+place,京豆腐不二乃,kyotofufuni
+place,築地寿司清,tsukijisushikiyoshi
+place,松山閣,matsuyama
+place,加賀屋,kagaya
+place,市場小路,shijokoji
+place,炭火串焼きこけこっこ,sumibikushiyakikokekokko
+place,柿安三尺三寸箸,kakiansanshakusansunhashi
+place,茶寮都路里,saryomiyakojisato
+place,はしたて,hashitate
+place,中村藤吉本店 京都駅店,nakamuratokichihontenkyotoekiten
+place,白樺山荘,shirakambasanso
+place,東横,higashiyoko
+place,大勝軒,taishonoki
+place,阪内食堂,sakanaishokudo
+place,麺屋いろは,menyairoha
+place,ますたに,masutani
+place,きんせい,kinsei
+place,博多一幸舎,hakataichikosha
+place,京料理 萬重,kyoryoriyorozushigeru
+place,こなな,konana
+place,洋麺屋五右衛門,yomenyagoemon
+place,冨士屋,fujiya
+place,串かふぇ 凡凡屋,kushikafuya
+place,田ごと,tagoto
+place,めん、色いろ。いつでも、おやつ,meniroiroitsudemooyatsu
+place,だし茶漬け えん,dashichazukeen
+place,京阿月,kyoatsuki
+place,とんかつ KYK,tonkatsu
+place,お好み焼き 町や。,okonomiyakimachiya
+place,味彩や,ajiirodoriya
+place,四川餐館,shisen
+place,杵屋,kineya
+place,らーめん かんじん堂 熊五郎,ramenkanjindokumagoro
+place,味味香,ajiajika
+place,北極星,hokkyokusei
+place,一風堂,ippudo
+place,宮崎酒場　ゑびす,miyazakisakaba
+place,金沢まいもん寿司,kanazawamaimonsushi
+place,旬彩和食 たちばな,shunirodoriwashokutachibana
+place,中村藤吉　京都駅店,nakamuratokichikyotoekiten
+place,FUKUNAGA901,""
+place,鉄板焼 五山望,teppanyakigosammochi
+place,中国料理 六本木樓外樓,chugokuryori
+place,日本料理 京都吉兆,nipponryorikyotokiccho
+place,天婦羅処 京林泉,tenfuratokorokyorinsen
+place,日本料理 浮橋,nipponryoriukihashi
+place,すし割烹 浮橋,sushikappoukihashi
+place,地酒焼肴 浮橋,jizakeyakizakanaukihashi
+place,がんこ,ganko
+place,京やさい料理 接方来,kyoyasairyorisekkatarai
+place,京都木村屋本店,kyotokimurayahonten
+place,そば酒房 徳兵衛,sobashubotokube
+place,竈炊き立てごはん土井,kamadotakitategohandoi
+place,寿しのむさし,sushinomusashi
+place,原了郭,hararyokaku
+place,くらま,kurama
+place,江戸川 京都店,edogawakyototen
+place,とり八,torihachi
+place,孫兵衛,magohyoe
+place,おそば処　葵,osobashoaoi
+place,京都生そば　もり平,kyotoseisobamoritaira
+place,旬菜Dining 悠　Yu,shunsaiyu
+place,すし昌,sushiakira
+place,四川料理 洛楽,shisenryorirakuraku
+place,粋花KYK,ikihana
+place,侘家三昧,wabikasammai
+place,京　とんちん亭,kyotonchintei
+place,京和食 いち藤,kyowashokuichifuji
+place,GRILL AND BAR　東洋亭,toyotei
+place,京喫茶 潤,kyokissajun
+place,烏丸中央口改札東,karasumachuoguchikaisatsuhigashi
+place,西口改札横,nishiguchikaisatsuyoko
+place,西口改札内横,nishiguchikaisatsunaiyoko
+place,新幹線中央口改札,shinkansenchuoguchikaisatsu
+place,新幹線八条口横,shinkansenhachijoguchiyoko
+place,JR京都駅地下東口前,kyotoekichikahigashiguchimae
+place,京都中央郵便局,kyotochuoyubinkyoku
+place,京都駅八条口郵便局（窓口の時間）,kyotoekihachijoguchiyubinkyoku(madoguchinojikan)
+place,おみやげ街道ＪＲ京都駅西口店,omiyagekaidojeiarukyotoekinishiguchiten
+place,おみやげ街道ＪＲ京都西口改札内店,omiyagekaidojeiarukyotonishiguchikaisatsunaiten
+place,定家,sadaie
+place,京ぽんと 伏水菓蔵,kyopontofukusui
+place,京都駅八条口を出てすぐ,kyotoekihachijoguchiwodetesugu
+place,京都駅0番線の山科側,kyotoekibansennoyamashinagawa
+place,近鉄京都駅構内,kintetsukyotoekikonai
+place,東広場,higashihiroba
+place,鳥丸小路広場,torimarukojihiroba
+place,南広場,minamihiroba
+place,大階段,daikaidan
+place,京都拉麺小路,kyotokoji
+place,室町小路広場,muromachikojihiroba
+place,大空広場,ozorahiroba
+place,中央口北東階段1,chuoguchihokutokaidan
+place,中央口北東階段2,chuoguchihokutokaidan
+place,中央口前階段1,chuokuchimaekaidan
+place,中央口前階段2,chuokuchimaekaidan
+place,Avanti連絡階段,renrakukaidan
+place,南北連絡口南階段1,nambokurenrakuguchiminamikaidan
+place,南北連絡口南階段2,nambokurenrakuguchiminamikaidan
+place,みやこみち内階段,miyakomichinaikaidan
+place,地下連絡通路階段,chikarenrakutsurokaidan
+place,大階段1,daikaidan
+place,大階段2,daikaidan
+place,伊勢丹内北階段1,isetannaikitakaidan
+place,伊勢丹内北階段2,isetannaikitakaidan
+place,新幹線八条口改札内階段,shinkansenhachijoguchikaisatsunaikaidan
+place,地下鉄中央２改札口内階段,chikatetsuchuonikaisatsukonaikaidan
+place,ＨＩＫＡＲＩ,""
+place,さくら薬局 京都駅前店,sakurayakkyokukyotoekimaeten
+place,ほのか薬局,honokayakkyoku
+place,京お弁当,kyoobento
+place,授乳室 京都伊勢丹７F,junyushitsukyotoisetannana
+place,中央口改札外　待合室,chuoguchikaisatsugaimachiaishitsu
+place,時の灯,tokinoakari
+place,ゐざさ ＪＲ京都駅（新幹線構内）,izasajeiarukyotoeki(shinkansenkonai)
+place,とり松,torimatsu
+place,551蓬莱 京都伊勢丹店,horaikyotoisetanten
+place,551蓬莱 JR京都駅店,horaikyotoekiten

@@ -1,309 +1,495 @@
 [
   {
     "name": "中央口北東エスカレーター1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "North-East Escalator 1 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 21,
-        "y": 63
+        "x": 20,
+        "y": 62
       },
       {
         "floor": "2",
-        "x": 21,
-        "y": 63
+        "x": 20,
+        "y": 62
       }
     ]
   },
   {
     "name": "中央口北東エスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "North-East Escalator 2 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 19,
-        "y": 63
+        "x": 18,
+        "y": 62
       },
       {
         "floor": "2",
-        "x": 19,
-        "y": 63
+        "x": 18,
+        "y": 62
       }
     ]
   },
   {
     "name": "中央口北東階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North-East Stairway 1 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 21,
-        "y": 61
+        "x": 20,
+        "y": 60
       },
       {
         "floor": "2",
-        "x": 21,
-        "y": 61
+        "x": 20,
+        "y": 60
       }
     ]
   },
   {
     "name": "中央口北東階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North-East Stairway 2 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 18,
-        "y": 61
+        "x": 17,
+        "y": 60
       },
       {
         "floor": "2",
-        "x": 18,
-        "y": 61
+        "x": 17,
+        "y": 60
       }
     ]
   },
   {
     "name": "中央口前階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Front Stairway 1 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B1",
-        "x": 42,
-        "y": 58
+        "x": 41,
+        "y": 57
       },
       {
         "floor": "1",
-        "x": 42,
-        "y": 58
+        "x": 41,
+        "y": 57
       }
     ]
   },
   {
     "name": "中央口前階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Front Stairway 2 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B1",
-        "x": 39,
-        "y": 58
+        "x": 38,
+        "y": 57
       },
       {
         "floor": "1",
-        "x": 39,
-        "y": 58
+        "x": 38,
+        "y": 57
       }
     ]
   },
   {
     "name": "南北連絡口南エスカレータ1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 1 at South-North Access Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 56,
-        "y": 22
+        "x": 55,
+        "y": 21
       },
       {
         "floor": "2",
-        "x": 56,
-        "y": 22
+        "x": 55,
+        "y": 21
       }
     ]
   },
   {
     "name": "Avanti連絡階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Avanti Connecting Stairway",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 20,
-        "y": 24
+        "x": 19,
+        "y": 23
       },
       {
         "floor": "1",
-        "x": 20,
-        "y": 24
+        "x": 19,
+        "y": 23
       }
     ]
   },
   {
     "name": "南北連絡口南階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "South Stair 1 at South-North Access Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 56,
-        "y": 21
+        "x": 55,
+        "y": 20
       },
       {
         "floor": "2",
-        "x": 56,
-        "y": 21
+        "x": 55,
+        "y": 20
       }
     ]
   },
   {
     "name": "南北連絡口南エレベータ",
-    "name_en": null,
-    "type": "2",
+    "name_en": "South Elevator at South-North Access Gate",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 56,
-        "y": 20
+        "x": 55,
+        "y": 19
       },
       {
         "floor": "2",
-        "x": 56,
-        "y": 20
+        "x": 55,
+        "y": 19
       }
     ]
   },
   {
     "name": "南北連絡口南エスカレータ2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 2 at South-North Access Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 51,
-        "y": 23
+        "x": 50,
+        "y": 22
       },
       {
         "floor": "2",
-        "x": 51,
-        "y": 23
+        "x": 50,
+        "y": 22
       }
     ]
   },
   {
     "name": "南北連絡口南階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "South Stairway at South-North Access Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 51,
-        "y": 22
+        "x": 50,
+        "y": 21
       },
       {
         "floor": "2",
-        "x": 51,
-        "y": 22
+        "x": 50,
+        "y": 21
       }
     ]
   },
   {
     "name": "みやこみち内階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway in Miyakomichi",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 62,
-        "y": 30
+        "x": 61,
+        "y": 29
       },
       {
         "floor": "2",
-        "x": 62,
-        "y": 30
+        "x": 61,
+        "y": 29
       }
     ]
   },
   {
     "name": "みやこみち内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator in Miyakomichi",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 62,
-        "y": 29
+        "x": 61,
+        "y": 28
       },
       {
         "floor": "2",
-        "x": 62,
-        "y": 29
+        "x": 61,
+        "y": 28
       }
     ]
   },
   {
     "name": "地下連絡通路階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway to Underground Mall",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 19,
-        "y": 26
+        "x": 18,
+        "y": 25
       },
       {
         "floor": "1",
-        "x": 19,
-        "y": 26
+        "x": 18,
+        "y": 25
       }
     ]
   },
   {
     "name": "大階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Large Stairway 1",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "1",
-        "x": 43,
+        "x": 42,
+        "y": 60
+      },
+      {
+        "floor": "2",
+        "x": 45,
+        "y": 60
+      },
+      {
+        "floor": "3",
+        "x": 49,
+        "y": 60
+      },
+      {
+        "floor": "4",
+        "x": 53,
+        "y": 60
+      },
+      {
+        "floor": "5",
+        "x": 57,
+        "y": 57
+      },
+      {
+        "floor": "6",
+        "x": 59,
+        "y": 56
+      },
+      {
+        "floor": "7",
+        "x": 62,
+        "y": 56
+      },
+      {
+        "floor": "8",
+        "x": 64,
+        "y": 56
+      },
+      {
+        "floor": "9",
+        "x": 66,
+        "y": 55
+      },
+      {
+        "floor": "10",
+        "x": 68,
+        "y": 53
+      },
+      {
+        "floor": "11",
+        "x": 70,
+        "y": 53
+      },
+      {
+        "floor": "R",
+        "x": 70,
+        "y": 55
+      }
+    ]
+  },
+  {
+    "name": "大階段2",
+    "name_en": "Large Stairway 2",
+    "type": "30",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": 37,
+        "y": 60
+      },
+      {
+        "floor": "2",
+        "x": 33,
+        "y": 60
+      },
+      {
+        "floor": "3",
+        "x": 28,
+        "y": 60
+      },
+      {
+        "floor": "4",
+        "x": 25,
+        "y": 60
+      },
+      {
+        "floor": "5",
+        "x": 25,
+        "y": 57
+      },
+      {
+        "floor": "7",
+        "x": 18,
+        "y": 60
+      },
+      {
+        "floor": "10",
+        "x": 19,
+        "y": 60
+      }
+    ]
+  },
+  {
+    "name": "中央口駅ビル中央エレベーター",
+    "name_en": "Central Gate Central Elevator",
+    "type": "28",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B3",
+        "x": 45,
+        "y": 61
+      },
+      {
+        "floor": "B2",
+        "x": 45,
+        "y": 61
+      },
+      {
+        "floor": "B1",
+        "x": 45,
+        "y": 61
+      },
+      {
+        "floor": "1",
+        "x": 45,
         "y": 61
       },
       {
         "floor": "2",
-        "x": 46,
+        "x": 45,
+        "y": 61
+      }
+    ]
+  },
+  {
+    "name": "中央口東エレベーター",
+    "name_en": "Central Gate East Elevator",
+    "type": "28",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "1",
+        "x": 10,
+        "y": 59
+      },
+      {
+        "floor": "2",
+        "x": 10,
+        "y": 59
+      },
+      {
+        "floor": "7",
+        "x": 10,
+        "y": 59
+      }
+    ]
+  },
+  {
+    "name": "伊勢丹内北階段1",
+    "name_en": "North Stairway 1 in Isetan",
+    "type": "30",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": 54,
+        "y": 61
+      },
+      {
+        "floor": "B1",
+        "x": 54,
+        "y": 61
+      },
+      {
+        "floor": "1",
+        "x": 54,
+        "y": 61
+      },
+      {
+        "floor": "2",
+        "x": 54,
+        "y": 61
+      },
+      {
+        "floor": "M3",
+        "x": 54,
         "y": 61
       },
       {
         "floor": "3",
-        "x": 50,
+        "x": 54,
         "y": 61
       },
       {
@@ -312,1034 +498,848 @@
         "y": 61
       },
       {
-        "floor": "5",
-        "x": 58,
-        "y": 58
-      },
-      {
-        "floor": "6",
-        "x": 60,
-        "y": 57
-      },
-      {
-        "floor": "7",
-        "x": 63,
-        "y": 57
-      },
-      {
-        "floor": "8",
-        "x": 65,
-        "y": 57
-      },
-      {
-        "floor": "9",
-        "x": 67,
-        "y": 56
-      },
-      {
-        "floor": "10",
-        "x": 69,
-        "y": 54
-      },
-      {
-        "floor": "11",
-        "x": 71,
-        "y": 54
-      },
-      {
-        "floor": "R",
-        "x": 71,
-        "y": 56
-      }
-    ]
-  },
-  {
-    "name": "大階段2",
-    "name_en": null,
-    "type": "3",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "1",
-        "x": 38,
-        "y": 61
-      },
-      {
-        "floor": "2",
-        "x": 34,
-        "y": 61
-      },
-      {
-        "floor": "3",
-        "x": 29,
-        "y": 61
-      },
-      {
-        "floor": "4",
-        "x": 26,
-        "y": 61
-      },
-      {
-        "floor": "5",
-        "x": 26,
-        "y": 58
-      },
-      {
-        "floor": "7",
-        "x": 19,
-        "y": 61
-      },
-      {
-        "floor": "10",
-        "x": 20,
-        "y": 61
-      }
-    ]
-  },
-  {
-    "name": "中央口駅ビル中央エレベーター",
-    "name_en": null,
-    "type": "2",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "B3",
-        "x": 46,
-        "y": 62
-      },
-      {
-        "floor": "B2",
-        "x": 46,
-        "y": 62
-      },
-      {
-        "floor": "B1",
-        "x": 46,
-        "y": 62
-      },
-      {
-        "floor": "1",
-        "x": 46,
-        "y": 62
-      },
-      {
-        "floor": "2",
-        "x": 46,
-        "y": 62
-      }
-    ]
-  },
-  {
-    "name": "中央口東エレベーター",
-    "name_en": null,
-    "type": "2",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "1",
-        "x": 11,
-        "y": 60
-      },
-      {
-        "floor": "2",
-        "x": 11,
-        "y": 60
-      },
-      {
-        "floor": "7",
-        "x": 11,
-        "y": 60
-      }
-    ]
-  },
-  {
-    "name": "伊勢丹内北階段1",
-    "name_en": null,
-    "type": "3",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "B2",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "B1",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "1",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "2",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "M3",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "3",
-        "x": 55,
-        "y": 62
-      },
-      {
-        "floor": "4",
-        "x": 55,
-        "y": 62
-      },
-      {
         "floor": "M5",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "5",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "6",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "7",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "M8",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "8",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "9",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "10",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       },
       {
         "floor": "11",
-        "x": 55,
-        "y": 62
+        "x": 54,
+        "y": 61
       }
     ]
   },
   {
     "name": "伊勢丹内北階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North Stairway 1 in Isetan    ★同じ？",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 52,
-        "y": 62
+        "x": 51,
+        "y": 61
       },
       {
         "floor": "B1",
-        "x": 52,
-        "y": 62
+        "x": 51,
+        "y": 61
       },
       {
         "floor": "1",
-        "x": 52,
-        "y": 62
+        "x": 51,
+        "y": 61
       }
     ]
   },
   {
     "name": "伊勢丹内南エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "South Elevator in Isetan",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "2",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "4",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "5",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "6",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "7",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "8",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "9",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "10",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       },
       {
         "floor": "11",
-        "x": 56,
-        "y": 53
+        "x": 55,
+        "y": 52
       }
     ]
   },
   {
     "name": "伊勢丹内北エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "North Elevator in Isetan",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "B1",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "1",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "2",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "M3",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "3",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "4",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "M5",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "5",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "6",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "7",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "M8",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "8",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "9",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "10",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       },
       {
         "floor": "11",
-        "x": 58,
-        "y": 62
+        "x": 57,
+        "y": 61
       }
     ]
   },
   {
     "name": "伊勢丹内中央エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Central escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       },
       {
         "floor": "B1",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       },
       {
         "floor": "1",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       },
       {
         "floor": "2",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       },
       {
         "floor": "M3",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       },
       {
         "floor": "3",
-        "x": 59,
-        "y": 57
+        "x": 58,
+        "y": 56
       }
     ]
   },
   {
     "name": "伊勢丹内南エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "2",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "3",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "4",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "M5",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "5",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "6",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "7",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "M8",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "8",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       },
       {
         "floor": "9",
-        "x": 67,
-        "y": 54
+        "x": 66,
+        "y": 53
       }
     ]
   },
   {
     "name": "ポルタ左上階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Upper Left Stairway",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 60,
-        "y": 74
+        "x": 59,
+        "y": 73
       },
       {
         "floor": "1",
-        "x": 60,
-        "y": 74
+        "x": 59,
+        "y": 73
       }
     ]
   },
   {
     "name": "中央口ポルタ左階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Left Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 60,
-        "y": 65
+        "x": 59,
+        "y": 64
       },
       {
         "floor": "1",
-        "x": 60,
-        "y": 65
+        "x": 59,
+        "y": 64
       }
     ]
   },
   {
     "name": "中央口ポルタ中央階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Center Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 45,
-        "y": 65
+        "x": 44,
+        "y": 64
       },
       {
         "floor": "1",
-        "x": 45,
-        "y": 65
+        "x": 44,
+        "y": 64
       }
     ]
   },
   {
     "name": "中央口ポルタ右階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Right Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 31,
-        "y": 65
+        "x": 30,
+        "y": 64
       },
       {
         "floor": "1",
-        "x": 31,
-        "y": 65
+        "x": 30,
+        "y": 64
       }
     ]
   },
   {
     "name": "0番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on platform 0",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 52
+        "x": 44,
+        "y": 51
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 52
+        "x": 44,
+        "y": 51
       }
     ]
   },
   {
     "name": "0番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 0",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 51
+        "x": 44,
+        "y": 50
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 51
+        "x": 44,
+        "y": 50
       }
     ]
   },
   {
     "name": "2,3番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalators on Platform 2 and 3",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 47
+        "x": 44,
+        "y": 46
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 47
+        "x": 44,
+        "y": 46
       }
     ]
   },
   {
     "name": "2,3番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 2 and 3",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 46
+        "x": 44,
+        "y": 45
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 46
+        "x": 44,
+        "y": 45
       }
     ]
   },
   {
     "name": "4,5番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalators on Platform 4 and 5",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 42
+        "x": 44,
+        "y": 41
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 42
+        "x": 44,
+        "y": 41
       }
     ]
   },
   {
     "name": "4,5番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 4 and 5",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 41
+        "x": 44,
+        "y": 40
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 41
+        "x": 44,
+        "y": 40
       }
     ]
   },
   {
     "name": "6,7番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on Platform 6 and 7",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 38
+        "x": 44,
+        "y": 37
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 38
+        "x": 44,
+        "y": 37
       }
     ]
   },
   {
     "name": "6,7番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 6 and 7",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 37
+        "x": 44,
+        "y": 36
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 37
+        "x": 44,
+        "y": 36
       }
     ]
   },
   {
     "name": "8,9,10ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on Platforms 8, 9 and 10",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 34
+        "x": 44,
+        "y": 33
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 34
+        "x": 44,
+        "y": 33
       }
     ]
   },
   {
     "name": "8,9,10ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 8, 9, and 10",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 45,
-        "y": 33
+        "x": 44,
+        "y": 32
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 33
+        "x": 44,
+        "y": 32
       }
     ]
   },
   {
     "name": "新幹線コンコースエスカレーター1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Shinkansen Concourse Escalator 1",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "2",
-        "x": 48,
-        "y": 29
+        "x": 47,
+        "y": 28
       },
       {
         "floor": "3",
-        "x": 48,
-        "y": 29
+        "x": 47,
+        "y": 28
       }
     ]
   },
   {
     "name": "新幹線コンコース階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Shinkansen concourse stairway 1",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "2",
-        "x": 48,
-        "y": 28
+        "x": 47,
+        "y": 27
       },
       {
         "floor": "3",
-        "x": 48,
-        "y": 28
+        "x": 47,
+        "y": 27
       }
     ]
   },
   {
     "name": "新幹線コンコースエスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Shinkansen concourse escalator 2",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "2",
-        "x": 48,
-        "y": 26
+        "x": 47,
+        "y": 25
       },
       {
         "floor": "3",
-        "x": 48,
-        "y": 26
+        "x": 47,
+        "y": 25
       }
     ]
   },
   {
     "name": "新幹線コンコース階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Shinkansen concourse stairway 2",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "2",
-        "x": 48,
-        "y": 25
+        "x": 47,
+        "y": 24
       },
       {
         "floor": "3",
-        "x": 48,
-        "y": 25
+        "x": 47,
+        "y": 24
       }
     ]
   },
   {
     "name": "新幹線八条口改札内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator inside Shinkansen Hachijo Ticket Gate",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 41,
-        "y": 29
+        "x": 40,
+        "y": 28
       },
       {
         "floor": "2",
-        "x": 41,
-        "y": 29
+        "x": 40,
+        "y": 28
       }
     ]
   },
   {
     "name": "新幹線八条口改札内階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway inside Shinkansen Hachijo Ticket Gate",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
       {
         "floor": "1",
-        "x": 41,
-        "y": 28
+        "x": 40,
+        "y": 27
       },
       {
         "floor": "2",
-        "x": 41,
-        "y": 28
+        "x": 40,
+        "y": 27
       }
     ]
   },
   {
     "name": "地下鉄南改札口内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator inside Subway South Ticket Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B3",
         "x": 20,
-        "y": 38
+        "y": 37
       },
       {
         "floor": "B2",
         "x": 20,
-        "y": 38
+        "y": 37
       }
     ]
   },
   {
     "name": "地下鉄中央２改札口内エスカレーター",
-    "name_en": null,
-    "type": "1",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "B3",
-        "x": 21,
-        "y": 50
-      },
-      {
-        "floor": "B2",
-        "x": 21,
-        "y": 50
-      }
-    ]
-  },
-  {
-    "name": "地下鉄中央２改札口内階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Escalators inside Subway Central Ticket Gate 2",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B3",
         "x": 20,
-        "y": 50
+        "y": 49
       },
       {
         "floor": "B2",
         "x": 20,
-        "y": 50
+        "y": 49
       }
     ]
   },
   {
     "name": "伊勢丹内南エスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 2 in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "9",
-        "x": 76,
-        "y": 54
+        "x": 75,
+        "y": 53
       },
       {
         "floor": "10",
-        "x": 76,
-        "y": 54
+        "x": 75,
+        "y": 53
       },
       {
         "floor": "11",
-        "x": 76,
-        "y": 54
+        "x": 75,
+        "y": 53
       }
     ]
   },
   {
     "name": "伊勢丹内中央エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Central escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "3",
-        "x": 65,
-        "y": 56
+        "x": 64,
+        "y": 55
       },
       {
         "floor": "4",
-        "x": 68,
-        "y": 56
+        "x": 67,
+        "y": 55
       },
       {
         "floor": "5",
-        "x": 71,
-        "y": 56
+        "x": 70,
+        "y": 55
       },
       {
         "floor": "6",
-        "x": 73,
-        "y": 56
+        "x": 72,
+        "y": 55
       },
       {
         "floor": "7",
-        "x": 77,
-        "y": 56
+        "x": 76,
+        "y": 55
       },
       {
         "floor": "8",
-        "x": 79,
-        "y": 56
+        "x": 78,
+        "y": 55
       },
       {
         "floor": "9",
-        "x": 83,
-        "y": 56
+        "x": 82,
+        "y": 55
       },
       {
         "floor": "10",
-        "x": 86,
-        "y": 56
+        "x": 85,
+        "y": 55
       },
       {
         "floor": "11",
-        "x": 88,
-        "y": 56
+        "x": 87,
+        "y": 55
       }
     ]
   },
   {
     "name": "3F・4F往来階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "3F-4F Stairs",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "3",
-        "x": 45,
-        "y": 52
+        "x": 44,
+        "y": 51
       },
       {
         "floor": "4",
-        "x": 45,
-        "y": 52
+        "x": 44,
+        "y": 51
+      }
+    ]
+  },
+  {
+    "name": "改札前イートパラダイス前エスカレーター",
+    "name_en": "Escalator of Eat Paradise in front of the ticket gate",
+    "type": "29",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": 55,
+        "y": 41
+      },
+      {
+        "floor": "3",
+        "x": 55,
+        "y": 41
       }
     ]
   }

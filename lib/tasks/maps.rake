@@ -23,7 +23,7 @@ namespace :maps do
           map['grid'][y][x] = 1
         end
       end
-      map['grid'] = map['grid'].map{ |row| row.reverse }.reverse
+      # map['grid'] = map['grid'].map{ |row| row.reverse }.reverse
       map
     end
 

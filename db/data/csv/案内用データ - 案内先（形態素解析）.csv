@@ -1,0 +1,424 @@
+案内先名（name_ja）,英語名（name_en）,キーワード
+JR在来線・各改札内（西洞院口含む）,JR conventional lines: inside each ticket gate (Including Nishinotoin-guchi),"JR線改札内,在来線改札内,改札内,西洞院口"
+JR新幹線・各改札内（乗り換え口含む）,JR Shinkansen: In each ticket gate (including transfer gate),"JR新幹線改札内,新幹線改札内,JR新幹線改札内乗り換え,新幹線改札内乗り換え,新幹線乗り換え"
+近鉄・改札内,Inside the ticket gate of Kintetsu Line,"近鉄改札内,近鉄改札"
+京都市営地下鉄・改札内,In the ticket gate of Kyoto Municipal Subway,"京都市営地下鉄改札内,市営地下鉄改札内,地下鉄改札内,地下鉄改札"
+京都総合観光案内所（亰なび）,Kyoto General Tourist Information Center (Nabi Kyo),"京都総合観光案内所,総合観光案内所,観光案内所,観光案内,亰なび"
+駅ビルインフォメーション,Station building information,"駅ビルインフォメーション,駅インフォメーション,インフォメーション"
+京都駅 屋上展望台,Kyoto Station rooftop observatory,"京都駅屋上展望台,駅屋上展望台,屋上展望台,展望台"
+烏丸小路広場,Karasuma Koji Square,"烏丸小路広場,小路広場"
+京都駅・空中経路,Kyoto Station - aerial route,"京都駅空中経路,駅空中経路,空中経路"
+京都駅屋上・大空広場,Kyoto Station Rooftop and Ozora Square,"京都駅屋上大空広場,駅屋上大空広場,屋上大空広場,大空広場"
+南北自由通路,North – South free passage,"南北自由通路,南北通路,自由通路"
+地下自由通路,underground free passage,"地下自由通路,地下通路,自由通路"
+東駐車場,East parking lot,"東駐車場,駐車場"
+西駐車場（第一/第二）,West parking lot (First and Second),"西駐車場,駐車場"
+バスターミナル,Bus terminal,"バスターミナル,ターミナル"
+バスチケットセンター,Bus Ticket Center,"バスチケットセンター,バスチケット"
+タクシー乗り場（烏丸口）,Taxi stop (Karasuma Exit),"タクシー乗り場烏丸口,タクシー烏丸口"
+市バス・高速バス乗り場,City bus and highway bus stops,"市バス高速バス乗り場,市バス乗り場,高速バス乗り場,バス乗り場"
+京都駅前地下街 ポルタ,Porta underground shopping center in front of Kyoto Station,"京都駅地下街ポルタ,駅地下街ポルタ,地下街ポルタ,ポルタ"
+近鉄名店街みやこみち,Miyakomichi,"近鉄名店街みやこみち,名店街みやこみち,近鉄みやこみち,みやこみち"
+アスティ京都,Asti Kyoto,"アスティ京都,アスティ"
+ジェイアール京都伊勢丹（美術館えきkyoto含む）,JR Kyoto Isetan (Including Art Museum Eki Kyoto),"ジェイアール京都伊勢丹,京都伊勢丹,伊勢丹,美術館えきkyoto,美術館えき"
+ザ・キューブ（The CUBE）,The Cube (The CUBE),"ザ・キューブ,キューブ"
+コトチカ京都(地下自由通路と連結),Kotochika Kyoto (Connecting to underground free passage),"コトチカ京都 地下自由通路連結,コトチカ京都 地下通路連結,コトチカ京都 地下連結,コトチカ 地下自由通路連結,コトチカ 地下通路連結,コトチカ 地下連結"
+Time’s Place 京都（近鉄京都駅改札内）,Time's Place Kyoto (Inside the ticket gate of Kintetsu Kyoto Station),"Time's Place 京都,Time's Place"
+JR西口改札前イートパラダイス（旧スバコJR京都伊勢丹）,Eat Paradise in front of JR West exit (Old Subako JR Kyoto Isetan),"JR西口改札 イートパラダイス 旧スバコ JR京都伊勢丹,西口改札 イートパラダイス,イートパラダイス,旧スバコ JR京都伊勢丹,旧スバコ,スバコ"
+和食小路,Washoku Koji,和食小路
+京都劇場,Kyoto Theater,"京都劇場,劇場"
+京都拉麺小路,Kyoto Ramen Koji,"京都拉麺小路,拉麺小路"
+おみやげ街道,Souvenir Highway,おみやげ街道
+ビックカメラJR京都店（西洞院口から直結）,Bic Camera JR Kyoto (Directly connected to Nishinotoin exit),"ビックカメラ JR京都店,ビックカメラ,ビック"
+ホテル近鉄京都駅,Hotel Kintetsu Kyoto Station,"ホテル近鉄京都駅,ホテル近鉄"
+ホテルグランヴィア京都,Hotel Granvia Kyoto,"ホテルグランヴィア京都,ホテルグランヴィア"
+鉄道案内所,railway information center,"鉄道案内所,鉄道案内"
+コトチカ京都 市バス・地下鉄案内所,Kotochika Kyoto City Bus and Subway Information Center,"コトチカ京都 市バス地下鉄案内所,コトチカ京都 バス地下鉄案内所,コトチカ京都 案内所,コトチカ 市バス地下鉄案内所,コトチカ バス地下鉄案内所"
+京都総合観光案内所,Kyoto General Tourist Information Center,"京都総合観光案内所,総合観光案内所,観光案内所,観光案内,亰なび"
+中央口,central opening,"中央口,中央"
+八条東口,Hachijo East Exit,"八条東口,八条東"
+新幹線八条東口,Hachijo East Exit of Shinkansen,"新幹線八条東口,新幹線八条東"
+新幹線八条口改札,Ticket gate of Shinkansen Hachijo,新幹線八条口改札
+西洞院口,Nishinotoin-guchi,"西洞院口,西洞院"
+新幹線中央口,Shinkansen Chuo-guchi,"新幹線中央口,新幹線中央"
+近鉄改札口,Kintetsu ticket gate,"近鉄改札口,近鉄改札"
+新幹線中央乗換口,Shinkansen Central Transfer Gate,"新幹線中央乗換口,新幹線中央乗換"
+新幹線東乗換口,East transfer gate of Shinkansen,"新幹線東乗換口,新幹線東乗換"
+西口,West exit,"西口,西"
+地下中央口,underground central entrance,"地下中央口,地下中央"
+地下鉄東口,East exit of subway station,"地下鉄東口,地下鉄東"
+地下鉄中央口1,Metro Central Exit 1,"地下鉄中央口1,地下鉄中央1"
+地下鉄中央口2,Central Exit 2,"地下鉄中央口2,地下鉄中央2"
+JR京都駅キャリーサービス Crosta京都,JR Kyoto Station CARRY SERVICE CROSTA KYOTO,"JR京都駅キャリーサービス Crosta京都,駅キャリーサービス,Crosta京都,Crosta"
+西改札内コインロッカー,Coin lockers at the west ticket gate,西改札内コインロッカー
+西改札口自由連絡通路コインロッカー,Coin lockers at the free passage of the West ticket gate,"西改札口自由連絡通路コインロッカー,自由連絡通路コインロッカー"
+八条口コインロッカー,Hachijoguchi coin locker,八条口コインロッカー
+京都劇場下コインロッカー,Kyoto Theater Suburban Coin Coin Coin,"京都劇場下コインロッカー,劇場下コインロッカー"
+鳥丸口（B）コインロッカー,Torimarukuchi (B) Coin locker,"鳥丸口Bコインロッカー,鳥丸Bコインロッカー"
+10番線（A）コインロッカー,Platform 10 (A) Coin lockers,"10番線Aコインロッカー,10番線コインロッカー"
+鳥丸口コインロッカー,Torimarukuchi coin locker,"鳥丸口コインロッカー,鳥丸コインロッカー"
+鳥丸口定期観光バス乗り場コインロッカー,Torimaruguchi Regular Sightseeing Bus Terminal Coin Coin Coin,"鳥丸口定期観光バス乗り場コインロッカー,鳥丸定期観光バス乗り場コインロッカー,鳥丸口観光バス乗り場コインロッカー,鳥丸観光バス乗り場コインロッカー,観光バス乗り場コインロッカー"
+中央改札内コインロッカー,Coin lockers at the central ticket gate,"中央改札内コインロッカー,中央改札コインロッカー"
+地下一階（F）コインロッカー,Coin locker on the first basement (F),"地下一階Fコインロッカー,地下一階コインロッカー,地下Fコインロッカー,地下コインロッカー"
+地下鉄南改札口コインロッカー,Coin lockers at the south exit of the subway,"地下鉄南改札口コインロッカー,地下鉄南改札コインロッカー"
+"JR地下改札内8,9番線コインロッカー",Coin lockers on Platform 8 and 9 inside the JR underground ticket gate,"JR地下改札内8,9番線コインロッカー,JR地下改札内8番線コインロッカー,JR地下改札内9番線コインロッカー"
+JR地下東口改札外コインロッカー,Coin-operated lockers outside the ticket gate of the JR underground east exit,JR地下東口改札外コインロッカー
+A1出口コインロッカー,Coin lockers at the A1 exit,"A1出口コインロッカー,A1コインロッカー"
+A3出口コインロッカー,A3 Exit Coin Coin Coin Coin,"A3出口コインロッカー,A3コインロッカー"
+B7出口コインロッカー,B7 Exit Coin Coin Coin,"B7出口コインロッカー,B7コインロッカー"
+C1出口コインロッカー,Coin locker at C1 exit,"C1出口コインロッカー,C1コインロッカー"
+C3出口コインロッカー,Coin locker at C3 exit,"C3出口コインロッカー,C3コインロッカー"
+C9出口コインロッカー,Coin locker at C9 exit,"C9出口コインロッカー,C9コインロッカー"
+B8出口コインロッカー,B8 outlet coin lockers,"B8出口コインロッカー,B8コインロッカー"
+B12階段横コインロッカー,B 12 Stair side coin locker,B12階段横コインロッカー
+1番出口コインロッカー,Coin locker at the exit 1,1番出口コインロッカー
+2番出口コインロッカー,Coin locker at the second exit,2番出口コインロッカー
+北改札コインロッカー,Coin lockers at the north ticket gate,北改札コインロッカー
+多機能トイレ,multifunctional toilet,"多機能トイレ,トイレ"
+多機能トイレ,multifunctional toilet,"多機能トイレ,トイレ"
+多機能トイレ,multifunctional toilet,"多機能トイレ,トイレ"
+京都駅烏丸口（バス）,Karasuma Exit of Kyoto Station (Bus),"京都駅烏丸口,烏丸口"
+京都駅八条口バス乗り場,Kyoto Station Hachijoguchi bus stop,"京都駅八条口バス乗り場,八条口バス乗り場"
+京都駅烏丸口 JRバスのりば,Karasuma Exit of Kyoto Station JR Bus Stop,"京都駅烏丸口JRバスのりば,烏丸口JRバスのりば"
+京都駅八条口 (民営バス・高速バス) F3のりば,"Kyoto Station Hachijo Exit (Private buses and highway buses), platform F3","京都駅八条口民営バス高速バスF3のりば,八条口民営バス高速バスF3のりば,八条口バスF3のりば"
+京都定期観光バス 京都駅烏丸口バスターミナル,Kyoto Regular Tour Bus Kyoto Station Karasuma Exit Bus Terminal,"京都定期観光バス京都駅烏丸口バスターミナル,定期観光バス京都駅烏丸口バスターミナル,定期観光バス烏丸口バスターミナル"
+空港リムジンバス乗り場,Airport limousine bus stop,空港リムジンバス乗り場
+京都駅八条口（ケイルック）E1バスのりば,Kyoto Station Hachijo Exit (Kay look) E1 bus stop,"京都駅八条口ケイルックE1バスのりば,八条口ケイルックE1バスのりば"
+Willer夜行バス 八条口バス停,Willer night bus: Hachijoguchi bus stop,"Willer夜行バス八条口バス停,夜行バス八条口バス停"
+京都駅八条口 (伊丹空港リムジンバス) G3のりば,Kyoto Station Hachijo Exit (Itami Airport limousine bus) G3 Noriba,"京都駅八条口伊丹空港リムジンバスG3のりば,八条口伊丹空港リムジンバスG3のりば"
+京都駅八条口東側バスのりば,Kyoto Station Hachijoguchi East Bus Stop,"京都駅八条口東側バスのりば,八条口東側バスのりば"
+京都観光バス駅,Kyoto Kanko Bus Station,"京都観光バス駅,観光バス駅"
+京都駅八条口（プリンセスラインバス）E2のりば,Kyoto Station Hachijo Exit (Princess Line Bus) E2 Noriba,"京都駅八条口プリンセスラインバスE2のりば,八条口プリンセスラインバスE2のりば"
+都駅八条口（民営バス）のりば,Toei Station Hachijo Exit (private bus) Noriba,"京都駅八条口民営バスのりば,八条口民営バスのりば"
+京都駅八条口バスのりば,Kyoto Station Hachijoguchi Bus Stop,"京都駅八条口バスのりば,八条口バスのりば"
+京都駅八条口 (関空リムジンバス) H2のりば,Kyoto Station Hachijo Exit (Kansai Airport Limousine Bus) H2 Noriba,"京都駅八条口関空リムジンバスH2のりば,八条口関空リムジンバスH2のりば"
+京都駅八条口（市バス）F1のりば,Kyoto Station Hachijo Exit (City bus) F1 platform,"京都駅八条口市バスF1のりば,八条口市バスF1のりば"
+京都駅八条口アバンティ前（市バス）H5のりば,Kyoto Station Hachijoguchi Avanti-mae (City bus) Platform H5,"京都駅八条口アバンティ前市バスH5のりば,八条口アバンティ前市バスH5のりば"
+京阪バス（株）京都定期観光バス,"Keihan Bus Co., Ltd. Kyoto Regular Tour Bus",京阪バス（株）京都定期観光バス
+京都駅八条口（市バス）F2のりば,Kyoto Station Hachijo Exit (City bus) F2 Noriba,"京都駅八条口市バスF2のりば,八条口市バスF2のりば"
+京都駅烏丸口 (高速バス) JR1のりば,Karasuma Exit of Kyoto Station (express bus) JR Platform 1,"京都駅烏丸口高速バスJR1のりば,烏丸口高速バスJR1のりば"
+京都駅烏丸口 (高速バス) JR2のりば,Karasuma Exit of Kyoto Station (express bus) JR Platform 2,"京都駅烏丸口高速バスJR2のりば,烏丸口高速バスJR2のりば"
+京都駅八条口貸切バス乗降場,Kyoto Station Hachijoguchi Private Bus Stop,"京都駅八条口貸切バス乗降場,八条口貸切バス乗降場"
+京都駅前（市バス）A2のりば,Platform A2 in front of Kyoto Station (City bus),"京都駅前市バスA2のりば,駅前市バスA2のりば"
+京都駅前（市バス）A3 のりば,"Kyoto Ekimae (City bus), Platform A3","京都駅前市バスA3のりば,駅前市バスA3のりば"
+京都駅八条口（民営バス）H3おりば,Kyoto Station Hachijo Exit (private bus) H3 Obori,"京都駅八条口民営バスH3おりば,八条口民営バスH3おりば"
+京都駅前（市バス）A1のりば,"Platform A1, in front of Kyoto Station (City bus)","京都駅前市バスA1のりば,駅前市バスA1のりば"
+京都駅前（京阪バス・丹海交通バス）C2のりば,Kyoto Station (Keihan Bus / Tankai Kotsu Bus) C2 Noriba,"京都駅前京阪バス丹海交通バスC2のりば,駅前京阪バス丹海交通バスC2のりば"
+京都駅八条口（民営バス）H4のりば,Kyoto Station Hachijo Exit (private bus) H4 Noriba,"京都駅八条口民営バスH4のりば,八条口民営バスH4のりば"
+都駅八条口アバンティ前（市バス）I2のりば,Miyako Station Hachijoguchi Avanti-mae (City bus) Platform I2,"京都駅八条口アバンティ前市バスI2のりば,八条口アバンティ前市バスI2のりば"
+京都駅八条口（高速バス）G2のりば,Kyoto Station Hachijo Exit (express bus) G2 Noriba,"京都駅八条口高速バスG2のりば,八条口高速バスG2のりば"
+京都駅八条口アバンティ前（市バス）H7のりば,Kyoto Station Hachijoguchi Avanti-mae (City bus) Platform H7,"京都駅八条口アバンティ前市バスH7のりば,八条口アバンティ前市バスH7のりば,アバンティ前市バスH7のりば"
+京都駅前（市バス）B1のりば,Platform B1 in front of Kyoto Station (City bus),"京都駅前市バスB1のりば,駅前市バスB1のりば"
+京都駅烏丸口 (一般)タクシーのりば,Karasuma Exit of Kyoto Station (General),"京都駅烏丸口一般タクシーのりば,烏丸口一般タクシーのりば"
+MKタクシー 京都駅八条口のりば,MK Taxi Kyoto Station Hachijoguchi Noriba,"MKタクシー京都駅八条口のりば,MKタクシー八条口のりば"
+京都駅八条口タクシー乗り場,Kyoto Station Hachijoguchi taxi stand,"京都駅八条口タクシー乗り場,八条口タクシー乗り場"
+京都駅烏丸口 タクシーおりば,Karasuma Exit of Kyoto Station Taxi Oriba,"京都駅烏丸口タクシーおりば,烏丸口タクシーおりば"
+三菱UFJ銀行京都駅前支店,BTMU Kyoto-ekimae Branch,"三菱UFJ銀行京都駅支店,三菱UFJ銀行,三菱UFJ"
+京都銀行 京都駅前支店,"Kyoto Bank, Kyoto-ekimae Branch","京都銀行京都駅支店,京都銀行"
+スルガ銀行 京都支店,Suruga Bank Kyoto Branch,"スルガ銀行京都支店,スルガ銀行"
+京都中央信用金庫 八条口支店,"Hachijoguchi Branch, Kyoto Chuo Shinkin Bank","京都中央信用金庫八条口支店,京都中央信用金庫"
+ゆうちょ銀行大阪支店ビックカメラＪＲ京都駅店内出張所,Japan Post Bank Osaka Branch Bic Camera JR Kyoto Station Store Branch,"ゆうちょ銀行大阪支店ビックカメラＪＲ京都駅店内出張所,ゆうちょ銀行ビックカメラ京都駅,ゆうちょビックカメラ駅店内"
+三菱UFJ銀行 ATMコーナー ジェイアール京都伊勢丹,Mitsubishi UFJ Bank ATM Corner JR Kyoto Isetan,"三菱UFJ銀行ATMコーナージェイアール京都伊勢丹,三菱UFJ銀行ATM伊勢丹"
+三井住友銀行 JR京都駅出張所,Sumitomo Mitsui Banking Corporation JR Kyoto Station Representative Office,"三井住友銀行JR京都駅出張所,三井住友銀行京都駅,三井住友京都駅"
+ゆうちょ銀行大阪支店ＪＲ京都駅内出張所,"Yucho Bank, Osaka Branch, JR Kyoto Station Sub-Branch","ゆうちょ銀行大阪支店ＪＲ京都駅内出張所,ゆうちょ銀行京都駅,ゆうちょ駅内"
+りそな銀行 JR京都駅出張所 無人ATM,Resona Bank ATMs at the JR Kyoto Station Branch,"りそな銀行JR京都駅出張所無人ATM,りそな銀行京都駅ATM,りそな駅ATM"
+三菱UFJ銀行ATMコーナー ＪＲ京都駅,Mitsubishi UFJ Bank ATM Corner JR Kyoto Station,"三菱UFJ銀行ATMコーナーＪＲ京都駅,三菱UFJ銀行ATM京都駅"
+みずほ銀行ATM 京都駅八条口出張所,Mizuho Bank ATM Kyoto Station Hachijoguchi Sub-Branch,"みずほ銀行ATM京都駅八条口出張所,みずほ銀行ATM京都駅八条口,みずほ銀行ATM八条口,みずほATM八条口"
+ゆうちょ銀行大阪支店 近鉄京都駅構内出張所,"Yucho Bank, Osaka Branch, Kintetsu Kyoto Station Branch Office","ゆうちょ銀行大阪支店近鉄京都駅構内出張所,ゆうちょ銀行近鉄京都駅構内,ゆうちょ銀行近鉄駅構内,ゆうちょ近鉄駅構内"
+イオン銀行ATM 近鉄京都駅１Ｆ名店街出張所,"Aeon Bank ATM, Meitengai Branch Office, 1st floor of Kintetsu Kyoto Station","イオン銀行ATM近鉄京都駅1F名店街出張所,イオン銀行ATM近鉄京都駅1F名店街,イオン銀行ATM名店街"
+京都信用金庫,Kyoto Shinkin Bank,京都信用金庫
+イオン銀行,Aeon Bank,イオン銀行
+三井住友銀行,Sumitomo Mitsui Banking Corporation,三井住友銀行
+京都中央信用金庫,Kyoto Chuo Shinkin Bank,京都中央信用金庫
+ゆうちょ銀行,Japan Post Bank,"ゆうちょ銀行,ゆうちょ"
+南都銀行,Nanto Bank,南都銀行
+京都銀行,Kyoto Bank,京都銀行
+滋賀銀行,Shiga Bank,滋賀銀行
+京都信用金庫 近鉄名店街みやこみち出張所,"Miyakomichi Sub-Branch, Kintetsu Meiyatengai, Kyoto Shinkin Bank","京都信用金庫近鉄名店街みやこみち出張所,京都信用金庫近鉄名店街みやこみち,京都信用金庫名店街みやこみち"
+セブン‐イレブンハートインJR京都駅地下東口,Seven Eleven Heart Inn JR Kyoto Station underground east exit,"セブンイレブンハートインJR京都駅地下東口,ハートインJR京都駅地下東口,ハートイン地下東口,セブンイレブンハートイン地下東口,セブンイレブン地下東口,セブン地下東口"
+セブン-イレブン キヨスクＪＲ京都駅西口改札内店,Seven-Eleven Kiosk JR Kyoto Station West Entrance Ticket Entrance,"セブンイレブンキヨスクＪＲ京都駅西口改札内店,キヨスクＪＲ京都駅西口改札内店,キヨスク西口改札内店,セブンイレブンキヨスク西口改札内店,セブンイレブン西口改札内店,セブン西口改札内店"
+セブン-イレブン キヨスクＪＲ京都駅0番のりば東店,Seven-Eleven Kiosk JR Kyoto Station Platform 0 Higashi,"セブンイレブンキヨスクＪＲ京都駅0番のりば東店,キヨスクＪＲ京都駅0番のりば東店,キヨスク0番のりば東店,セブンイレブンキヨスク0番のりば東店,セブンイレブン0番のりば東店,セブン0番のりば東店"
+セブン-イレブン キヨスクＪＲ京都駅0番のりば西店,Seven-Eleven Kiosk JR Kyoto Station Platform 0 Nishi,"セブンイレブンキヨスクＪＲ京都駅0番のりば西店,キヨスクＪＲ京都駅0番のりば西店,キヨスク0番のりば西店,セブンイレブンキヨスク0番のりば西店,セブンイレブン0番のりば西店,セブン0番のりば西店"
+セブン-イレブン ハートインＪＲ京都駅東塩小路店,Seven-Eleven Heart Inn JR Kyoto Station Higashi Shiokoji,"セブンイレブンハートインＪＲ京都駅東塩小路店,ハートインＪＲ京都駅東塩小路店,ハートイン東塩小路店,セブンイレブンハートイン東塩小路店,セブンイレブン東塩小路店,セブン東塩小路店"
+セブン-イレブン ハートインＪＲ京都駅中央改札口店,Seven-Eleven Heart Inn JR Kyoto Station Central Ticket Gate,"セブンイレブンハートインＪＲ京都駅中央改札口店,ハートインＪＲ京都駅中央改札口店,ハートイン中央改札口店,セブンイレブンハートイン中央改札口店,セブンイレブン中央改札口店,セブン中央改札口店"
+セブン-イレブン ハートインＪＲ京都駅東口改札内店,Seven-Eleven Heart Inn JR Kyoto Station East Entrance Ticket Entrance,"セブンイレブンハートインＪＲ京都駅東口改札内店,ハートインＪＲ京都駅東口改札内店,ハートイン東口改札内店,セブンイレブンハートイン東口改札内店,セブンイレブン東口改札内店,セブン東口改札内店"
+セブン-イレブン ハートイン京都地下鉄京都駅南口店,Seven-Eleven Heart Inn Kyoto Subway Kyoto Station South Entrance,"セブンイレブンハートイン京都地下鉄京都駅南口店,ハートイン京都地下鉄京都駅南口店,ハートイン地下鉄京都駅南口店,セブンイレブンハートイン地下鉄京都駅南口店,セブンイレブン地下鉄京都駅南口店,セブン地下鉄京都駅南口店"
+セブン-イレブン キヨスクＪＲ京都駅2番のりば店,Seven-Eleven Kiosk JR Kyoto Station Platform 2,"セブンイレブンキヨスクＪＲ京都駅2番のりば店,キヨスクＪＲ京都駅2番のりば店,キヨスク2番のりば店,セブンイレブンキヨスク2番のりば店,セブンイレブン2番のりば店,セブン2番のりば店"
+セブン-イレブン キヨスクＪＲ京都駅4番のりば店,Seven-Eleven Kiosk JR Kyoto Station Platform 4,"セブンイレブンキヨスクＪＲ京都駅4番のりば店,キヨスクＪＲ京都駅4番のりば店,キヨスク4番のりば店,セブンイレブンキヨスク4番のりば店,セブンイレブン4番のりば店,セブン4番のりば店"
+セブン-イレブン キヨスクＪＲ京都駅30番のりば店,Seven-Eleven Kiosk JR Kyoto Station No. 30 bus stop,"セブンイレブンキヨスクＪＲ京都駅30番のりば店,キヨスクＪＲ京都駅30番のりば店,キヨスク30番のりば店,セブンイレブンキヨスク30番のりば店,セブンイレブン30番のりば店,セブン30番のりば店"
+ファミリーマート京都駅前店,Family Mart Kyoto Ekimae,"ファミリーマート京都駅前店,ファミリーマート駅前店,ファミマ駅前店"
+ローソン 京都駅東塩小路店,Lawson Kyoto Station Higashi Shiokoji,"ローソン京都駅東塩小路店,ローソン東塩小路店"
+セブン-イレブン京都東洞院七条店,Seven-Eleven Kyoto Higashinotoin Shichijo,"セブンイレブン京都東洞院七条店,セブンイレブン東洞院七条店,セブン東洞院七条店"
+ファミリーマート京都タワー前店,Family Mart Kyoto Tower Mae,"ファミリーマート京都タワー前店,ファミマ京都タワー前店"
+ローソン 烏丸七条店,Lawson Karasuma Shichijo,ローソン烏丸七条店
+ローソン 新京都センタービル店,Lawson New Kyoto Center Building,ローソン京都センタービル店
+セブン-イレブン下京区役所前店,Seven-Eleven Shimogyo Kuyakushomae,"セブンイレブン下京区役所前店,セブンイレブン区役所前店,セブン区役所前店"
+セブン‐イレブン 京都堀川塩小路南店,Seven-Eleven Kyoto Horikawa Shiokoji Minami,"セブンイレブン京都堀川塩小路南店,セブンイレブン堀川塩小路南店,セブン堀川塩小路南店"
+ファミリーマート近鉄京都駅３番ホーム前店,Family Mart Kintetsu Kyoto Station Platform 3,"ファミリーマート近鉄京都駅３番ホーム前店,ファミマ近鉄京都駅３番ホーム前店"
+ファミリーマート 近鉄京都駅店,Family Mart Kintetsu Kyoto Station,"ファミリーマート近鉄京都駅店,ファミマ近鉄京都駅店"
+ローソン 京都駅八条口店,Lawson Kyoto Station Hachijoguchi,"ローソン京都駅八条口店,ローソン八条口店"
+セブン-イレブン 京都駅八条口,Seven-Eleven Kyoto Station Hachijo Exit,"セブンイレブン京都駅八条口,セブンイレブン八条口,セブン八条口"
+セブン-イレブン 京都八条通東店,Seven-Eleven Kyoto Hachijo-dori Higashi,"セブンイレブン京都八条通東店,セブンイレブン八条通東店,セブン八条通東店"
+セブン-イレブン ７ＦＳ京阪バス京都駅八条口店,Seven-Eleven 7FS Keihan Bus Kyoto Eki Hachijoguchi,"セブンイレブン７ＦＳ京阪バス京都駅八条口店,セブンイレブン７ＦＳ京阪バス八条口店,セブン７ＦＳ京阪バス八条口店"
+ローソン 竹田街道針小路店,Lawson Takeda-kaido Hari-koji,ローソン竹田街道針小路店
+デイリーヤマザキ烏丸八条口店,Daily Yamazaki Karasuma Hachijoguchi,"デイリーヤマザキ烏丸八条口店,デイリー烏丸八条口店"
+ファミリーマート 烏丸八条口店,Family Mart Karasuma Hachijoguchi,"ファミリーマート烏丸八条口店,ファミマ烏丸八条口店"
+牛たん 伊之助,Gyutan Inosuke,"牛たん伊之助,伊之助"
+先斗入ル,Pontoiru,先斗入ル
+京料理 栄寿庵,Kyoto Cuisine Eijuan,"京料理栄寿庵,栄寿庵"
+八丁味處 串の坊,KUSHINOBOU,"八丁味處串の坊,串の坊"
+京都ことこと,Kyoto simmers.,"京都ことこと,ことこと"
+名代とんかつ かつくら,Katsukura,"名代とんかつかつくら,かつくら"
+キッチン ゴン,Kitchen Gon,"キッチンゴン,ゴン"
+京・四条 田ごと,Kyoto TAGOTO,"京四条田ごと,田ごと"
+京都 錦わらい,Kyoto Brocade smile.,"京都錦わらい,錦わらい"
+ヴィ・ド・フランス,VI DO and France,ヴィ・ド・フランス
+ジェラート ピケ カフェ ビオ コンセプト,Gelato A picket A cafe Biot Concept.,ジェラートピケカフェビオコンセプト
+葵茶屋,"Bamboo plate dish ""Aoi-jaya""",葵茶屋
+和幸,"Fried pork cutlet ""Wako""",和幸
+京都和久傳,"Kyoto style food ""Kyoto Wakuden""","京都和久傳,和久傳"
+モレット,"Egg dish ""Mollette""",モレット
+アンティカフェ,"Italian food ""ante Cafe""",アンティカフェ
+點心茶室,"Chinese food ""Tenshin-Chashitsu""",點心茶室
+美々卯,"Noodles and soba ""Mimiu""",美々卯
+天一,"Tempura ""Ten-ichi""",天一
+西櫻亭,"Western food ""Sei-oh-tei""",西櫻亭
+神戸カプチーノ倶楽部,"Open-air cafe ""Kobe Cappuccino Club""",神戸カプチーノ倶楽部
+美菜莉,South Korea home cooking MINARI.,美菜莉
+京豆腐不二乃,"Tofu dish ""Kyotofu Fujino""","京豆腐不二乃,不二乃"
+築地寿司清,"Sushi ""Tsukiji sushi Kiyoshi""",築地寿司清
+モリタ屋,"Quick Meat and Vegetable Stew, Shabu Shabu and oil baking ""Moritaya""",モリタ屋
+松山閣,"Sheet of dried soybean casein and capital rape in season ""Shozankaku""",松山閣
+ラバロックグリル テルメキョウト,Lava Rock Grill TERME KYOTO,"ラバロックグリルテルメキョウト,テルメ"
+加賀屋,"Open view restaurant ""Kagaya""",加賀屋
+市場小路,"Open view restaurant ""Ichiba Koji""",市場小路
+ザキッチン サルヴァトーレ・クオモ,"Open view restaurant ""the Kitchen Salvatore and KUOMO""",ザキッチンサルヴァトーレ・クオモ
+炭火串焼きこけこっこ,"Open view restaurant ""charcoal spit-roasted KOKEKOKKO""","炭火串焼きこけこっこ,こけこっこ"
+柿安三尺三寸箸,"Open view restaurant ""Kakiyasu Sanjaku sanzunbashi""","柿安三尺三寸箸,三尺三寸箸"
+カントリーハウス英國屋,Country House Eikokuya,"カントリーハウス英國屋,英國屋"
+フラッグスカフェ,FURAGGUSUKAFE,フラッグスカフェ
+ブラウニーズクラブ,Brownies Club,ブラウニーズクラブ
+マールブランシュ,MALEBRANCHE,マールブランシュ
+茶寮都路里,Saryo Tsujiri,"茶寮都路里,都路里"
+はしたて,Hashitate,はしたて
+中村藤吉本店 京都駅店,Nkamura Tokichi honten,"中村藤吉本店京都駅店,中村藤吉本店"
+オステリア サクラ,Osteria SAKURA,オステリア サクラ
+白樺山荘,Sapporo Shirakaba Sansou,白樺山荘
+東横,Niigata Touyoko,東横
+大勝軒,Tokyo Higashi-Ikebukuro Taishoken,大勝軒
+阪内食堂,Fukushima Kitakata Ramen Bannai-Shokudo,阪内食堂
+麺屋いろは,Toyama Men-ya Iroha,"麺屋いろは,いろは"
+ますたに,Kyoto Ginkakuji Masutani,ますたに
+きんせい,Osaka The cause which isn't put on.,きんせい
+ラーメン東大,Tokushima Ramen Todai,ラーメン東大
+博多一幸舎,Hakata Hakata Ikkousha,"博多一幸舎,一幸舎"
+グリルキャピタル 東洋亭,Grill capital Oriental bower,"グリルキャピタル 東洋亭,東洋亭"
+京料理 萬重,Kyoto Cuisine Manshige,"京料理萬重,萬重"
+銀座ハゲ天,Ginza Hageten,"銀座ハゲ天,ハゲ天"
+こなな,Conana,こなな
+洋麺屋五右衛門,Yomenya Goemon,"洋麺屋五右衛門,五右衛門"
+ドトールコーヒーショップ,Doutor,ドトールコーヒーショップ
+モンテロマーノ,Monte Romano,モンテロマーノ
+スープストックトーキョー,Soup Gilly flower Tokyo,スープストックトーキョー
+冨士屋,Fujiya,冨士屋
+串かふぇ 凡凡屋,Kushicafe BonBonya,"串かふぇ 凡凡屋,凡凡屋"
+田ごと,Kyoto TAGOTO,田ごと
+めん、色いろ。いつでも、おやつ,"Men iroiro, Itsudemo Oyatsu",めん、色いろ。いつでも、おやつ
+ワイアードカフェ,WIRED CAFE,ワイアードカフェ
+スターバックス コーヒー,Starbucks,スターバックス コーヒー
+ナナズグリーンティー,NANAZUGURINTI,ナナズグリーンティー
+だし茶漬け えん,DashiCyazuke-EN,"だし茶漬け えん,えん"
+コリアンキッチン　シジャン,Korean foods Shijan,"コリアンキッチン　シジャン,シジャン"
+京阿月,Kyoazuki,京阿月
+とんかつ KYK,Pork cutlet KYK.,"とんかつ KYK,KYK"
+お好み焼き 町や。,Okonomiyaki Machiya,"お好み焼き 町や,町や"
+味彩や,Ajisaiya,味彩や
+サー・トーマス・リプトン,Sir Thomas Lipton,サー・トーマス・リプトン
+マルモキッチン,Marumo Kitchen,マルモキッチン
+四川餐館,Shisen Sankan (the can which is done and isn't composed),四川餐館
+杵屋,Kineya,杵屋
+らーめん かんじん堂 熊五郎,Ramen Kanjindo Kumagoro,"らーめん かんじん堂 熊五郎,熊五郎"
+スターバックス コーヒーウエスト店,Starbucks   West,スターバックス コーヒーウエスト店
+イノダコーヒ,INODA COFFEE,イノダコーヒ
+近江スエヒロ京都茶屋,Omi Sue Hiro Kyoto restaurant,"近江スエヒロ京都茶屋,近江スエヒロ"
+グランディール,Grand Deal,グランディール
+味味香,Taste Ajika,味味香
+北極星,Polaris,北極星
+一風堂,Ippu hall,一風堂
+宮崎酒場　ゑびす,Miyazaki pub EBISU.,"宮崎酒場　ゑびす,ゑびす"
+金沢まいもん寿司,Kanazawa performance gate sushi,金沢まいもん寿司
+ミスタードーナツ/パイフェイス,Mister Donut/Pie face,"ミスタードーナツ/パイフェイス,ミスタードーナツ,パイフェイス"
+スパイシー・マサラ,curry shop SPICY MASARA,スパイシー・マサラ
+旬彩和食 たちばな,Tachibana,"旬彩和食 たちばな,たちばな"
+中村藤吉　京都駅店,Nkamura Tokichi,"中村藤吉　京都駅店,中村藤吉"
+FUKUNAGA901,FUKUNAGA901,FUKUNAGA901
+焼き釜スイーツ 茶筅,Chasen,"焼き釜スイーツ 茶筅,茶筅"
+鉄板焼 五山望,Teppanyaki Gozanbo.,"鉄板焼 五山望,五山望"
+ビュー&ダイニング コトシエール,View and dining Cotociel.,"ビュー&ダイニング コトシエール,ビュー&ダイニング コトシエール"
+スカイ ダイニング & ラウンジ サザンコート,The sky Dining and lounge Southern Court.,スカイ ダイニング & ラウンジ サザンコート
+中国料理 六本木樓外樓,Chinese food Roppongi Rogairo.,"中国料理 六本木樓外樓,六本木樓外樓"
+ゲストハウス 塩小路楽粋,Guest House Shiokoji Rakusui.,"ゲストハウス 塩小路楽粋,塩小路楽粋"
+日本料理 京都吉兆,Japanese food Kyoto Kitcho.,"日本料理 京都吉兆,京都吉兆"
+天婦羅処 京林泉,Tempura place Kyorinsen.,"天婦羅処 京林泉,京林泉"
+日本料理 浮橋,Japanese food Ukihashi.,"日本料理 浮橋,浮橋"
+カフェレストラン ル・タン,A cafe restaurant Le Temps.,"カフェレストラン ル・タン,ル・タン"
+メインバー オルビット,Main bar Orbite.,メインバー オルビット
+ロビーラウンジ グランジュール,A lobby lounge Grand Jour.,"ロビーラウンジ グランジュール,グランジュール"
+すし割烹 浮橋,Sushi Japanese-style cooking Ukihashi.,"すし割烹 浮橋,浮橋"
+地酒焼肴 浮橋,Local Sakes baking relish taken with sake Ukihashi.,"地酒焼肴 浮橋,浮橋"
+エスタシオンカフェ,,エスタシオンカフェ
+カフェ チェントチェント,CAFÉ Cento Cento,"カフェ チェントチェント,チェントチェント"
+がんこ,Ganko,がんこ
+京やさい料理 接方来,Sepporai,"京やさい料理 接方来,接方来"
+京都木村屋本店,Kyoto Kimuraya Honten,京都木村屋本店
+そば酒房 徳兵衛,SOBA TOKUBE,"そば酒房 徳兵衛,徳兵衛"
+竈炊き立てごはん土井,Doi,"竈炊き立てごはん土井,土井"
+寿しのむさし,Musashi,寿しのむさし
+原了郭,Hararyoukaku,原了郭
+くらま,Kurama,くらま
+グリル＆ビア 京ダイニング八条,Kyo Dining Hachijo,"グリル＆ビア 京ダイニング八条,京ダイニング八条"
+パスタモーレ,PASTAMORE,パスタモーレ
+江戸川 京都店,EDOGAWA KYOTO,"江戸川 京都店,江戸川"
+とり八,TORIHATI,とり八
+孫兵衛,MAGOBEI,孫兵衛
+おそば処　葵,OSOBA-DOKORO AOI,"おそば処　葵,葵"
+京都生そば　もり平,Kyoto Kisoba Morihei,"京都生そば　もり平,もり平"
+旬菜Dining 悠　Yu,Shunsai Dining Yu,"旬菜Dining 悠　Yu, 悠　Yu"
+すし昌,Sushi Masa,すし昌
+四川料理 洛楽,SISENRYORI RAKURAKU,"四川料理 洛楽,洛楽"
+粋花KYK,Tonkatu Suika KYK,"粋花KYK,KYK"
+アミーチ,Amici,アミーチ
+侘家三昧,WABIYA ZANMAI,侘家三昧
+京　とんちん亭,Kyo-Tonchintei,"京　とんちん亭,とんちん亭"
+京和食 いち藤,Kyouwashoku Ichifuji,"京和食 いち藤,いち藤"
+GRILL AND BAR　東洋亭,GRILL AND BAR TOYOTEI,"GRILL AND BAR　東洋亭,東洋亭"
+ハマムラ近鉄名店街みやこみち店,Hamamura Kintetsumeitengai Miyakomichiten,"ハマムラ近鉄名店街みやこみち店,ハマムラ"
+マンインザムーン 京都駅店,Man in the Moon Kyoto station,"マンインザムーン 京都駅店,マンインザムーン"
+マールブランシュ,MALEBRANCHE,マールブランシュ
+和カフェ 京あんじゅ,Wa-café Kyoanju,"和カフェ 京あんじゅ,京あんじゅ"
+京喫茶 潤,Kyo-kissa JUN,"京喫茶 潤,潤"
+カフェ チャオプレッソ京都みやこみち店,CAFE CIAO PRESSO,"カフェ チャオプレッソ京都みやこみち店,カフェ チャオプレッソ"
+ミスタードーナツ近鉄京都ショップ,Mister Donut,"ミスタードーナツ近鉄京都ショップ,ミスタードーナツ"
+京都アバンティ,KYOTO AVANTI,"京都アバンティ,アバンティ"
+メルパルク京都,Mielparque Kyoto,"メルパルク京都,メルパルク"
+京都タワー,Kyoto Tower,"京都タワー,タワー"
+京都新阪急ホテル,Hotel new Hankyu Kyoto,"京都新阪急ホテル,新阪急ホテル"
+ホテル京阪京都グランデ,Hotel Keihan Kyoto Grande,"ホテル京阪京都グランデ,ホテル京阪,京都グランデ"
+イビススタイルズ 京都 ステーション,"Ibis Styles, Kyoto Station","イビススタイルズ 京都 ステーション,イビススタイルズ,イビススタイルズ 京都,京都 ステーション"
+京都タワーホテル,Kyoto Tower Hotel,京都タワーホテル
+ホテル近鉄京都駅,"Hotel Kintetsu, Kyoto Station","ホテル近鉄京都駅,ホテル近鉄"
+新・都ホテル,New Miyako Hotel,"新・都ホテル,都ホテル"
+天然温泉花蛍の湯ドーミーインPREMIUM京都駅前,"Dormy inn Premium,  Kyoto Station Front","天然温泉花蛍の湯ドーミーインPREMIUM京都駅前,花蛍の湯ドーミーインPREMIUM京都駅前,ドーミーインPREMIUM京都駅前,ドーミーインPREMIUM"
+京都センチュリーホテル,Kyoto Century Hotel,"京都センチュリーホテル,センチュリーホテル"
+ホテル法華クラブ京都,"Hotel Hokke Club, Kyoto","ホテル法華クラブ京都,ホテル法華クラブ,法華クラブ"
+アパホテル　京都駅前,APA Hotel: Kyoto Station Front,"アパホテル　京都駅前,アパホテル"
+アパヴィラホテル 京都駅前,APA Villa HOTEL: Kyoto Station Front,"アパヴィラホテル 京都駅前,アパヴィラホテル"
+みどりの窓口　烏丸中央口改札東,Midori-no-Madoguchi: At Karasma Central Gate,"みどりの窓口烏丸中央口改札東,みどりの窓口烏丸中央改札東"
+みどりの窓口　西口改札横,Midori-no-Madoguchi: At West Gate,"みどりの窓口西口改札横,みどりの窓口西口改札"
+みどりの窓口　西口改札内横,Midori-no-Madoguchi: Inside West Gate,"みどりの窓口西口改札内横,みどりの窓口西口改札内"
+みどりの窓口　新幹線中央口改札,Midori-no-Madoguchi: At Shinkansen Central Gate,"みどりの窓口新幹線中央口改札,みどりの窓口新幹線中央改札"
+みどりの窓口　新幹線八条口横,Midori-no-Madoguchi: At Shinkansen Hachijo-Gate,"みどりの窓口新幹線八条口横,みどりの窓口新幹線八条口"
+券売機　JR京都駅地下東口前,Ticket Vending Machines in front of Kyoto Station Underground East Gate,"券売機JR京都駅地下東口前,券売機地下東口前"
+京都駅ビル忘れ物問い合せセンター,Lost and Found at Kyoto Station Building,"京都駅ビル忘れ物問い合せセンター,駅ビル忘れ物問い合せセンター,忘れ物問い合せセンター"
+京都中央郵便局,Kyoto Central Post Office,"京都中央郵便局,中央郵便局"
+京都駅八条口郵便局（窓口の時間）,Kyoto Station Hachijo-Gate Post Office (Window Hours),"京都駅八条口郵便局,八条口郵便局"
+おみやげ街道ＪＲ京都駅西口店,Souvenir Kaido at JR Kyoto Station West Gate,"おみやげ街道ＪＲ京都駅西口店,おみやげ街道西口店"
+おみやげ街道ＪＲ京都西口改札内店,Souvenir Kaido in JR Kyoto Station West Gate,"おみやげ街道ＪＲ京都西口内店,おみやげ街道西口内店"
+定家,Sadaie,定家
+よーじや 京都駅烏丸中央口コーナー,Yojiya Kyoto Station Karasuma Central Gate Corner,"よーじや京都駅烏丸中央口コーナー,よーじや烏丸中央口コーナー,よーじや烏丸中央コーナー"
+よーじや 京都駅八条口コーナー,Yojiya Kyoto Station Hachijo-Gate Corner,"よーじや京都駅八条口コーナー,よーじや八条口コーナー"
+京ぽんと 伏水菓蔵,Kyopon and Fusei Kabura,京ぽんと伏水菓蔵
+喫煙所　ポルタ屋上の噴水「AQUA FANTASY」裏,"Smoking Area: Behind the Fountain ""AQUA Fantasy"" on the Roof of Porta","喫煙所ポルタ屋上噴水AQUAFANTASY裏,喫煙所噴水AQUAFANTASY裏"
+喫煙所　京都駅八条口を出てすぐ,Smoking Area: Right outside Kyoto Station Hachijo-Gate,"喫煙所京都駅八条口出てすぐ,喫煙所八条口出てすぐ,喫煙所八条口"
+喫煙所　京都駅前ヨドバシカメラ横のマナースポット,"Smoking Area: Manner Spots at Yodobashi Camera, Kyoto Station","喫煙所京都駅前ヨドバシカメラ横マナースポット,喫煙所駅前ヨドバシカメラ横マナースポット,喫煙所ヨドバシカメラ横マナースポット"
+喫煙所　京都駅0番線の山科側,Smoking Area: Yamashina side of Kyoto Station Platform 0,"喫煙所京都駅0番線山科側,喫煙所0番線山科側"
+喫煙所　近鉄京都駅構内,Smoking Area: Inside the Premises of Kintetsu Kyoto Station,喫煙所近鉄京都駅構内
+トラベレックス TiS京都店,"Travelex TiS, Kyoto","トラベレックスTiS京都店,トラベレックスTiS"
+外貨両替専門店ワールドカレンシーショップ京都駅ビル店,"World Currency Exchange, Kyoto Station Building","外貨両替専門店ワールドカレンシーショップ京都駅ビル店,外貨両替専門店ワールドカレンシーショップ,外貨両替専門店,外貨両替"
+トラベレックスジャパン 京都西口店,"Travelex Japan, Kyoto West Gate","トラベレックスジャパン京都西口店,トラベレックスジャパン"
+東広場,East Square,東広場
+京都劇場エントランス,Kyoto Theater Entrance,京都劇場エントランス
+鳥丸小路広場,Torimarukoji Square,鳥丸小路広場
+南広場,South Square,南広場
+駅ビルインフォメーション,Station Building Information,"駅ビルインフォメーション,駅インフォメーション,インフォメーション"
+大階段,Large Stairway,大階段
+京都駅ビル専門店街ザ・キューブ2F,"The Cube Goumet Street , Kyoto Station Building 2 F","京都駅ビル専門店街ザ・キューブ2F,専門店街ザ・キューブ2F,ザ・キューブ2F"
+京都駅ビル専門店街ザ・キューブグルメ街11F,"The Cube Gourmet Street, Kyoto Station Building 11 F","京都駅ビル専門店街ザ・キューブグルメ街11F,専門店街ザ・キューブグルメ街11F,ザ・キューブグルメ街11F"
+京都拉麺小路,Kyoto Ramen Koji,"京都拉麺小路,拉麺小路"
+室町小路広場,Muromachi-koji Square,室町小路広場
+大空広場,Ozora Plaza,大空広場
+ユニクロ京都駅八条口店,UNIQLO,"ユニクロ京都駅八条口店,ユニクロ八条口店"
+マツモトキヨシ 京都駅八条口店,"Matsumoto Kiyoshi, Kyoto Station Hachijo-Gate","マツモトキヨシ 京都駅八条口店,マツモトキヨシ八条口店"
+ベルマート京都東口,Bellmart Kyoto East Gate,"ベルマート京都東口,ベルマート東口"
+中央口北東エスカレーター1,North-East Escalator 1 at Central Gate,中央口北東エスカレーター1
+中央口北東エスカレーター2,North-East Escalator 2 at Central Gate,中央口北東エスカレーター2
+中央口北東階段1,North-East Stairway 1 at Central Gate,中央口北東階段1
+中央口北東階段2,North-East Stairway 2 at Central Gate,中央口北東階段2
+中央口前階段1,Front Stairway 1 at Central Gate,中央口前階段1
+中央口前階段2,Front Stairway 2 at Central Gate,中央口前階段2
+南北連絡口南エスカレータ1,South Escalator 1 at South-North Access Gate,南北連絡口南エスカレーター1
+Avanti連絡階段,Avanti Connecting Stairway,Avanti連絡階段
+南北連絡口南階段1,South Stair 1 at South-North Access Gate,南北連絡口南階段1
+南北連絡口南エレベータ,South Elevator at South-North Access Gate,南北連絡口南エレベータ
+南北連絡口南エスカレータ2,South Escalator 2 at South-North Access Gate,南北連絡口南エスカレータ2
+南北連絡口南階段2,South Stairway at South-North Access Gate,南北連絡口南階段2
+みやこみち内階段,Stairway in Miyakomichi,みやこみち内階段
+みやこみち内エスカレーター,Escalator in Miyakomichi,みやこみち内エスカレーター
+地下連絡通路階段,Stairway to Underground Mall,地下連絡通路階段
+大階段1,Large Stairway 1,大階段1
+大階段2,Large Stairway 2,大階段2
+中央口駅ビル中央エレベーター,Central elevator at Central Gate,中央口駅ビル中央エレベーター
+中央口東エレベーター,East Elevator at Central Gate,中央口東エレベーター
+伊勢丹内北階段1,North Stairway 2 in Isetan,伊勢丹内北階段1
+伊勢丹内北階段2,North Stairway 2 in Isetan,伊勢丹内北階段2
+伊勢丹内南エレベーター,South Elevator in Isetan,伊勢丹内南エレベーター
+伊勢丹内北エレベーター,North Elevator in Isetan,伊勢丹内北エレベーター
+伊勢丹内中央エスカレーター,Central escalator in Isetan,伊勢丹内中央エスカレーター
+伊勢丹内南エスカレーター,South Escalator in Isetan,伊勢丹内南エスカレーター
+ポルタ左上階段,Porta Upper Left Stairway,ポルタ左上階段
+中央口ポルタ左階段,Porta Left Stairway at Central Gate,中央口ポルタ左階段
+中央口ポルタ中央階段,Porta Central Stairway at Central Gate,中央口ポルタ中央階段
+中央口ポルタ右階段,Porta Right Stairway at Central Gate,中央口ポルタ右階段
+0番ホームエスカレーター,Escalator on platform 0,"0番ホームエスカレーター,0番エスカレーター"
+0番ホーム階段,Stairway on Platform 0,"0番ホーム階段,0番階段"
+"2,3番ホームエスカレーター",Escalators on Platform 2 and 3,"2番ホームエスカレーター,3番ホームエスカレーター,2番エスカレーター,3番エスカレーター"
+"2,3番ホーム階段",Stairway on Platform 2 and 3,"2番ホーム階段,3番ホーム階段,2番階段,3番階段"
+"4,5番ホームエスカレーター",Escalators on Platform 4 and 5,"4番ホームエスカレーター,5番ホームエスカレーター,4番エスカレーター,5番エスカレーター"
+"4,5番ホーム階段",Stairway on Platform 4 and 5,"4番ホーム階段,5番ホーム階段,4番階段,5番階段"
+"6,7番ホームエスカレーター",Escalators on Platform 6 and 7,"6番ホームエスカレーター,7番ホームエスカレーター,6番エスカレーター,7番エスカレーター"
+"6,7番ホーム階段",Stairway on Platform 6 and 7,"6番ホーム階段,7番ホーム階段,6番階段,7番階段"
+"8,9,10ホームエスカレーター","Escalators on Platforms 8, 9 and 10","8ホームエスカレーター,9ホームエスカレーター,10ホームエスカレーター"
+"8,9,10ホーム階段","Stairway on Platform 8, 9, and 10","8ホーム階段,9ホーム階段,10ホーム階段"
+新幹線コンコースエスカレーター1,Shinkansen Concourse Escalator 1,新幹線コンコースエスカレーター1
+新幹線コンコース階段1,Shinkansen Concourse Stairway 1,新幹線コンコース階段1
+新幹線コンコースエスカレーター2,Shinkansen Concourse Escalator 2,新幹線コンコースエスカレーター2
+新幹線コンコース階段2,Shinkansen Concourse Stairway 2,新幹線コンコース階段2
+新幹線八条口改札内エスカレーター,Escalators inside Shinkansen Hachijo Ticket Gate,新幹線八条口改札内エスカレーター
+新幹線八条口改札内階段,Stairway inside Shinkansen Hachijo Ticket Gate,新幹線八条口改札内階段
+地下鉄南改札口内エスカレーター,Escalator inside South Subway Ticket Gate,地下鉄南改札口内エスカレーター
+地下鉄中央２改札口内エスカレーター,Escalators inside Central Subway Ticket Gate 2,地下鉄中央2改札口内エスカレーター
+地下鉄中央２改札口内階段,Stairway inside Central Subway Ticket Gate 2,地下鉄中央2改札口内階段
+ＨＩＫＡＲＩ,HIKARI,ＨＩＫＡＲＩ
+ダイコクドラッグ 京都駅八条口店,"DAIKOKU DRUG, Kyoto Station Hachijo-Gate","ダイコクドラッグ京都駅八条口店,ダイコクドラッグ八条口店"
+コクミンドラッグ 京都PORTA店,Kokumin Drug in Kyoto PORTA,"コクミンドラッグ京都PORTA店,コクミンドラッグPORTA店"
+サンプラザ薬局 京都駅前局,"Sunplaza Pharmacy, Kyoto Station Front","サンプラザ薬局京都駅前局,サンプラザ薬局駅前局"
+さくら薬局 京都駅前店,"Sakura Pharmacy, Kyoto Station Front","さくら薬局京都駅前店,さくら薬局駅前店"
+ほのか薬局,Honoka Pharmacy,ほのか薬局
+マツモトキヨシ 京都タワーサンド店,"Matsumoto Kiyoshi, Kyoto Tower Sandwich",マツモトキヨシ京都タワーサンド店
+京お弁当,Kyoto Bento,京お弁当
+授乳室 京都伊勢丹７F,Nursing room in Kyoto Isetan 7F,"授乳室京都伊勢丹７F,授乳室伊勢丹７F"
+駅スタンプ 中央口改札横,Station Stamp Spot at Central Ticket Gate,"駅スタンプ中央口改札横,駅スタンプ中央改札横"
+中央口改札外　待合室,Waiting Room outside Central Ticket Gate,"中央口改札外待合室,中央改札外待合室"
+老舗・名店弁当コーナー ジェイアール京都伊勢丹店,Long-established and Famous Bento Corner in JR Kyoto Isetan,"老舗名店弁当コーナージェイアール京都伊勢丹店,老舗名店弁当コーナー伊勢丹店"
+時の灯,Tokino-Hi,時の灯
+ゐざさ ＪＲ京都駅（新幹線構内）,Izasa in JR Kyoto Station (Shinkansen Premises),"ゐざさＪＲ京都駅新幹線構内,ゐざさ新幹線構内"
+デリカステーション京都コンコース店,"Delica Station, Kyoto Concourse Shop",デリカステーション京都コンコース店
+たごさく ジェイアール京都伊勢丹店,Tagosaku JR in Kyoto Isetan,"たごさくジェイアール京都伊勢丹店,たごさく伊勢丹店"
+とり松,Torimatsu,とり松
+551蓬莱 京都伊勢丹店,551 Horai in Kyoto Isetan,"551蓬莱京都伊勢丹店,551蓬莱伊勢丹店"
+551蓬莱 JR京都駅店,551 Horai JR in Kyoto Station,"551蓬莱JR京都駅店,551蓬莱"
+聖護院八ツ橋 京都伊勢丹店,Shogoin Yatsuhashi in Kyoto Isetan,"聖護院八ツ橋京都伊勢丹店,聖護院八ツ橋伊勢丹店"
+井筒八ッ橋本舗 京都伊勢丹店,Izutsu Yatsuhashi Honpo in Kyoto Isetan,"井筒八ッ橋本舗京都伊勢丹店,井筒八ッ橋本舗伊勢丹店"
+本家西尾八ッ橋 八条口店（ぎをん為治郎 八条口店）,Honke Nishio Yatsuhashi at Hachijo-Gate (Gion Tamejiro Hachijoguchi),本家西尾八ッ橋八条口店（ぎをん為治郎八条口店）
+ポルタインフォメーション横 授乳室,Nursing Room at Porta Information Booth,ポルタインフォメーション横授乳室
+駅スタンプ 西口改札内,Station Stamp Spot inside West Ticket Gate,駅スタンプ西口改札内

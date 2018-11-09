@@ -9,9 +9,9 @@ namespace :to_json do
       nil => nil
     }
     types = {
-      'エスカレーター' => '1',
-      'エレベーター' => '2',
-      '階段' => '3',
+      'エスカレーター' => '29',
+      'エレベーター' => '28',
+      '階段' => '30',
       nil => nil
     }
     sort_table = %w(B3 B2 P B1 1 2 M3 3 4 M5 5 6 7 M8 8 9 10 11 R 15)
@@ -129,16 +129,16 @@ namespace :to_json do
 
         cat_map = {
           'レストラン・お食事' => '1',
-          'カフェ・スイーツ' => '2',
-          'ショッピング' => '3',
-          'ギフト・おみやげ' => '4',
-          'コンビニ・スーパー' => '5',
+          'ギフト・おみやげ' => '2',
+          'カフェ・スイーツ' => '3',
+          'コンビニ・スーパー' => '4',
+          'ショッピング' => '5',
           'その他・サービス' => '6',
           '' => nil
         }
         hash['category_id'] = cat_map[data['カテゴリ（cat）']]
 
-        hash['subcat'] = data['サブカテゴリ（subcat）'].delete("\u0005")
+        hash['subcat'] = data['サブカテゴリ（subcat）']
         hash['area'] = data['エリア（area）']
         hash['station'] = data['場所（station）']
         hash['keywords'] = data['キーワード（keywords）'].try(:split, ',')
@@ -156,11 +156,14 @@ namespace :to_json do
 
         smoke_map = {
           '禁煙' => 0,
-          '喫煙' => 1,
-          '分煙' => 2,
+          '分煙' => 1,
+          '喫煙' => 2,
           '' => nil
         }
         hash['smoking'] = smoke_map[data['喫煙（smoking）']]
+        if data['喫煙（smoking）'] && hash['smoking']
+          puts data['喫煙（smoking）'] +','+ hash['smoking'].to_s
+        end
 
 
         hash['end_point'] = {
@@ -169,7 +172,7 @@ namespace :to_json do
           "y" =>  nil,
         }
         if end_point = data['座標（end_point）'].try(:split, ',')
-          hash['end_point']['floor'] = end_point[0]
+          hash['end_point']['floor'] = end_point[0].upcase
           hash['end_point']['x'] = end_point[1]
           hash['end_point']['y'] = end_point[2]
         end
@@ -196,10 +199,10 @@ namespace :to_json do
 
         hash['url'] = data['公式サイトURL（url）']
 
-        hash.each{|key, value| hash[key] = nil if value.blank?}
+        hash.each{|key, value| hash[key] = nil if value == ""}
         hash
       end
-      results.select!{|r| r['name_ja'].present? && r['end_point'].present? }
+      results.select!{|r| r['name_ja'].present? && r['end_point'].present? && r['end_point']['x'].present? && r['end_point']['y'].present?}
       file.write(JSON.pretty_generate(results))
     end
   end

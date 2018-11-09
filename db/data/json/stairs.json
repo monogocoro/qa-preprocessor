@@ -1,8 +1,8 @@
 [
   {
     "name": "中央口北東エスカレーター1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "North-East Escalator 1 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -20,8 +20,8 @@
   },
   {
     "name": "中央口北東エスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "North-East Escalator 2 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -39,8 +39,8 @@
   },
   {
     "name": "中央口北東階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North-East Stairway 1 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -58,8 +58,8 @@
   },
   {
     "name": "中央口北東階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North-East Stairway 2 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -77,8 +77,8 @@
   },
   {
     "name": "中央口前階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Front Stairway 1 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -96,8 +96,8 @@
   },
   {
     "name": "中央口前階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Front Stairway 2 at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -115,8 +115,8 @@
   },
   {
     "name": "南北連絡口南エスカレータ1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 1 at South-North Access Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -134,8 +134,8 @@
   },
   {
     "name": "Avanti連絡階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Avanti Connecting Stairway",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -153,8 +153,8 @@
   },
   {
     "name": "南北連絡口南階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "South Stair 1 at South-North Access Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -172,8 +172,8 @@
   },
   {
     "name": "南北連絡口南エレベータ",
-    "name_en": null,
-    "type": "2",
+    "name_en": "South Elevator at South-North Access Gate",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -191,8 +191,8 @@
   },
   {
     "name": "南北連絡口南エスカレータ2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 2 at South-North Access Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -210,8 +210,8 @@
   },
   {
     "name": "南北連絡口南階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "South Stairway at South-North Access Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -229,8 +229,8 @@
   },
   {
     "name": "みやこみち内階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway in Miyakomichi",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -248,8 +248,8 @@
   },
   {
     "name": "みやこみち内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator in Miyakomichi",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -267,8 +267,8 @@
   },
   {
     "name": "地下連絡通路階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway to Underground Mall",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -286,8 +286,8 @@
   },
   {
     "name": "大階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Large Stairway 1",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -355,8 +355,8 @@
   },
   {
     "name": "大階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Large Stairway 2",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -399,8 +399,8 @@
   },
   {
     "name": "中央口駅ビル中央エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "Central Gate Central Elevator",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -433,8 +433,8 @@
   },
   {
     "name": "中央口東エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "Central Gate East Elevator",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -457,8 +457,8 @@
   },
   {
     "name": "伊勢丹内北階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North Stairway 1 in Isetan",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -546,8 +546,8 @@
   },
   {
     "name": "伊勢丹内北階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "North Stairway 1 in Isetan    ★同じ？",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -570,8 +570,8 @@
   },
   {
     "name": "伊勢丹内南エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "South Elevator in Isetan",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -624,8 +624,8 @@
   },
   {
     "name": "伊勢丹内北エレベーター",
-    "name_en": null,
-    "type": "2",
+    "name_en": "North Elevator in Isetan",
+    "type": "28",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -713,8 +713,8 @@
   },
   {
     "name": "伊勢丹内中央エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Central escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -752,8 +752,8 @@
   },
   {
     "name": "伊勢丹内南エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -811,8 +811,8 @@
   },
   {
     "name": "ポルタ左上階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Upper Left Stairway",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -830,8 +830,8 @@
   },
   {
     "name": "中央口ポルタ左階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Left Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -849,8 +849,8 @@
   },
   {
     "name": "中央口ポルタ中央階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Center Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -868,8 +868,8 @@
   },
   {
     "name": "中央口ポルタ右階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Porta Right Stairway at Central Gate",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -887,8 +887,8 @@
   },
   {
     "name": "0番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on platform 0",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -906,8 +906,8 @@
   },
   {
     "name": "0番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 0",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -925,8 +925,8 @@
   },
   {
     "name": "2,3番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalators on Platform 2 and 3",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -944,8 +944,8 @@
   },
   {
     "name": "2,3番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 2 and 3",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -963,8 +963,8 @@
   },
   {
     "name": "4,5番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalators on Platform 4 and 5",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -982,8 +982,8 @@
   },
   {
     "name": "4,5番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 4 and 5",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1001,8 +1001,8 @@
   },
   {
     "name": "6,7番ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on Platform 6 and 7",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1020,8 +1020,8 @@
   },
   {
     "name": "6,7番ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 6 and 7",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1039,8 +1039,8 @@
   },
   {
     "name": "8,9,10ホームエスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator on Platforms 8, 9 and 10",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1058,8 +1058,8 @@
   },
   {
     "name": "8,9,10ホーム階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway on Platform 8, 9, and 10",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1077,8 +1077,8 @@
   },
   {
     "name": "新幹線コンコースエスカレーター1",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Shinkansen Concourse Escalator 1",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1096,8 +1096,8 @@
   },
   {
     "name": "新幹線コンコース階段1",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Shinkansen concourse stairway 1",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1115,8 +1115,8 @@
   },
   {
     "name": "新幹線コンコースエスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Shinkansen concourse escalator 2",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1134,8 +1134,8 @@
   },
   {
     "name": "新幹線コンコース階段2",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Shinkansen concourse stairway 2",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1153,8 +1153,8 @@
   },
   {
     "name": "新幹線八条口改札内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator inside Shinkansen Hachijo Ticket Gate",
+    "type": "29",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1172,8 +1172,8 @@
   },
   {
     "name": "新幹線八条口改札内階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "Stairway inside Shinkansen Hachijo Ticket Gate",
+    "type": "30",
     "inside": true,
     "ingate": true,
     "end_points": [
@@ -1191,27 +1191,27 @@
   },
   {
     "name": "地下鉄南改札口内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalator inside Subway South Ticket Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B3",
-        "x": "80",
+        "x": "79",
         "y": "62"
       },
       {
         "floor": "B2",
-        "x": "80",
+        "x": "79",
         "y": "62"
       }
     ]
   },
   {
     "name": "地下鉄中央２改札口内エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Escalators inside Subway Central Ticket Gate 2",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -1223,33 +1223,14 @@
       {
         "floor": "B2",
         "x": "79",
-        "y": "50"
-      }
-    ]
-  },
-  {
-    "name": "地下鉄中央２改札口内階段",
-    "name_en": null,
-    "type": "3",
-    "inside": true,
-    "ingate": false,
-    "end_points": [
-      {
-        "floor": "B3",
-        "x": "80",
-        "y": "50"
-      },
-      {
-        "floor": "B2",
-        "x": "80",
         "y": "50"
       }
     ]
   },
   {
     "name": "伊勢丹内南エスカレーター2",
-    "name_en": null,
-    "type": "1",
+    "name_en": "South Escalator 2 in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -1272,8 +1253,8 @@
   },
   {
     "name": "伊勢丹内中央エスカレーター",
-    "name_en": null,
-    "type": "1",
+    "name_en": "Central escalator in Isetan",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -1326,8 +1307,8 @@
   },
   {
     "name": "3F・4F往来階段",
-    "name_en": null,
-    "type": "3",
+    "name_en": "3F-4F Stairs",
+    "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
@@ -1340,6 +1321,25 @@
         "floor": "4",
         "x": "55",
         "y": "48"
+      }
+    ]
+  },
+  {
+    "name": "改札前イートパラダイス前エスカレーター",
+    "name_en": "Escalator of Eat Paradise in front of the ticket gate",
+    "type": "29",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "2",
+        "x": "44",
+        "y": "58"
+      },
+      {
+        "floor": "3",
+        "x": "44",
+        "y": "58"
       }
     ]
   }
