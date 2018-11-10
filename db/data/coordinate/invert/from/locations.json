@@ -1958,8 +1958,8 @@
     "smoking": 9,
     "end_point": {
       "floor": "1",
-      "x": "79",
-      "y": "72"
+      "x": "78",
+      "y": "71"
     },
     "lnglat": {
       "lng": null,
@@ -2309,7 +2309,7 @@
     "smoking": 9,
     "end_point": {
       "floor": "2",
-      "x": "50",
+      "x": "49",
       "y": "74"
     },
     "lnglat": {
@@ -2425,7 +2425,7 @@
     "smoking": 9,
     "end_point": {
       "floor": "2",
-      "x": "51",
+      "x": "49",
       "y": "56"
     },
     "lnglat": {
@@ -2991,7 +2991,7 @@
     "url": null
   },
   {
-    "name_ja": "鳥丸口（B）",
+    "name_ja": "鳥丸口 （みどりの窓口近く）",
     "name_en": "Torimarukuchi (B) Coin locker",
     "alias": null,
     "category_id": null,
@@ -3049,66 +3049,7 @@
     "url": null
   },
   {
-    "name_ja": "10番線（A）",
-    "name_en": "Platform 10 (A) Coin lockers",
-    "alias": null,
-    "category_id": null,
-    "subcat": "コインロッカー",
-    "area": null,
-    "station": "京都",
-    "keywords": [
-      "コインロッカー",
-      "奈良線コインロッカー"
-    ],
-    "postcode": null,
-    "addr": null,
-    "tel": null,
-    "inside": true,
-    "ingate": true,
-    "smoking": 9,
-    "end_point": {
-      "floor": "1",
-      "x": "79",
-      "y": "70"
-    },
-    "lnglat": {
-      "lng": null,
-      "lat": null
-    },
-    "biz_hours": {
-      "sun": {
-        "op": null,
-        "ed": null
-      },
-      "mon": {
-        "op": null,
-        "ed": null
-      },
-      "tue": {
-        "op": null,
-        "ed": null
-      },
-      "wed": {
-        "op": null,
-        "ed": null
-      },
-      "thu": {
-        "op": null,
-        "ed": null
-      },
-      "fri": {
-        "op": null,
-        "ed": null
-      },
-      "sat": {
-        "op": null,
-        "ed": null
-      }
-    },
-    "url": null
-  },
-  {
-    "name_ja": "鳥丸口",
+    "name_ja": "鳥丸口外（中央口すぐポルタへの階段正面横）",
     "name_en": "Torimarukuchi coin locker",
     "alias": null,
     "category_id": null,
@@ -3126,8 +3067,8 @@
     "smoking": 9,
     "end_point": {
       "floor": "1",
-      "x": "43",
-      "y": "35"
+      "x": "58",
+      "y": "32"
     },
     "lnglat": {
       "lng": null,
@@ -3184,8 +3125,8 @@
     "smoking": 9,
     "end_point": {
       "floor": "1",
-      "x": "44",
-      "y": "31"
+      "x": "41",
+      "y": "27"
     },
     "lnglat": {
       "lng": null,
@@ -3224,7 +3165,7 @@
     "url": null
   },
   {
-    "name_ja": "中央改札内",
+    "name_ja": "JR中央改札内0番のりば（複数個所）",
     "name_en": "Coin lockers at the central ticket gate",
     "alias": null,
     "category_id": null,
@@ -3282,7 +3223,7 @@
     "url": null
   },
   {
-    "name_ja": "地下一階（F）",
+    "name_ja": "京都駅ビル地下一階（3か所）",
     "name_en": "Coin locker on the first basement (F)",
     "alias": null,
     "category_id": null,
@@ -3340,65 +3281,7 @@
     "url": null
   },
   {
-    "name_ja": "地下鉄南改札口",
-    "name_en": "Coin lockers at the south exit of the subway",
-    "alias": null,
-    "category_id": null,
-    "subcat": "コインロッカー",
-    "area": null,
-    "station": "京都",
-    "keywords": [
-      "コインロッカー"
-    ],
-    "postcode": null,
-    "addr": null,
-    "tel": null,
-    "inside": true,
-    "ingate": false,
-    "smoking": 9,
-    "end_point": {
-      "floor": "B2",
-      "x": "80",
-      "y": "60"
-    },
-    "lnglat": {
-      "lng": null,
-      "lat": null
-    },
-    "biz_hours": {
-      "sun": {
-        "op": null,
-        "ed": null
-      },
-      "mon": {
-        "op": null,
-        "ed": null
-      },
-      "tue": {
-        "op": null,
-        "ed": null
-      },
-      "wed": {
-        "op": null,
-        "ed": null
-      },
-      "thu": {
-        "op": null,
-        "ed": null
-      },
-      "fri": {
-        "op": null,
-        "ed": null
-      },
-      "sat": {
-        "op": null,
-        "ed": null
-      }
-    },
-    "url": null
-  },
-  {
-    "name_ja": "JR地下改札内8,9番線",
+    "name_ja": "地下自由通路 中央",
     "name_en": "Coin lockers on Platform 8 and 9 inside the JR underground ticket gate",
     "alias": null,
     "category_id": null,
@@ -3416,8 +3299,8 @@
     "smoking": 9,
     "end_point": {
       "floor": "B2",
-      "x": "77",
-      "y": "58"
+      "x": "81",
+      "y": "55"
     },
     "lnglat": {
       "lng": null,
@@ -3456,7 +3339,65 @@
     "url": null
   },
   {
-    "name_ja": "JR地下東口改札外",
+    "name_ja": "JR地下改札内8,9番線のりば階段前",
+    "name_en": "Coin lockers on Platform 8 and 9 inside the JR underground ticket gate",
+    "alias": null,
+    "category_id": null,
+    "subcat": "コインロッカー",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "コインロッカー"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "B2",
+      "x": "79",
+      "y": "65"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "地下鉄烏丸線のりば（中央1改札）対面",
     "name_en": "Coin-operated lockers outside the ticket gate of the JR underground east exit",
     "alias": null,
     "category_id": null,
@@ -3514,7 +3455,7 @@
     "url": null
   },
   {
-    "name_ja": "A1出口",
+    "name_ja": "ポルタA2出口（タクシーのりば/京都駅ビル）",
     "name_en": "Coin lockers at the A1 exit",
     "alias": null,
     "category_id": null,
@@ -3532,7 +3473,7 @@
     "smoking": 9,
     "end_point": {
       "floor": "B2",
-      "x": "88",
+      "x": "84",
       "y": "29"
     },
     "lnglat": {
@@ -3572,7 +3513,7 @@
     "url": null
   },
   {
-    "name_ja": "A3出口",
+    "name_ja": "ポルタA3出口階段前（塩小路通）",
     "name_en": "A3 Exit Coin Coin Coin Coin",
     "alias": null,
     "category_id": null,
@@ -3630,7 +3571,7 @@
     "url": null
   },
   {
-    "name_ja": "B7出口",
+    "name_ja": "ポルタB7出口横（京都駅ビル連絡通路/ザ・キューブ）",
     "name_en": "B7 Exit Coin Coin Coin",
     "alias": null,
     "category_id": null,
@@ -3688,7 +3629,7 @@
     "url": null
   },
   {
-    "name_ja": "C1出口",
+    "name_ja": "ポルタC1出口前（京都駅南北自由通路前階段）",
     "name_en": "Coin locker at C1 exit",
     "alias": null,
     "category_id": null,
@@ -3746,7 +3687,7 @@
     "url": null
   },
   {
-    "name_ja": "C3出口",
+    "name_ja": "ポルタC3出口横",
     "name_en": "Coin locker at C3 exit",
     "alias": null,
     "category_id": null,
@@ -3804,7 +3745,7 @@
     "url": null
   },
   {
-    "name_ja": "C9出口",
+    "name_ja": "ポルタC9出口横（2か所）",
     "name_en": "Coin locker at C9 exit",
     "alias": null,
     "category_id": null,
@@ -3823,7 +3764,7 @@
     "end_point": {
       "floor": "B2",
       "x": "31",
-      "y": "22"
+      "y": "24"
     },
     "lnglat": {
       "lng": null,
@@ -3862,65 +3803,7 @@
     "url": null
   },
   {
-    "name_ja": "B8出口",
-    "name_en": "B8 outlet coin lockers",
-    "alias": null,
-    "category_id": null,
-    "subcat": "コインロッカー",
-    "area": null,
-    "station": "京都",
-    "keywords": [
-      "コインロッカー"
-    ],
-    "postcode": null,
-    "addr": null,
-    "tel": null,
-    "inside": true,
-    "ingate": false,
-    "smoking": 9,
-    "end_point": {
-      "floor": "B2",
-      "x": "57",
-      "y": "28"
-    },
-    "lnglat": {
-      "lng": null,
-      "lat": null
-    },
-    "biz_hours": {
-      "sun": {
-        "op": null,
-        "ed": null
-      },
-      "mon": {
-        "op": null,
-        "ed": null
-      },
-      "tue": {
-        "op": null,
-        "ed": null
-      },
-      "wed": {
-        "op": null,
-        "ed": null
-      },
-      "thu": {
-        "op": null,
-        "ed": null
-      },
-      "fri": {
-        "op": null,
-        "ed": null
-      },
-      "sat": {
-        "op": null,
-        "ed": null
-      }
-    },
-    "url": null
-  },
-  {
-    "name_ja": "B12階段横",
+    "name_ja": "ポルタB12階段横",
     "name_en": "B 12 Stair side coin locker",
     "alias": null,
     "category_id": null,
@@ -3978,7 +3861,7 @@
     "url": null
   },
   {
-    "name_ja": "1番出口",
+    "name_ja": "1番出口（烏丸塩小路北東）",
     "name_en": "Coin locker at the exit 1",
     "alias": null,
     "category_id": null,
@@ -4036,65 +3919,7 @@
     "url": null
   },
   {
-    "name_ja": "2番出口",
-    "name_en": "Coin locker at the second exit",
-    "alias": null,
-    "category_id": null,
-    "subcat": "コインロッカー",
-    "area": null,
-    "station": "京都",
-    "keywords": [
-      "コインロッカー"
-    ],
-    "postcode": null,
-    "addr": null,
-    "tel": null,
-    "inside": true,
-    "ingate": false,
-    "smoking": 9,
-    "end_point": {
-      "floor": "B2",
-      "x": "73",
-      "y": "14"
-    },
-    "lnglat": {
-      "lng": null,
-      "lat": null
-    },
-    "biz_hours": {
-      "sun": {
-        "op": null,
-        "ed": null
-      },
-      "mon": {
-        "op": null,
-        "ed": null
-      },
-      "tue": {
-        "op": null,
-        "ed": null
-      },
-      "wed": {
-        "op": null,
-        "ed": null
-      },
-      "thu": {
-        "op": null,
-        "ed": null
-      },
-      "fri": {
-        "op": null,
-        "ed": null
-      },
-      "sat": {
-        "op": null,
-        "ed": null
-      }
-    },
-    "url": null
-  },
-  {
-    "name_ja": "北改札",
+    "name_ja": "地下鉄烏丸線のりば（北改札）",
     "name_en": "Coin lockers at the north ticket gate",
     "alias": null,
     "category_id": null,
@@ -4153,7 +3978,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "multifunctional toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -4214,7 +4039,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "multifunctional toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -4275,7 +4100,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "multifunctional toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -6456,9 +6281,9 @@
     "ingate": false,
     "smoking": 9,
     "end_point": {
-      "floor": "B1",
-      "x": "0",
-      "y": "10"
+      "floor": "1",
+      "x": "6",
+      "y": "11"
     },
     "lnglat": {
       "lng": null,
@@ -6633,7 +6458,7 @@
     "ingate": false,
     "smoking": 9,
     "end_point": {
-      "floor": "1",
+      "floor": "2",
       "x": "34",
       "y": "41"
     },
@@ -8751,7 +8576,7 @@
     "end_point": {
       "floor": "11",
       "x": "30",
-      "y": "50"
+      "y": "49"
     },
     "lnglat": {
       "lng": null,
@@ -8811,7 +8636,7 @@
     "smoking": 0,
     "end_point": {
       "floor": "11",
-      "x": "41",
+      "x": "40",
       "y": "46"
     },
     "lnglat": {
@@ -19195,7 +19020,7 @@
     "end_point": {
       "floor": "1",
       "x": "80",
-      "y": "70"
+      "y": "71"
     },
     "lnglat": {
       "lng": null,
@@ -23726,7 +23551,7 @@
     "smoking": 9,
     "end_point": {
       "floor": "B2",
-      "x": "79",
+      "x": "80",
       "y": "66"
     },
     "lnglat": {
@@ -24698,7 +24523,7 @@
   },
   {
     "name_ja": "トイレ",
-    "name_en": "toilet",
+    "name_en": "Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -24757,7 +24582,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -24818,7 +24643,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -24839,7 +24664,7 @@
     "end_point": {
       "floor": "1",
       "x": "35",
-      "y": "42"
+      "y": "41"
     },
     "lnglat": {
       "lng": null,
@@ -24879,7 +24704,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -24940,7 +24765,7 @@
   },
   {
     "name_ja": "多機能トイレ",
-    "name_en": "toilet",
+    "name_en": "Multifunctional Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -25001,7 +24826,7 @@
   },
   {
     "name_ja": "トイレ",
-    "name_en": "toilet",
+    "name_en": "Restroom",
     "alias": null,
     "category_id": null,
     "subcat": "お手洗い",
@@ -25019,8 +24844,124 @@
     "smoking": 9,
     "end_point": {
       "floor": "1",
-      "x": "80",
-      "y": "69"
+      "x": "79",
+      "y": "70"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "鳥丸口 （タクシー乗り場近く）",
+    "name_en": "Torimarukuchi (B) Coin locker",
+    "alias": null,
+    "category_id": null,
+    "subcat": "コインロッカー",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "コインロッカー"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
+    "end_point": {
+      "floor": "1",
+      "x": "72",
+      "y": "39"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "地下自由通路 地下鉄役務室横",
+    "name_en": "Coin lockers on Platform 8 and 9 inside the JR underground ticket gate",
+    "alias": null,
+    "category_id": null,
+    "subcat": "コインロッカー",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "コインロッカー"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "B2",
+      "x": "81",
+      "y": "58"
     },
     "lnglat": {
       "lng": null,

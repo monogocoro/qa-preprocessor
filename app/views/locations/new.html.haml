@@ -1,0 +1,23 @@
+%h2 ロケーション
+%p CSVをアップロードして下さい。
+= render 'form'
+
+%h2 階段（Stairs）
+%p CSVをアップロードして下さい。
+= form_tag('/stairs', {:multipart => true, :method => 'post'} ) do
+  = file_field :upload, :datafile
+  = submit_tag  "北が上版をダウンロード"
+  = submit_tag  "南が上版をダウンロード"
+
+%h2 地図（Maps）
+%p txtファイルをZipしたファイルをアップロードして下さい。
+= form_tag('/maps', {:multipart => true, :method => 'post'} ) do
+  = file_field :upload, :datafile
+  = submit_tag  "ダウンロード"
+
+%h2 閉じた地図（MapsClosed）
+%p 前回アップロードした地図ファイルを元に、作成します。
+%p ブロックのCSVをアップロードして下さい。
+= form_tag('/maps/closed', {:multipart => true, :method => 'post'} ) do
+  = file_field :upload, :datafile
+  = submit_tag  "ダウンロード"

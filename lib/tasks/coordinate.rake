@@ -67,7 +67,7 @@ namespace :coordinate do
     maps = []
     grid_size = 99
     Dir.foreach(from_path) do |item|
-      next if item == '.' or item == '..'
+      next if item == '.' or item == '..' or item == '.DS_Store'
 
       grid = open(from_path.join(item)) do |io|
         str = io.read

@@ -64,3 +64,5 @@ gem 'natto'
 gem 'romaji'
 
 gem 'execjs'
+
+gem 'rubyzip'

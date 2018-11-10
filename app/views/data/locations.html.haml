@@ -1,0 +1,6 @@
+%h1 Data#locations
+%p Find me in app/views/data/locations.html.haml
+
+= form_tag('/data/locations_upload', {:multipart => true} ) do
+  = file_field :upload, :datafile
+  = submit_tag  "Upload"

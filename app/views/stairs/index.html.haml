@@ -1,0 +1,19 @@
+%h1 Listing stairs
+
+%table
+  %thead
+    %tr
+      %th
+      %th
+      %th
+
+  %tbody
+    - @stairs.each do |stair|
+      %tr
+        %td= link_to 'Show', stair
+        %td= link_to 'Edit', edit_stair_path(stair)
+        %td= link_to 'Destroy', stair, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Stair', new_stair_path

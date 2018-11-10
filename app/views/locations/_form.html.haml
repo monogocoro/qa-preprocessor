@@ -1,0 +1,4 @@
+= form_tag('/locations', {:multipart => true, :method => 'post'} ) do
+  = file_field :upload, :datafile
+  = submit_tag  "北が上版をダウンロード"
+  = submit_tag  "南が上版をダウンロード"

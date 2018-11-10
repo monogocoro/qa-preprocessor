@@ -76,12 +76,17 @@
     ]
   },
   {
-    "name": "中央口前階段1",
-    "name_en": "Front Stairway 1 at Central Gate",
-    "type": "30",
+    "name": "中央口前エスカレーター1",
+    "name_en": "Front Escalator 1 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
+      {
+        "floor": "B2",
+        "x": 41,
+        "y": 57
+      },
       {
         "floor": "B1",
         "x": 41,
@@ -95,12 +100,17 @@
     ]
   },
   {
-    "name": "中央口前階段2",
-    "name_en": "Front Stairway 2 at Central Gate",
-    "type": "30",
+    "name": "中央口前エスカレーター2",
+    "name_en": "Front Escalator 2 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
+      {
+        "floor": "B2",
+        "x": 38,
+        "y": 57
+      },
       {
         "floor": "B1",
         "x": 38,
@@ -348,7 +358,7 @@
       },
       {
         "floor": "R",
-        "x": 70,
+        "x": 73,
         "y": 55
       }
     ]
@@ -383,7 +393,7 @@
       {
         "floor": "5",
         "x": 25,
-        "y": 57
+        "y": 58
       },
       {
         "floor": "7",
@@ -406,28 +416,28 @@
     "end_points": [
       {
         "floor": "B3",
-        "x": 45,
-        "y": 61
+        "x": 44,
+        "y": 64
       },
       {
         "floor": "B2",
-        "x": 45,
-        "y": 61
+        "x": 44,
+        "y": 64
       },
       {
         "floor": "B1",
-        "x": 45,
-        "y": 61
+        "x": 44,
+        "y": 64
       },
       {
         "floor": "1",
-        "x": 45,
-        "y": 61
+        "x": 44,
+        "y": 64
       },
       {
         "floor": "2",
-        "x": 45,
-        "y": 61
+        "x": 44,
+        "y": 64
       }
     ]
   },
@@ -464,106 +474,106 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "B1",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "1",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "2",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "M3",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "3",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "4",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "M5",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "5",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "6",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "7",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "M8",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "8",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "9",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "10",
-        "x": 54,
+        "x": 55,
         "y": 61
       },
       {
         "floor": "11",
-        "x": 54,
+        "x": 55,
         "y": 61
       }
     ]
   },
   {
-    "name": "伊勢丹内北階段1",
-    "name_en": "North Stairway 1 in Isetan    ★同じ？",
+    "name": "伊勢丹内北階段2",
+    "name_en": "North Stairway 2 in Isetan  ",
     "type": "30",
     "inside": true,
     "ingate": false,
     "end_points": [
       {
         "floor": "B2",
-        "x": 51,
+        "x": 53,
         "y": 61
       },
       {
         "floor": "B1",
-        "x": 51,
+        "x": 53,
         "y": 61
       },
       {
         "floor": "1",
-        "x": 51,
+        "x": 53,
         "y": 61
       }
     ]
@@ -810,7 +820,7 @@
     ]
   },
   {
-    "name": "ポルタ左上階段",
+    "name": "ポルタへの階段（C6階段）",
     "name_en": "Porta Upper Left Stairway",
     "type": "30",
     "inside": true,
@@ -818,13 +828,13 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": 59,
-        "y": 73
+        "x": 60,
+        "y": 87
       },
       {
         "floor": "1",
-        "x": 59,
-        "y": 73
+        "x": 60,
+        "y": 87
       }
     ]
   },
@@ -837,13 +847,13 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": 59,
-        "y": 64
+        "x": 57,
+        "y": 67
       },
       {
         "floor": "1",
-        "x": 59,
-        "y": 64
+        "x": 57,
+        "y": 67
       }
     ]
   },
@@ -856,13 +866,13 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": 44,
-        "y": 64
+        "x": 43,
+        "y": 67
       },
       {
         "floor": "1",
-        "x": 44,
-        "y": 64
+        "x": 43,
+        "y": 67
       }
     ]
   },
@@ -876,12 +886,12 @@
       {
         "floor": "B2",
         "x": 30,
-        "y": 64
+        "y": 67
       },
       {
         "floor": "1",
         "x": 30,
-        "y": 64
+        "y": 67
       }
     ]
   },
@@ -1340,6 +1350,63 @@
         "floor": "3",
         "x": 55,
         "y": 41
+      }
+    ]
+  },
+  {
+    "name": "ポルタへの階段（C8階段）",
+    "name_en": "Porta Upper Left Stairway",
+    "type": "30",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": 56,
+        "y": 87
+      },
+      {
+        "floor": "1",
+        "x": 56,
+        "y": 87
+      }
+    ]
+  },
+  {
+    "name": "ポルタへの階段（B14階段）",
+    "name_en": "Porta Upper Left Stairway",
+    "type": "30",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": 48,
+        "y": 87
+      },
+      {
+        "floor": "1",
+        "x": 48,
+        "y": 87
+      }
+    ]
+  },
+  {
+    "name": "ポルタへの階段（B13階段）",
+    "name_en": "Porta Upper Left Stairway",
+    "type": "30",
+    "inside": true,
+    "ingate": false,
+    "end_points": [
+      {
+        "floor": "B2",
+        "x": 43,
+        "y": 87
+      },
+      {
+        "floor": "1",
+        "x": 43,
+        "y": 87
       }
     ]
   }
