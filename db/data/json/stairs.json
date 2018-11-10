@@ -76,12 +76,17 @@
     ]
   },
   {
-    "name": "中央口前階段1",
-    "name_en": "Front Stairway 1 at Central Gate",
-    "type": "30",
+    "name": "中央口前エスカレーター1",
+    "name_en": "Front Escalator 1 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
+      {
+        "floor": "B2",
+        "x": "58",
+        "y": "42"
+      },
       {
         "floor": "B1",
         "x": "58",
@@ -95,12 +100,17 @@
     ]
   },
   {
-    "name": "中央口前階段2",
-    "name_en": "Front Stairway 2 at Central Gate",
-    "type": "30",
+    "name": "中央口前エスカレーター2",
+    "name_en": "Front Escalator 2 at Central Gate",
+    "type": "29",
     "inside": true,
     "ingate": false,
     "end_points": [
+      {
+        "floor": "B2",
+        "x": "61",
+        "y": "42"
+      },
       {
         "floor": "B1",
         "x": "61",
@@ -406,28 +416,28 @@
     "end_points": [
       {
         "floor": "B3",
-        "x": "54",
-        "y": "38"
+        "x": "55",
+        "y": "35"
       },
       {
         "floor": "B2",
-        "x": "54",
-        "y": "38"
+        "x": "55",
+        "y": "35"
       },
       {
         "floor": "B1",
-        "x": "54",
-        "y": "38"
+        "x": "55",
+        "y": "35"
       },
       {
         "floor": "1",
-        "x": "54",
-        "y": "38"
+        "x": "55",
+        "y": "35"
       },
       {
         "floor": "2",
-        "x": "54",
-        "y": "38"
+        "x": "55",
+        "y": "35"
       }
     ]
   },
@@ -837,13 +847,13 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": "40",
-        "y": "35"
+        "x": "42",
+        "y": "32"
       },
       {
         "floor": "1",
-        "x": "40",
-        "y": "35"
+        "x": "42",
+        "y": "32"
       }
     ]
   },
@@ -856,13 +866,13 @@
     "end_points": [
       {
         "floor": "B2",
-        "x": "55",
-        "y": "35"
+        "x": "56",
+        "y": "32"
       },
       {
         "floor": "1",
-        "x": "55",
-        "y": "35"
+        "x": "56",
+        "y": "32"
       }
     ]
   },
@@ -876,12 +886,12 @@
       {
         "floor": "B2",
         "x": "69",
-        "y": "35"
+        "y": "32"
       },
       {
         "floor": "1",
         "x": "69",
-        "y": "35"
+        "y": "32"
       }
     ]
   },

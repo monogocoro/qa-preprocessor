@@ -16,7 +16,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -74,7 +74,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -133,7 +133,7 @@
     "tel": "050-3536-3957",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "38",
@@ -192,7 +192,7 @@
     "tel": "075-343-6872",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -250,7 +250,7 @@
     "tel": "075-343-0548",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
@@ -262,31 +262,31 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "mon": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "tue": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "wed": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "thu": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "fri": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       },
       "sat": {
-        "op": "0800",
+        "op": "0830",
         "ed": "1900"
       }
     },
@@ -306,7 +306,7 @@
     "tel": "075-361-4401",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "49",
@@ -362,7 +362,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": "25",
@@ -418,7 +418,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": "73",
@@ -474,7 +474,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "75",
@@ -530,7 +530,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": "25",
@@ -586,7 +586,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "46",
@@ -642,7 +642,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -698,7 +698,7 @@
     "tel": "075-361-4501",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "96",
@@ -754,7 +754,7 @@
     "tel": "075-361-4501",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "5",
@@ -812,7 +812,7 @@
     "tel": "075-672-2100",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -870,7 +870,7 @@
     "tel": "0570-002-424",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "65",
@@ -928,7 +928,7 @@
     "tel": "075-842-1212",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "73",
@@ -987,7 +987,7 @@
     "tel": "075-222-3568",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "48",
@@ -1045,7 +1045,7 @@
     "tel": " 075-365-7528",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "55",
@@ -1104,7 +1104,7 @@
     "tel": "075-691-8384",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "33",
@@ -1160,7 +1160,7 @@
     "tel": "075-662-0741",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "57",
@@ -1216,7 +1216,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "44",
@@ -1272,7 +1272,7 @@
     "tel": "075-371-2134",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -1328,7 +1328,7 @@
     "tel": "075-863-5068",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "77",
@@ -1384,7 +1384,7 @@
     "tel": "075-691-6881",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "37",
@@ -1440,7 +1440,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "44",
@@ -1496,7 +1496,7 @@
     "tel": "075-361-4401",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "85",
@@ -1552,7 +1552,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "82",
@@ -1608,7 +1608,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "40",
@@ -1664,7 +1664,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "47",
@@ -1722,7 +1722,7 @@
     "tel": "075-344-8888",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "73",
@@ -1780,11 +1780,11 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "57",
-      "y": "45"
+      "y": "43"
     },
     "lnglat": {
       "lng": null,
@@ -1838,7 +1838,7 @@
     "tel": "075-371-9866",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "80",
@@ -1881,65 +1881,6 @@
     "url": null
   },
   {
-    "name_ja": "京都総合観光案内所",
-    "name_en": "Kyoto General Tourist Information Center",
-    "alias": null,
-    "category_id": "6",
-    "subcat": "案内所",
-    "area": null,
-    "station": "京都",
-    "keywords": [
-      "案内所",
-      "観光案内所"
-    ],
-    "postcode": null,
-    "addr": "京都府京都市下京区東塩小路町 塩小路下る 京都駅ビル2F 烏丸通",
-    "tel": "\n075-343-0548",
-    "inside": true,
-    "ingate": false,
-    "smoking": null,
-    "end_point": {
-      "floor": "2",
-      "x": "44",
-      "y": "49"
-    },
-    "lnglat": {
-      "lng": null,
-      "lat": null
-    },
-    "biz_hours": {
-      "sun": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "mon": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "tue": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "wed": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "thu": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "fri": {
-        "op": "0830",
-        "ed": "1900"
-      },
-      "sat": {
-        "op": "0830",
-        "ed": "1900"
-      }
-    },
-    "url": "http://xn--q9js323u.jp/"
-  },
-  {
     "name_ja": "中央口",
     "name_en": "central opening",
     "alias": null,
@@ -1956,11 +1897,11 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
-      "y": "45"
+      "y": "44"
     },
     "lnglat": {
       "lng": null,
@@ -2014,7 +1955,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "79",
@@ -2072,7 +2013,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "76",
@@ -2131,7 +2072,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "56",
@@ -2189,7 +2130,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "0",
@@ -2248,7 +2189,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "53",
@@ -2307,7 +2248,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "40",
@@ -2364,8 +2305,8 @@
     "addr": null,
     "tel": null,
     "inside": true,
-    "ingate": false,
-    "smoking": null,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "50",
@@ -2422,8 +2363,8 @@
     "addr": null,
     "tel": null,
     "inside": true,
-    "ingate": false,
-    "smoking": null,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "73",
@@ -2481,7 +2422,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "51",
@@ -2539,7 +2480,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "59",
@@ -2598,7 +2539,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "77",
@@ -2657,7 +2598,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "80",
@@ -2716,7 +2657,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -2775,7 +2716,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "58",
@@ -2833,7 +2774,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -2891,7 +2832,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "48",
@@ -2949,7 +2890,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "75",
@@ -3007,7 +2948,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "83",
@@ -3065,7 +3006,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "68",
@@ -3124,7 +3065,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "79",
@@ -3182,7 +3123,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "43",
@@ -3240,7 +3181,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "44",
@@ -3298,7 +3239,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "51",
@@ -3356,7 +3297,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "70",
@@ -3414,7 +3355,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "80",
@@ -3472,7 +3413,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "77",
@@ -3530,7 +3471,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "76",
@@ -3588,7 +3529,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "88",
@@ -3646,7 +3587,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "89",
@@ -3704,7 +3645,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "56",
@@ -3762,7 +3703,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "40",
@@ -3820,7 +3761,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "42",
@@ -3878,7 +3819,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "31",
@@ -3936,7 +3877,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "57",
@@ -3994,7 +3935,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "53",
@@ -4052,7 +3993,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "77",
@@ -4110,7 +4051,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "73",
@@ -4168,7 +4109,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "77",
@@ -4227,9 +4168,9 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -4288,13 +4229,13 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "3",
-      "y": "71"
+      "floor": "B2",
+      "x": "84",
+      "y": "36"
     },
     "lnglat": {
       "lng": null,
@@ -4349,13 +4290,13 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "18",
-      "y": "71"
+      "floor": "2",
+      "x": "48",
+      "y": "49"
     },
     "lnglat": {
       "lng": null,
@@ -4409,7 +4350,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -4467,7 +4408,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -4525,7 +4466,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -4583,7 +4524,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "65",
@@ -4641,7 +4582,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "40",
@@ -4700,7 +4641,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "69",
@@ -4758,7 +4699,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "35",
@@ -4816,7 +4757,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -4875,7 +4816,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -4933,7 +4874,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "84",
@@ -4991,7 +4932,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "38",
@@ -5049,7 +4990,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "34",
@@ -5107,7 +5048,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -5165,7 +5106,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "87",
@@ -5226,7 +5167,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "91",
@@ -5284,7 +5225,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "56",
@@ -5342,7 +5283,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "97",
@@ -5400,7 +5341,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "85",
@@ -5458,7 +5399,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "62",
@@ -5517,7 +5458,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "48",
@@ -5576,7 +5517,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -5634,7 +5575,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "87",
@@ -5692,7 +5633,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -5750,7 +5691,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -5808,7 +5749,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "97",
@@ -5866,7 +5807,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "48",
@@ -5917,14 +5858,16 @@
     "area": null,
     "station": "京都",
     "keywords": [
-      "バス乗り場"
+      "バス乗り場",
+      "京都水族館行バス乗り場",
+      "京都鉄道博物館行バス乗り場"
     ],
     "postcode": null,
     "addr": null,
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "58",
@@ -5982,7 +5925,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "98",
@@ -6041,7 +5984,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "98",
@@ -6099,7 +6042,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "60",
@@ -6158,7 +6101,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "99",
@@ -6217,7 +6160,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "46",
@@ -6276,7 +6219,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "74",
@@ -6335,7 +6278,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "50",
@@ -6394,7 +6337,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -6453,7 +6396,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "83",
@@ -6511,7 +6454,7 @@
     "tel": "075-371-2171",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "0",
@@ -6523,32 +6466,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       },
       "mon": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "tue": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "wed": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "thu": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "fri": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       },
       "sat": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       }
     },
     "url": "http://map.bk.mufg.jp/b/bk_mufg/info/BA590245/"
@@ -6569,7 +6512,7 @@
     "tel": "075-681-2121",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "97",
@@ -6581,32 +6524,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       },
       "mon": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "tue": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "wed": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "thu": {
         "op": "0900",
-        "ed": "10500"
+        "ed": "1500"
       },
       "fri": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       },
       "sat": {
-        "op": "-",
-        "ed": "-"
+        "op": "9999",
+        "ed": "9999"
       }
     },
     "url": "https://pkg.navitime.co.jp/kyoto-chushin/spot/detail?code=0000000267"
@@ -6629,7 +6572,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "5",
@@ -6688,7 +6631,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "34",
@@ -6747,10 +6690,10 @@
     "tel": "06-6534-2900",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "75",
+      "floor": "B2",
+      "x": "77",
       "y": "20"
     },
     "lnglat": {
@@ -6764,19 +6707,19 @@
       },
       "mon": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "tue": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "wed": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "thu": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "fri": {
         "op": "0700",
@@ -6784,7 +6727,7 @@
       },
       "sat": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       }
     },
     "url": "https://www.e-map.ne.jp/smt/smbcbank/inf/5711000100000/"
@@ -6806,11 +6749,11 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "44",
-      "y": "61"
+      "floor": "2",
+      "x": "45",
+      "y": "68"
     },
     "lnglat": {
       "lng": null,
@@ -6865,11 +6808,11 @@
     "tel": "075-221-1141",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "44",
-      "y": "63"
+      "floor": "2",
+      "x": "45",
+      "y": "68"
     },
     "lnglat": {
       "lng": null,
@@ -6878,31 +6821,31 @@
     "biz_hours": {
       "sun": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "mon": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "tue": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "wed": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "thu": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "fri": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       },
       "sat": {
         "op": "0530",
-        "ed": "000"
+        "ed": "0000"
       }
     },
     "url": "https://resona-map.jp/detail.php?id=688"
@@ -6924,11 +6867,11 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
-      "y": "67"
+      "y": "68"
     },
     "lnglat": {
       "lng": null,
@@ -6937,31 +6880,31 @@
     "biz_hours": {
       "sun": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "mon": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "tue": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "wed": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "thu": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "fri": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       },
       "sat": {
         "op": "0700",
-        "ed": "000"
+        "ed": "0000"
       }
     },
     "url": "http://map.bk.mufg.jp/b/bk_mufg/info/BA841513/"
@@ -6983,7 +6926,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "38",
@@ -7041,12 +6984,12 @@
     "addr": "京都府京都市下京区東塩小路釜殿町",
     "tel": null,
     "inside": true,
-    "ingate": false,
-    "smoking": null,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "37",
-      "y": "69"
+      "floor": "2",
+      "x": "35",
+      "y": "70"
     },
     "lnglat": {
       "lng": null,
@@ -7101,7 +7044,7 @@
     "tel": "-",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "23",
@@ -7159,7 +7102,7 @@
     "tel": "-",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "22",
@@ -7217,7 +7160,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "22",
@@ -7276,7 +7219,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -7319,7 +7262,7 @@
     "url": null
   },
   {
-    "name_ja": "京都中央信用金庫",
+    "name_ja": "京都中央信用金庫 京都駅出張所",
     "name_en": "Kyoto Chuo Shinkin Bank",
     "alias": null,
     "category_id": null,
@@ -7334,11 +7277,11 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
-      "floor": "1",
-      "x": "23",
-      "y": "75"
+      "floor": "B1",
+      "x": "61",
+      "y": "39"
     },
     "lnglat": {
       "lng": null,
@@ -7393,7 +7336,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "37",
@@ -7451,7 +7394,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
@@ -7509,7 +7452,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
@@ -7567,7 +7510,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
@@ -7625,7 +7568,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "23",
@@ -7684,11 +7627,11 @@
     "tel": "075-365-3122",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
-      "x": "79",
-      "y": "66"
+      "x": "82",
+      "y": "45"
     },
     "lnglat": {
       "lng": null,
@@ -7700,28 +7643,28 @@
         "ed": "2330"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2330"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2330"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/464662/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -7742,7 +7685,7 @@
     "tel": "075-353-1363",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "52",
@@ -7758,28 +7701,28 @@
         "ed": "2330"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2330"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2330"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/367976/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -7800,7 +7743,7 @@
     "tel": "ｰ",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "61",
@@ -7816,28 +7759,28 @@
         "ed": "2130"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2130"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2130"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2130"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2130"
       },
       "fri": {
-        "op": null,
+        "op": "0700",
         "ed": "2130"
       },
       "sat": {
         "op": "0700",
-        "ed": null
+        "ed": "2130"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/399367/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -7858,7 +7801,7 @@
     "tel": "075-352-5462",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "31",
@@ -7874,28 +7817,28 @@
         "ed": "2130"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2130"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2130"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/404951/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -7917,7 +7860,7 @@
     "tel": "075-353-0080",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "10",
@@ -7933,28 +7876,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2300"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/392365/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -7976,7 +7919,7 @@
     "tel": "075-371-7027",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "56",
@@ -7989,31 +7932,31 @@
     "biz_hours": {
       "sun": {
         "op": "0630",
-        "ed": "000"
+        "ed": "0000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "0000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "0000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "0000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "0000"
       },
       "fri": {
-        "op": null,
-        "ed": "000"
+        "op": "0630",
+        "ed": "0000"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "0000"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/385365/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8035,7 +7978,7 @@
     "tel": "075-354-4720",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -8051,28 +7994,28 @@
         "ed": "2330"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2330"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2330"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/367960/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8094,7 +8037,7 @@
     "tel": "075-352-3563",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -8110,28 +8053,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2300"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/403637/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8152,7 +8095,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "60",
@@ -8168,28 +8111,28 @@
         "ed": "2130"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2130"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2130"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/401762/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8210,7 +8153,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "60",
@@ -8226,28 +8169,28 @@
         "ed": "2130"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2130"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2130"
       },
       "sat": {
         "op": "0630",
-        "ed": null
+        "ed": "2130"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/405317/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8268,7 +8211,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "30",
@@ -8284,28 +8227,28 @@
         "ed": "2000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2000"
       },
       "fri": {
-        "op": null,
+        "op": "0700",
         "ed": "2000"
       },
       "sat": {
         "op": "0700",
-        "ed": null
+        "ed": "2000"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/399404/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -8327,7 +8270,7 @@
     "tel": "075-353-0567",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "95",
@@ -8339,32 +8282,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "24時間",
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "sat": {
-        "op": "24時間",
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       }
     },
     "url": "http://as.chizumaru.com/famima/detailMap?account=famima&bid=36370"
@@ -8386,7 +8329,7 @@
     "tel": "075-344-8072",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "15",
@@ -8398,32 +8341,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "24時間",
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       },
       "sat": {
-        "op": "24時間",
-        "ed": null
+        "op": "0000",
+        "ed": "0000"
       }
     },
     "url": "https://www.e-map.ne.jp/p/lawson/dtl/166580/?&his=cb"
@@ -8445,7 +8388,7 @@
     "tel": "075-693-8109",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "39",
@@ -8461,28 +8404,28 @@
         "ed": "2230"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2230"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2230"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2230"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2230"
       },
       "fri": {
-        "op": null,
+        "op": "0600",
         "ed": "2230"
       },
       "sat": {
         "op": "0600",
-        "ed": null
+        "ed": "2230"
       }
     },
     "url": "http://as.chizumaru.com/famima/detailMap?account=famima&bid=36673"
@@ -8504,7 +8447,7 @@
     "tel": "075-694-1176",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "31",
@@ -8520,28 +8463,28 @@
         "ed": "2400"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "fri": {
-        "op": null,
+        "op": "0600",
         "ed": "2400"
       },
       "sat": {
         "op": "0600",
-        "ed": null
+        "ed": "2400"
       }
     },
     "url": "http://as.chizumaru.com/famima/detailMap?account=famima&accmd=0&bid=77888&c2=1&kkw001=%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%88+%E8%BF%91%E9%89%84%E4%BA%AC%E9%83%BD%E9%A7%85%E5%BA%97&pgret=2"
@@ -8562,7 +8505,7 @@
     "tel": "075-692-3510",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "92",
@@ -8578,28 +8521,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "0600",
         "ed": "2300"
       },
       "sat": {
         "op": "0600",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "http://www.e-map.ne.jp/p/711map/dtl/363429/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
@@ -9767,7 +9710,7 @@
     "tel": "075-352-2337",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "11",
       "x": "21",
@@ -10868,28 +10811,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.wakuden.jp/tenpo-hashitate/"
@@ -10927,28 +10870,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.tokichi.jp/stores/map_kyoto.html"
@@ -10986,28 +10929,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.osteria-sakura.jp/"
@@ -11030,7 +10973,7 @@
     "tel": "075-352-5155",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "40",
@@ -11046,28 +10989,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://shirakaba-sansou.com/index.php"
@@ -11090,7 +11033,7 @@
     "tel": "075-343-3232",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "31",
@@ -11106,28 +11049,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.touyoko.jp/cms/"
@@ -11150,7 +11093,7 @@
     "tel": "075-365-5066",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "37",
@@ -11166,28 +11109,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.tai-sho-ken.com/top.html"
@@ -11210,7 +11153,7 @@
     "tel": "075-365-5070",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "41",
@@ -11226,28 +11169,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://ban-nai.com/store_page/b74/b74index.htm"
@@ -11270,7 +11213,7 @@
     "tel": "075-351-5933",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "35",
@@ -11286,28 +11229,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.menya-iroha.com/"
@@ -11330,7 +11273,7 @@
     "tel": "075-365-2077",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "42",
@@ -11346,28 +11289,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.kyoto-ramen-koji.com/shop/shop06.html"
@@ -11390,7 +11333,7 @@
     "tel": "075-341-5022",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "41",
@@ -11406,28 +11349,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.kyoto-ramen-koji.com/shop/shop12.html"
@@ -11450,7 +11393,7 @@
     "tel": "075-344-3802",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "36",
@@ -11466,28 +11409,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://ramen-todai.com/"
@@ -11510,7 +11453,7 @@
     "tel": "075-361-0739",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "40",
@@ -11526,28 +11469,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.ikkousha.com/"
@@ -11585,28 +11528,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.touyoutei.co.jp/shop_post/porta/"
@@ -11629,7 +11572,7 @@
     "tel": "075-343-3920",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "36",
@@ -11645,28 +11588,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.kyoryori-manshige.co.jp/porta/"
@@ -11705,28 +11648,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.hageten.com/cmsapp/shop/%E4%BA%AC%E9%83%BD%E3%83%9D%E3%83%AB%E3%82%BF%E5%BA%97/"
@@ -11765,28 +11708,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.conana-jp.com/shoplist/kyoto-porta/"
@@ -11824,28 +11767,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.yomenya-goemon.com/"
@@ -11884,28 +11827,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0800",
         "ed": "2200"
       },
       "sat": {
         "op": "0800",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://sasp.mapion.co.jp/b/doutor/info/02011812/?shopmastergyokna=1100"
@@ -11943,28 +11886,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/52"
@@ -11986,7 +11929,7 @@
     "tel": "075-708-2253",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "43",
@@ -12002,28 +11945,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1000",
         "ed": "2200"
       },
       "sat": {
         "op": "1000",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.soup-stock-tokyo.com/store/26/1072/"
@@ -12062,28 +12005,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/54"
@@ -12122,28 +12065,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://kushicafebonbonya.owst.jp/"
@@ -12182,28 +12125,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.kyoto-tagoto.co.jp/index.html"
@@ -12242,28 +12185,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://aselfishgirl.net/meniro/kyoto"
@@ -12302,28 +12245,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.cafecompany.co.jp/brands/wiredcafe/kyoto/"
@@ -12362,28 +12305,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0730",
         "ed": "2200"
       },
       "sat": {
         "op": "0730",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.starbucks.co.jp/store/search/detail.php?id=225"
@@ -12406,7 +12349,7 @@
     "tel": "075-354‐7555",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "59",
@@ -12422,28 +12365,28 @@
         "ed": "2100"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2100"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2100"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2100"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2100"
       },
       "fri": {
-        "op": null,
+        "op": "1000",
         "ed": "2100"
       },
       "sat": {
         "op": "1000",
-        "ed": null
+        "ed": "2100"
       }
     },
     "url": "http://www.nanasgreentea.com/"
@@ -12482,28 +12425,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.dashichazuke-en.com/index.php"
@@ -12541,28 +12484,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.gourmet-kineya.co.jp/search/details.php?val=2114"
@@ -12601,28 +12544,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/37"
@@ -12661,28 +12604,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.tonkatu-kyk.co.jp/storelist/detailpublic?sc=2010"
@@ -12705,7 +12648,7 @@
     "tel": "075-343-3077",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "44",
@@ -12721,28 +12664,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.kobe505.co.jp/restaurant/kyoto/post_3.html"
@@ -12781,28 +12724,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/40"
@@ -12842,28 +12785,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0800",
         "ed": "2200"
       },
       "sat": {
         "op": "0800",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.lipton-teahouse.jp/"
@@ -12886,7 +12829,7 @@
     "tel": "075-746-5696",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "37",
@@ -12902,28 +12845,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://marumo-kitchen.com/"
@@ -12946,7 +12889,7 @@
     "tel": "075-343-3262",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "36",
@@ -12962,28 +12905,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/42/1051"
@@ -13006,7 +12949,7 @@
     "tel": "075-343-2562",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "34",
@@ -13022,28 +12965,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.gourmet-kineya.co.jp/search/details.php?val=38"
@@ -13082,28 +13025,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/45"
@@ -13142,28 +13085,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0730",
         "ed": "2200"
       },
       "sat": {
         "op": "0730",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.starbucks.co.jp/store/search/detail.php?id=1199"
@@ -13202,28 +13145,28 @@
         "ed": "2100"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "fri": {
-        "op": null,
+        "op": "0800",
         "ed": "2100"
       },
       "sat": {
         "op": "0800",
-        "ed": null
+        "ed": "2100"
       }
     },
     "url": "https://www.inoda-coffee.co.jp/shop/poruta/"
@@ -13246,7 +13189,7 @@
     "tel": "075-354-7050",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "84",
@@ -13262,28 +13205,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/60"
@@ -13305,7 +13248,7 @@
     "tel": "075-746-6618",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "80",
@@ -13321,28 +13264,28 @@
         "ed": "2100"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2100"
       },
       "fri": {
-        "op": null,
+        "op": "0800",
         "ed": "2100"
       },
       "sat": {
         "op": "0800",
-        "ed": null
+        "ed": "2100"
       }
     },
     "url": "http://grandir-kyoto.jp/shop01/208.html"
@@ -13381,28 +13324,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.mimikou.jp"
@@ -13425,7 +13368,7 @@
     "tel": "075-585-5459",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "82",
@@ -13441,28 +13384,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/67"
@@ -13501,28 +13444,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.ippudo.com/"
@@ -13561,28 +13504,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.porta.co.jp/shop/detail/62"
@@ -13620,28 +13563,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.maimon-susi.com/"
@@ -13681,28 +13624,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0730",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0730",
         "ed": "2200"
       },
       "sat": {
         "op": "0730",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://www.misterdonut.jp/"
@@ -13725,7 +13668,7 @@
     "tel": "075-352-6555",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "51",
@@ -13741,28 +13684,28 @@
         "ed": "2100"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2100"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2100"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2100"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2100"
       },
       "fri": {
-        "op": null,
+        "op": "0700",
         "ed": "2100"
       },
       "sat": {
         "op": "0700",
-        "ed": null
+        "ed": "2100"
       }
     },
     "url": "https://www.kyoto-station-building.co.jp/restaurant_cafe/255.html"
@@ -13801,28 +13744,28 @@
         "ed": "2230"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2230"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2230"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2230"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0800",
+        "ed": "2230"
       },
       "fri": {
-        "op": null,
+        "op": "0800",
         "ed": "2230"
       },
       "sat": {
         "op": "0800",
-        "ed": null
+        "ed": "2230"
       }
     },
     "url": "https://www.kyoto-station-building.co.jp/restaurant_cafe/261.html"
@@ -13861,28 +13804,28 @@
         "ed": "2000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "2000"
       },
       "fri": {
-        "op": null,
+        "op": "1000",
         "ed": "2000"
       },
       "sat": {
         "op": "1000",
-        "ed": null
+        "ed": "2000"
       }
     },
     "url": "http://www.fukunaga294.jp/index.html"
@@ -13921,28 +13864,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "https://kyoto-chasen.jimdo.com/"
@@ -13976,32 +13919,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10530 (ラストオーダー1430)\n1730～2230 (ラストオーダー2130)",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "sat": {
-        "op": "1130～10530 (ラストオーダー1430)\n1730～2230 (ラストオーダー2130)",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/gozan.php"
@@ -14035,32 +13978,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10530（ラストオーダー1430）\n1730～2230（ラストオーダー2130）",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "sat": {
-        "op": "1130～10530（ラストオーダー1430）\n1730～2230（ラストオーダー2130）",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/cotociel.php"
@@ -14094,32 +14037,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "0700～1100（ラストオーダー1030）\n1130～10530（ラストオーダー10500）\n1730～2330（ラストオーダー　フード2230 / ドリンク2300）",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       },
       "sat": {
-        "op": "0700～1100（ラストオーダー1030）\n1130～10530（ラストオーダー10500）\n1730～2330（ラストオーダー　フード2230 / ドリンク2300）",
-        "ed": null
+        "op": "1130",
+        "ed": "1530"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/south.php"
@@ -14153,32 +14096,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10500 (ラストオーダー1430)\n1730～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "sat": {
-        "op": "1130～10500 (ラストオーダー1430)\n1730～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/roppongi.php"
@@ -14216,28 +14159,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2200"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/rakusui.php"
@@ -14271,32 +14214,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10500 (ラストオーダー1400)\n1730～2200 (ラストオーダー2000)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "sat": {
-        "op": "1130～10500 (ラストオーダー1400)\n1730～2200 (ラストオーダー2000)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       }
     },
     "url": "https://kyoto-kitcho.com/"
@@ -14330,32 +14273,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10500 (ラストオーダー1430)\n1700～2130 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "sat": {
-        "op": "1130～10500 (ラストオーダー1430)\n1700～2130 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       }
     },
     "url": "http://kyorinsen.kyoyamato.com/"
@@ -14389,32 +14332,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "0700～1000\n1130～10500 (ラストオーダー1400)\n1700～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "sat": {
-        "op": "0700～1000\n1130～10500 (ラストオーダー1400)\n1700～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/ukihashi.php"
@@ -14448,32 +14391,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
+        "op": "0630",
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "0630",
         "ed": "2300"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/letemps.php"
@@ -14508,31 +14451,31 @@
     "biz_hours": {
       "sun": {
         "op": "1730",
-        "ed": "1230"
+        "ed": "2430"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1730",
+        "ed": "2430"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1730",
+        "ed": "2430"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1730",
+        "ed": "2430"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1730",
+        "ed": "2430"
       },
       "fri": {
-        "op": null,
-        "ed": "1230"
+        "op": "1730",
+        "ed": "2430"
       },
       "sat": {
         "op": "1730",
-        "ed": null
+        "ed": "2430"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/orbite.php"
@@ -14570,28 +14513,28 @@
         "ed": "2130"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2130"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2130"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2130"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2130"
       },
       "fri": {
-        "op": null,
+        "op": "0900",
         "ed": "2130"
       },
       "sat": {
         "op": "0900",
-        "ed": null
+        "ed": "2130"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/grandjour.php"
@@ -14625,32 +14568,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": "1130～10500 (ラストオーダー1400)\n1700～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       },
       "sat": {
-        "op": "1130～10500 (ラストオーダー1400)\n1700～2200 (ラストオーダー2100)",
-        "ed": null
+        "op": "1130",
+        "ed": "1500"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/ukihashi_sushi.php"
@@ -14688,28 +14631,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1700",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1700",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1700",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1700",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "1700",
         "ed": "2200"
       },
       "sat": {
         "op": "1700",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.granvia-kyoto.co.jp/rest/ukihashi_sakana.php"
@@ -14748,28 +14691,28 @@
         "ed": "2200"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2200"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2200"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2200"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0700",
+        "ed": "2200"
       },
       "fri": {
-        "op": null,
+        "op": "0700",
         "ed": "2200"
       },
       "sat": {
         "op": "0700",
-        "ed": null
+        "ed": "2200"
       }
     },
     "url": "http://www.jwfsn.com/"
@@ -14808,28 +14751,28 @@
         "ed": "2230"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2230"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2230"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2230"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2230"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2230"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2230"
       }
     },
     "url": "https://www.kyoto-gekijo.com/facilities/index.html#restaurant"
@@ -14867,28 +14810,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2300"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "https://www.kyoto-gekijo.com/facilities/index.html#restaurant"
@@ -14926,28 +14869,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2300"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "https://www.suishin.co.jp/"
@@ -14982,31 +14925,31 @@
     "biz_hours": {
       "sun": {
         "op": "1100",
-        "ed": "000"
+        "ed": "0000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "0000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "0000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "0000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "0000"
       },
       "fri": {
-        "op": null,
-        "ed": "000"
+        "op": "1100",
+        "ed": "0000"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "0000"
       }
     },
     "url": "https://kidshd68.owst.jp/"
@@ -15044,28 +14987,28 @@
         "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1100",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
+        "op": "1100",
         "ed": "2300"
       },
       "sat": {
         "op": "1100",
-        "ed": null
+        "ed": "2300"
       }
     },
     "url": "https://www.kyoto-gekijo.com/facilities/index.html#restaurant"
@@ -15441,7 +15384,7 @@
     "tel": "075-672-2081",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "16",
@@ -15559,7 +15502,7 @@
     "tel": "075-661-8505",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "12",
@@ -15618,7 +15561,7 @@
     "tel": "075-661-8998",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "15",
@@ -16090,7 +16033,7 @@
     "tel": "075-693-9911",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "6",
@@ -16625,7 +16568,7 @@
     "tel": "075-682-5031",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "81",
@@ -16683,7 +16626,7 @@
     "tel": "075-352-7444",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "95",
@@ -16741,7 +16684,7 @@
     "tel": "075-361-3215",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "65",
@@ -16757,28 +16700,28 @@
         "ed": "2100"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2100"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2100"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2100"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2100"
       },
       "fri": {
-        "op": null,
+        "op": "0900",
         "ed": "2100"
       },
       "sat": {
         "op": "0900",
-        "ed": null
+        "ed": "2100"
       }
     },
     "url": null
@@ -16800,7 +16743,7 @@
     "tel": "075-343-5300",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "33",
@@ -16858,7 +16801,7 @@
     "tel": "075-661-0321",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "95",
@@ -16916,7 +16859,7 @@
     "tel": "075-693-8444",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "48",
@@ -16974,7 +16917,7 @@
     "tel": "075-361-7261",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "62",
@@ -17032,7 +16975,7 @@
     "tel": "075-692-2111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "35",
@@ -17091,7 +17034,7 @@
     "tel": "075-661-7111",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "4",
@@ -17149,7 +17092,7 @@
     "tel": "075-361-1251",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "57",
@@ -17207,7 +17150,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "66",
@@ -17265,7 +17208,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "47",
@@ -17323,7 +17266,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -17381,7 +17324,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "49",
@@ -17439,7 +17382,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "53",
@@ -17496,9 +17439,9 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "82",
@@ -17557,7 +17500,7 @@
     "tel": "075-361-4601",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "58",
@@ -17615,7 +17558,7 @@
     "tel": "075-365-2471",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "27",
@@ -17674,7 +17617,7 @@
     "tel": "075-341-7551",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "44",
@@ -17733,7 +17676,7 @@
     "tel": "075-352-5461",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "51",
@@ -17792,7 +17735,7 @@
     "tel": "075-352-5463",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "62",
@@ -17851,7 +17794,7 @@
     "tel": "075-353-7811",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -17910,7 +17853,7 @@
     "tel": "075-662-1211",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -17969,7 +17912,7 @@
     "tel": "075-644-6112",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "45",
@@ -18027,7 +17970,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "69",
@@ -18085,7 +18028,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "45",
@@ -18143,7 +18086,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -18201,7 +18144,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "84",
@@ -18259,7 +18202,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "26",
@@ -18318,7 +18261,7 @@
     "tel": "075-354-9181",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "64",
@@ -18334,28 +18277,28 @@
         "ed": "1900"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0930",
+        "ed": "1900"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0930",
+        "ed": "1900"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0930",
+        "ed": "1900"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0930",
+        "ed": "1900"
       },
       "fri": {
-        "op": null,
+        "op": "0930",
         "ed": "1900"
       },
       "sat": {
         "op": "0930",
-        "ed": null
+        "ed": "1900"
       }
     },
     "url": null
@@ -18377,7 +18320,7 @@
     "tel": "075-365-7750",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "8",
       "x": "42",
@@ -18393,28 +18336,28 @@
         "ed": "1700"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "1700"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "1700"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "1700"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "1000",
+        "ed": "1700"
       },
       "fri": {
-        "op": null,
+        "op": "1000",
         "ed": "1700"
       },
       "sat": {
         "op": "1000",
-        "ed": null
+        "ed": "1700"
       }
     },
     "url": null
@@ -18436,7 +18379,7 @@
     "tel": "075-351-5613",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "48",
@@ -18452,28 +18395,28 @@
         "ed": "2000"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2000"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2000"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2000"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0900",
+        "ed": "2000"
       },
       "fri": {
-        "op": null,
+        "op": "0900",
         "ed": "2000"
       },
       "sat": {
         "op": "0900",
-        "ed": null
+        "ed": "2000"
       }
     },
     "url": null
@@ -18494,7 +18437,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "7",
       "x": "81",
@@ -18552,7 +18495,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "85",
@@ -18610,7 +18553,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": "73",
@@ -18668,7 +18611,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": "60",
@@ -18726,7 +18669,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "49",
@@ -18784,7 +18727,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "58",
@@ -18842,7 +18785,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "40",
@@ -18900,7 +18843,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "11",
       "x": "27",
@@ -18958,7 +18901,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": "39",
@@ -19016,7 +18959,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": "44",
@@ -19074,7 +19017,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": "25",
@@ -19132,7 +19075,7 @@
     "tel": "075-693-5085",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "39",
@@ -19190,7 +19133,7 @@
     "tel": "075-662-1021",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "43",
@@ -19233,22 +19176,22 @@
     "url": null
   },
   {
-    "name_ja": "ベルマート京都東口",
+    "name_ja": "ベルマートキヨスク京都東口",
     "name_en": "Bellmart Kyoto East Gate",
     "alias": null,
     "category_id": "4",
-    "subcat": "スーパーマーケット",
+    "subcat": "売店",
     "area": "ASTY京都",
     "station": "京都",
     "keywords": [
-      "スーパーマーケット"
+      "売店"
     ],
     "postcode": null,
     "addr": "京都府京都市下京区東塩小路高倉町8-3 　アスティロード京都1F",
     "tel": "075-694-0500",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "80",
@@ -19306,7 +19249,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "79",
@@ -19364,7 +19307,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "81",
@@ -19422,7 +19365,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "79",
@@ -19480,7 +19423,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "82",
@@ -19538,7 +19481,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "58",
@@ -19596,7 +19539,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "61",
@@ -19654,7 +19597,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "44",
@@ -19712,7 +19655,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "80",
@@ -19770,7 +19713,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "44",
@@ -19828,7 +19771,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "44",
@@ -19885,8 +19828,8 @@
     "addr": null,
     "tel": null,
     "inside": true,
-    "ingate": false,
-    "smoking": null,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "49",
@@ -19943,8 +19886,8 @@
     "addr": null,
     "tel": null,
     "inside": true,
-    "ingate": false,
-    "smoking": null,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "49",
@@ -20002,7 +19945,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "38",
@@ -20060,7 +20003,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "38",
@@ -20118,7 +20061,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "81",
@@ -20176,7 +20119,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "57",
@@ -20234,7 +20177,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "62",
@@ -20292,7 +20235,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "54",
@@ -20350,7 +20293,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "89",
@@ -20408,7 +20351,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "45",
@@ -20466,7 +20409,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "48",
@@ -20524,7 +20467,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "44",
@@ -20582,7 +20525,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "42",
@@ -20640,7 +20583,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "41",
@@ -20698,7 +20641,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "33",
@@ -20756,7 +20699,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "40",
@@ -20814,7 +20757,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "40",
@@ -20872,7 +20815,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -20930,7 +20873,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "69",
@@ -20994,7 +20937,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21058,7 +21001,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "51",
@@ -21118,7 +21061,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21178,7 +21121,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21238,7 +21181,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21298,7 +21241,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21358,7 +21301,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21418,7 +21361,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21479,7 +21422,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21540,7 +21483,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "55",
@@ -21600,7 +21543,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -21660,7 +21603,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -21718,9 +21661,9 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -21778,9 +21721,9 @@
     "postcode": null,
     "addr": null,
     "tel": null,
-    "inside": null,
-    "ingate": null,
-    "smoking": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "52",
@@ -21838,7 +21781,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -21896,7 +21839,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "59",
@@ -21954,7 +21897,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -22012,7 +21955,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -22070,7 +22013,7 @@
     "tel": "075-361-2022",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "55",
@@ -22128,7 +22071,7 @@
     "tel": "075-693-9998",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "60",
@@ -22186,7 +22129,7 @@
     "tel": "075-343-3372",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "87",
@@ -22244,7 +22187,7 @@
     "tel": "075-365-3353",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "0",
@@ -22302,7 +22245,7 @@
     "tel": "075-353-2066",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "1",
@@ -22360,7 +22303,7 @@
     "tel": "075-351-8555",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "49",
@@ -22418,7 +22361,7 @@
     "tel": "075-353-5518",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "71",
@@ -22477,7 +22420,7 @@
     "tel": "075-693-5560",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "66",
@@ -22535,7 +22478,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "7",
       "x": "19",
@@ -22593,7 +22536,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "61",
@@ -22651,7 +22594,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "60",
@@ -22710,7 +22653,7 @@
     "tel": "075-342-5630",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "46",
@@ -22769,7 +22712,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "46",
@@ -22828,7 +22771,7 @@
     "tel": "0120-234-888",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "75",
@@ -22887,7 +22830,7 @@
     "tel": "075-276-2072",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "51",
@@ -22946,7 +22889,7 @@
     "tel": "075-352-6542",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "46",
@@ -23005,7 +22948,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "46",
@@ -23127,7 +23070,7 @@
     "tel": "075-671-1551",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "44",
@@ -23187,7 +23130,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "40",
@@ -23247,7 +23190,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "41",
@@ -23368,7 +23311,7 @@
     "tel": "075-746-5386",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "66",
@@ -23426,7 +23369,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "51",
@@ -23485,7 +23428,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": "64",
@@ -23544,11 +23487,11 @@
     "tel": "075-365-3122",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
-      "x": "79",
-      "y": "66"
+      "x": "82",
+      "y": "45"
     },
     "lnglat": {
       "lng": null,
@@ -23556,35 +23499,35 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2330"
       }
     },
-    "url": null
+    "url": "http://www.e-map.ne.jp/p/711map/dtl/464662/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=sw"
   },
   {
     "name_ja": "セブン-イレブン　ハートインＪＲ京都駅東塩小路店　共同出張所",
@@ -23603,7 +23546,7 @@
     "tel": "075-353-0080",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "10",
@@ -23615,32 +23558,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       }
     },
     "url": null
@@ -23662,7 +23605,7 @@
     "tel": "075-371-7027",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "56",
@@ -23674,32 +23617,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2400"
       }
     },
     "url": null
@@ -23721,7 +23664,7 @@
     "tel": "075-354-4720",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "63",
@@ -23733,32 +23676,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       }
     },
     "url": null
@@ -23780,7 +23723,7 @@
     "tel": "075-352-3563",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": "79",
@@ -23792,32 +23735,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       }
     },
     "url": null
@@ -23838,7 +23781,7 @@
     "tel": "075-353-0567",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "95",
@@ -23850,32 +23793,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       }
     },
     "url": null
@@ -23896,7 +23839,7 @@
     "tel": "075-344-8072",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "15",
@@ -23908,32 +23851,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "9999",
+        "ed": "9999"
       }
     },
     "url": null
@@ -23954,7 +23897,7 @@
     "tel": "075-694-1176",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": "31",
@@ -23966,32 +23909,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0600",
+        "ed": "2400"
       }
     },
     "url": null
@@ -24012,7 +23955,7 @@
     "tel": "075-692-3510",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "92",
@@ -24024,32 +23967,32 @@
     },
     "biz_hours": {
       "sun": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "mon": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "tue": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "wed": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "thu": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "fri": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       },
       "sat": {
-        "op": null,
-        "ed": null
+        "op": "0630",
+        "ed": "2300"
       }
     },
     "url": null
@@ -24070,7 +24013,7 @@
     "tel": "075-693-7066",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "81",
@@ -24121,14 +24064,15 @@
     "area": null,
     "station": "京都",
     "keywords": [
-      "送迎バス乗り場"
+      "送迎バス乗り場",
+      "リーガロイヤルホテル行送迎バス乗り場"
     ],
     "postcode": null,
     "addr": null,
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "71",
@@ -24186,7 +24130,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "58",
@@ -24244,7 +24188,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "19",
@@ -24302,7 +24246,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "25",
@@ -24360,7 +24304,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "25",
@@ -24418,7 +24362,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "24",
@@ -24476,7 +24420,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "19",
@@ -24535,7 +24479,7 @@
     "tel": "075-681-0311",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "27",
@@ -24593,7 +24537,7 @@
     "tel": "075-371-3020",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "12",
@@ -24651,7 +24595,7 @@
     "tel": "075-351-4123",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": "24",
@@ -24726,6 +24670,65 @@
         "ed": "2200"
       },
       "mon": {
+        "op": "1100",
+        "ed": "2200"
+      },
+      "tue": {
+        "op": "1100",
+        "ed": "2200"
+      },
+      "wed": {
+        "op": "1100",
+        "ed": "2200"
+      },
+      "thu": {
+        "op": "1100",
+        "ed": "2200"
+      },
+      "fri": {
+        "op": "1100",
+        "ed": "2200"
+      },
+      "sat": {
+        "op": "1100",
+        "ed": "2200"
+      }
+    },
+    "url": "http://www.nanzan-net.com/"
+  },
+  {
+    "name_ja": "トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": false,
+    "smoking": 9,
+    "end_point": {
+      "floor": "1",
+      "x": "18",
+      "y": "71"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
         "op": null,
         "ed": null
       },
@@ -24743,13 +24746,316 @@
       },
       "fri": {
         "op": null,
-        "ed": "2200"
+        "ed": null
       },
       "sat": {
-        "op": "1100",
+        "op": null,
         "ed": null
       }
     },
-    "url": "http://www.nanzan-net.com/"
+    "url": null
+  },
+  {
+    "name_ja": "多機能トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "車いす対応トイレ",
+      "多目的トイレ",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "1",
+      "x": "86",
+      "y": "47"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "多機能トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "車いす対応トイレ",
+      "多目的トイレ",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "1",
+      "x": "35",
+      "y": "42"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "多機能トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "車いす対応トイレ",
+      "多目的トイレ",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "2",
+      "x": "51",
+      "y": "67"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "多機能トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "車いす対応トイレ",
+      "多目的トイレ",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "2",
+      "x": "70",
+      "y": "69"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
+  },
+  {
+    "name_ja": "トイレ",
+    "name_en": "toilet",
+    "alias": null,
+    "category_id": null,
+    "subcat": "お手洗い",
+    "area": null,
+    "station": "京都",
+    "keywords": [
+      "お手洗い",
+      "トイレ"
+    ],
+    "postcode": null,
+    "addr": null,
+    "tel": null,
+    "inside": true,
+    "ingate": true,
+    "smoking": 9,
+    "end_point": {
+      "floor": "1",
+      "x": "80",
+      "y": "69"
+    },
+    "lnglat": {
+      "lng": null,
+      "lat": null
+    },
+    "biz_hours": {
+      "sun": {
+        "op": null,
+        "ed": null
+      },
+      "mon": {
+        "op": null,
+        "ed": null
+      },
+      "tue": {
+        "op": null,
+        "ed": null
+      },
+      "wed": {
+        "op": null,
+        "ed": null
+      },
+      "thu": {
+        "op": null,
+        "ed": null
+      },
+      "fri": {
+        "op": null,
+        "ed": null
+      },
+      "sat": {
+        "op": null,
+        "ed": null
+      }
+    },
+    "url": null
   }
 ]

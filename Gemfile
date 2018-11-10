@@ -62,3 +62,5 @@ gem 'mecab'
 gem 'natto'
 
 gem 'romaji'
+
+gem 'execjs'

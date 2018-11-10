@@ -1,4 +1,28 @@
+require "execjs"
 namespace :nouns do
+  desc "名詞辞書CSVを生成する"
+  task :gen do
+    csv_data = CSV.read(Rails.root.join('db', 'data', 'nouns', 'from.csv'), headers: false)
+    corrections = CSV.read(Rails.root.join('db', 'data', 'nouns', 'corrections.csv'), headers: false)
+    corrections = corrections.to_h
+    to_path = Rails.root.join('db', 'data', 'nouns', 'to.csv')
+
+    js = <<'EOS'
+interpreter = require('./JRW-NLU/jrw.js')
+var language = "japanese";
+var mode_flag = "none";
+interpreter(language, mode_flag, '京都国際マンガミュージアム');
+EOS
+
+
+
+    result = ExecJS.eval js
+
+    debugger
+
+
+  end
+
   desc "名詞辞書CSVを生成する"
   task :generate do
     csv_data = CSV.read(Rails.root.join('db', 'data', 'nouns', 'from.csv'), headers: false)

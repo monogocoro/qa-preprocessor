@@ -3,8 +3,8 @@ name,name_en,type,inside,ingate,point,floors,
 中央口北東エスカレーター2,North-East Escalator 2 at Central Gate,エスカレーター,内,外,"1,81,37",2F,京都劇場
 中央口北東階段1,North-East Stairway 1 at Central Gate,階段,内,外,"1,79,39",2F,
 中央口北東階段2,North-East Stairway 2 at Central Gate,階段,内,外,"1,82,39",2F,
-中央口前階段1,Front Stairway 1 at Central Gate,階段,内,外,"1,58,42",B1,
-中央口前階段2,Front Stairway 2 at Central Gate,階段,内,外,"1,61,42",B1,
+中央口前エスカレーター1,Front Escalator 1 at Central Gate,エスカレーター,内,外,"1,58,42","B1,B2",
+中央口前エスカレーター2,Front Escalator 2 at Central Gate,エスカレーター,内,外,"1,61,42","B1,B2",
 南北連絡口南エスカレータ1,South Escalator 1 at South-North Access Gate,エスカレーター,内,外,"1,44,78",2F,
 Avanti連絡階段,Avanti Connecting Stairway,階段,内,外,"1,80,76",B2,
 南北連絡口南階段1,South Stair 1 at South-North Access Gate,階段,内,外,"1,44,79",2F,
@@ -33,7 +33,7 @@ r,29,44",,
 5,74,42
 7,81,39
 10,80,39",,
-中央口駅ビル中央エレベーター,Central Gate Central Elevator,エレベーター,内,外,"1,54,38","B1,B2,B3,2F",
+中央口駅ビル中央エレベーター,Central Gate Central Elevator,エレベーター,内,外,"1,55,35","B1,B2,B3,2F",
 中央口東エレベーター,Central Gate East Elevator,エレベーター,内,外,"1,89,40","2F,7F",京都劇場、東広場
 伊勢丹内北階段1,North Stairway 1 in Isetan,階段,内,外,"1,45,38","B1,B2,1F-11F",
 伊勢丹内北階段1,North Stairway 1 in Isetan    ★同じ？,階段,内,外,"1,48,38","B1,B2",
@@ -42,9 +42,9 @@ r,29,44",,
 伊勢丹内中央エスカレーター,Central escalator in Isetan,エスカレーター,内,外,"1,41,43","B1,B2,1F-3F",
 伊勢丹内南エスカレーター,South Escalator in Isetan,エスカレーター,内,外,"2,33,46",3F-9F,
 ポルタ左上階段,Porta Upper Left Stairway,階段,内,外,"1,40,26","1F,B2",
-中央口ポルタ左階段,Porta Left Stairway at Central Gate,階段,内,外,"1,40,35","1F,B2",
-中央口ポルタ中央階段,Porta Center Stairway at Central Gate,階段,内,外,"1,55,35","1F,B2",
-中央口ポルタ右階段,Porta Right Stairway at Central Gate,階段,内,外,"1,69,35","1F,B2",
+中央口ポルタ左階段,Porta Left Stairway at Central Gate,階段,内,外,"1,42,32","1F,B2",
+中央口ポルタ中央階段,Porta Center Stairway at Central Gate,階段,内,外,"1,56,32","1F,B2",
+中央口ポルタ右階段,Porta Right Stairway at Central Gate,階段,内,外,"1,69,32","1F,B2",
 0番ホームエスカレーター,Escalator on platform 0,エスカレーター,内,内,"1,55,48",2F,"0,30,31,32,33,34"
 0番ホーム階段,Stairway on Platform 0,階段,内,内,"1,55,49",2F,"0,30,31,32,33,34"
 "2,3番ホームエスカレーター",Escalators on Platform 2 and 3,エスカレーター,内,内,"1,55,53",2F,"2,3"

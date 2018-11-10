@@ -192,6 +192,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   easy_translate
   erb2haml
+  execjs
   haml-rails
   jbuilder (~> 2.5)
   jquery-rails

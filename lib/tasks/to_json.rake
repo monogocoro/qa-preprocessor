@@ -158,9 +158,12 @@ namespace :to_json do
           '禁煙' => 0,
           '分煙' => 1,
           '喫煙' => 2,
-          '' => nil
+          '' => 9
         }
         hash['smoking'] = smoke_map[data['喫煙（smoking）']]
+        if hash['smoking'].nil?
+          hash['smoking'] = 9
+        end
         if data['喫煙（smoking）'] && hash['smoking']
           puts data['喫煙（smoking）'] +','+ hash['smoking'].to_s
         end

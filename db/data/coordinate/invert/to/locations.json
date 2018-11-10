@@ -16,7 +16,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -74,7 +74,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -133,7 +133,7 @@
     "tel": "050-3536-3957",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 61,
@@ -192,7 +192,7 @@
     "tel": "075-343-6872",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -250,7 +250,7 @@
     "tel": "075-343-0548",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -306,7 +306,7 @@
     "tel": "075-361-4401",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 50,
@@ -362,7 +362,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": 74,
@@ -418,7 +418,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": 26,
@@ -474,7 +474,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 24,
@@ -530,7 +530,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": 74,
@@ -586,7 +586,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 53,
@@ -642,7 +642,7 @@
     "tel": "0570-00-2486",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -698,7 +698,7 @@
     "tel": "075-361-4501",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 3,
@@ -754,7 +754,7 @@
     "tel": "075-361-4501",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 94,
@@ -812,7 +812,7 @@
     "tel": "075-672-2100",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -870,7 +870,7 @@
     "tel": "0570-002-424",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 34,
@@ -928,7 +928,7 @@
     "tel": "075-842-1212",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 26,
@@ -987,7 +987,7 @@
     "tel": "075-222-3568",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 51,
@@ -1045,7 +1045,7 @@
     "tel": " 075-365-7528",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 44,
@@ -1104,7 +1104,7 @@
     "tel": "075-691-8384",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 66,
@@ -1160,7 +1160,7 @@
     "tel": "075-662-0741",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 42,
@@ -1216,7 +1216,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -1272,7 +1272,7 @@
     "tel": "075-371-2134",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -1328,7 +1328,7 @@
     "tel": "075-863-5068",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 22,
@@ -1384,7 +1384,7 @@
     "tel": "075-691-6881",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 62,
@@ -1440,7 +1440,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -1496,7 +1496,7 @@
     "tel": "075-361-4401",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 14,
@@ -1552,7 +1552,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 17,
@@ -1608,7 +1608,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 59,
@@ -1664,7 +1664,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 52,
@@ -1722,7 +1722,7 @@
     "tel": "075-344-8888",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 26,
@@ -1780,7 +1780,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 42,
@@ -1838,7 +1838,7 @@
     "tel": "075-371-9866",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 19,
@@ -1897,7 +1897,7 @@
     "tel": "\n075-343-0548",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -1956,7 +1956,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -2014,7 +2014,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 20,
@@ -2072,7 +2072,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 23,
@@ -2131,7 +2131,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 43,
@@ -2189,7 +2189,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 99,
@@ -2248,7 +2248,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 46,
@@ -2307,7 +2307,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 59,
@@ -2365,7 +2365,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 49,
@@ -2423,7 +2423,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 26,
@@ -2481,7 +2481,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 48,
@@ -2539,7 +2539,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 40,
@@ -2598,7 +2598,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 22,
@@ -2657,7 +2657,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 19,
@@ -2716,7 +2716,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -2775,7 +2775,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 41,
@@ -2833,7 +2833,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -2891,7 +2891,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 51,
@@ -2949,7 +2949,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 24,
@@ -3007,7 +3007,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 16,
@@ -3065,7 +3065,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 31,
@@ -3124,7 +3124,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 20,
@@ -3182,7 +3182,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 56,
@@ -3240,7 +3240,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -3298,7 +3298,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 48,
@@ -3356,7 +3356,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 29,
@@ -3414,7 +3414,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 19,
@@ -3472,7 +3472,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 22,
@@ -3530,7 +3530,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 23,
@@ -3588,7 +3588,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 11,
@@ -3646,7 +3646,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 10,
@@ -3704,7 +3704,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 43,
@@ -3762,7 +3762,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 59,
@@ -3820,7 +3820,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 57,
@@ -3878,7 +3878,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 68,
@@ -3936,7 +3936,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 42,
@@ -3994,7 +3994,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 46,
@@ -4052,7 +4052,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 22,
@@ -4110,7 +4110,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 26,
@@ -4168,7 +4168,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 22,
@@ -4229,7 +4229,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -4290,7 +4290,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 96,
@@ -4351,7 +4351,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 81,
@@ -4409,7 +4409,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -4467,7 +4467,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -4525,7 +4525,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -4583,7 +4583,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 34,
@@ -4641,7 +4641,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 59,
@@ -4700,7 +4700,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 30,
@@ -4758,7 +4758,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 64,
@@ -4816,7 +4816,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -4875,7 +4875,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -4933,7 +4933,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 15,
@@ -4991,7 +4991,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 61,
@@ -5049,7 +5049,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 65,
@@ -5107,7 +5107,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -5165,7 +5165,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 12,
@@ -5226,7 +5226,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 8,
@@ -5284,7 +5284,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 43,
@@ -5342,7 +5342,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 2,
@@ -5400,7 +5400,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 14,
@@ -5458,7 +5458,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 37,
@@ -5517,7 +5517,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 51,
@@ -5576,7 +5576,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -5634,7 +5634,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 12,
@@ -5692,7 +5692,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -5750,7 +5750,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -5808,7 +5808,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 2,
@@ -5866,7 +5866,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 51,
@@ -5924,7 +5924,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 41,
@@ -5982,7 +5982,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 1,
@@ -6041,7 +6041,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 1,
@@ -6099,7 +6099,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 39,
@@ -6158,7 +6158,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 0,
@@ -6217,7 +6217,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 53,
@@ -6276,7 +6276,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 25,
@@ -6335,7 +6335,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 49,
@@ -6394,7 +6394,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -6453,7 +6453,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 16,
@@ -6511,7 +6511,7 @@
     "tel": "075-371-2171",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 99,
@@ -6569,7 +6569,7 @@
     "tel": "075-681-2121",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 2,
@@ -6629,7 +6629,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 94,
@@ -6688,7 +6688,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 65,
@@ -6747,7 +6747,7 @@
     "tel": "06-6534-2900",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 24,
@@ -6806,7 +6806,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -6865,7 +6865,7 @@
     "tel": "075-221-1141",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -6924,7 +6924,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -6983,7 +6983,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 61,
@@ -7042,7 +7042,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -7101,7 +7101,7 @@
     "tel": "-",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 76,
@@ -7159,7 +7159,7 @@
     "tel": "-",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 77,
@@ -7217,7 +7217,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 77,
@@ -7276,7 +7276,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -7334,7 +7334,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 76,
@@ -7393,7 +7393,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 62,
@@ -7451,7 +7451,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -7509,7 +7509,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -7567,7 +7567,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -7625,7 +7625,7 @@
     "tel": "-",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 76,
@@ -7684,7 +7684,7 @@
     "tel": "075-365-3122",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -7742,7 +7742,7 @@
     "tel": "075-353-1363",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 47,
@@ -7800,7 +7800,7 @@
     "tel": "ｰ",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 38,
@@ -7858,7 +7858,7 @@
     "tel": "075-352-5462",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 68,
@@ -7917,7 +7917,7 @@
     "tel": "075-353-0080",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 89,
@@ -7976,7 +7976,7 @@
     "tel": "075-371-7027",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 43,
@@ -8035,7 +8035,7 @@
     "tel": "075-354-4720",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -8094,7 +8094,7 @@
     "tel": "075-352-3563",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -8152,7 +8152,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 39,
@@ -8210,7 +8210,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 39,
@@ -8268,7 +8268,7 @@
     "tel": "-",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 69,
@@ -8327,7 +8327,7 @@
     "tel": "075-353-0567",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 4,
@@ -8386,7 +8386,7 @@
     "tel": "075-344-8072",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 84,
@@ -8445,7 +8445,7 @@
     "tel": "075-693-8109",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 60,
@@ -8504,7 +8504,7 @@
     "tel": "075-694-1176",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 68,
@@ -8562,7 +8562,7 @@
     "tel": "075-692-3510",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 7,
@@ -9767,7 +9767,7 @@
     "tel": "075-352-2337",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "11",
       "x": 78,
@@ -11030,7 +11030,7 @@
     "tel": "075-352-5155",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 59,
@@ -11090,7 +11090,7 @@
     "tel": "075-343-3232",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 68,
@@ -11150,7 +11150,7 @@
     "tel": "075-365-5066",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 62,
@@ -11210,7 +11210,7 @@
     "tel": "075-365-5070",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 58,
@@ -11270,7 +11270,7 @@
     "tel": "075-351-5933",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 64,
@@ -11330,7 +11330,7 @@
     "tel": "075-365-2077",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 57,
@@ -11390,7 +11390,7 @@
     "tel": "075-341-5022",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 58,
@@ -11450,7 +11450,7 @@
     "tel": "075-344-3802",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 63,
@@ -11510,7 +11510,7 @@
     "tel": "075-361-0739",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 59,
@@ -11629,7 +11629,7 @@
     "tel": "075-343-3920",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 63,
@@ -11986,7 +11986,7 @@
     "tel": "075-708-2253",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 56,
@@ -12406,7 +12406,7 @@
     "tel": "075-354‐7555",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 40,
@@ -12705,7 +12705,7 @@
     "tel": "075-343-3077",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 55,
@@ -12886,7 +12886,7 @@
     "tel": "075-746-5696",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 62,
@@ -12946,7 +12946,7 @@
     "tel": "075-343-3262",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 63,
@@ -13006,7 +13006,7 @@
     "tel": "075-343-2562",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 65,
@@ -13246,7 +13246,7 @@
     "tel": "075-354-7050",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 15,
@@ -13305,7 +13305,7 @@
     "tel": "075-746-6618",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 19,
@@ -13425,7 +13425,7 @@
     "tel": "075-585-5459",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 17,
@@ -13725,7 +13725,7 @@
     "tel": "075-352-6555",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 48,
@@ -15441,7 +15441,7 @@
     "tel": "075-672-2081",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 83,
@@ -15559,7 +15559,7 @@
     "tel": "075-661-8505",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 87,
@@ -15618,7 +15618,7 @@
     "tel": "075-661-8998",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 84,
@@ -16090,7 +16090,7 @@
     "tel": "075-693-9911",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 93,
@@ -16625,7 +16625,7 @@
     "tel": "075-682-5031",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 18,
@@ -16683,7 +16683,7 @@
     "tel": "075-352-7444",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 4,
@@ -16741,7 +16741,7 @@
     "tel": "075-361-3215",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 34,
@@ -16800,7 +16800,7 @@
     "tel": "075-343-5300",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 66,
@@ -16858,7 +16858,7 @@
     "tel": "075-661-0321",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 4,
@@ -16916,7 +16916,7 @@
     "tel": "075-693-8444",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 51,
@@ -16974,7 +16974,7 @@
     "tel": "075-361-7261",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 37,
@@ -17032,7 +17032,7 @@
     "tel": "075-692-2111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 64,
@@ -17091,7 +17091,7 @@
     "tel": "075-661-7111",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 95,
@@ -17149,7 +17149,7 @@
     "tel": "075-361-1251",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 42,
@@ -17207,7 +17207,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 33,
@@ -17265,7 +17265,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 52,
@@ -17323,7 +17323,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -17381,7 +17381,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 50,
@@ -17439,7 +17439,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 46,
@@ -17498,7 +17498,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 17,
@@ -17557,7 +17557,7 @@
     "tel": "075-361-4601",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 41,
@@ -17615,7 +17615,7 @@
     "tel": "075-365-2471",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 72,
@@ -17674,7 +17674,7 @@
     "tel": "075-341-7551",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -17733,7 +17733,7 @@
     "tel": "075-352-5461",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 48,
@@ -17792,7 +17792,7 @@
     "tel": "075-352-5463",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 37,
@@ -17851,7 +17851,7 @@
     "tel": "075-353-7811",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -17910,7 +17910,7 @@
     "tel": "075-662-1211",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -17969,7 +17969,7 @@
     "tel": "075-644-6112",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 54,
@@ -18027,7 +18027,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 30,
@@ -18085,7 +18085,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 54,
@@ -18143,7 +18143,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -18201,7 +18201,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 15,
@@ -18259,7 +18259,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 73,
@@ -18318,7 +18318,7 @@
     "tel": "075-354-9181",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 35,
@@ -18377,7 +18377,7 @@
     "tel": "075-365-7750",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "8",
       "x": 57,
@@ -18436,7 +18436,7 @@
     "tel": "075-351-5613",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 51,
@@ -18494,7 +18494,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "7",
       "x": 18,
@@ -18552,7 +18552,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 14,
@@ -18610,7 +18610,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": 26,
@@ -18668,7 +18668,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": 39,
@@ -18726,7 +18726,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 50,
@@ -18784,7 +18784,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 41,
@@ -18842,7 +18842,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 59,
@@ -18900,7 +18900,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "11",
       "x": 72,
@@ -18958,7 +18958,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "10",
       "x": 60,
@@ -19016,7 +19016,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "4",
       "x": 55,
@@ -19074,7 +19074,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "R",
       "x": 74,
@@ -19132,7 +19132,7 @@
     "tel": "075-693-5085",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 60,
@@ -19190,7 +19190,7 @@
     "tel": "075-662-1021",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 56,
@@ -19248,7 +19248,7 @@
     "tel": "075-694-0500",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 19,
@@ -19306,7 +19306,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 20,
@@ -19364,7 +19364,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 18,
@@ -19422,7 +19422,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 20,
@@ -19480,7 +19480,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 17,
@@ -19538,7 +19538,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 41,
@@ -19596,7 +19596,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 38,
@@ -19654,7 +19654,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -19712,7 +19712,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 19,
@@ -19770,7 +19770,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -19828,7 +19828,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 55,
@@ -19886,7 +19886,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 50,
@@ -19944,7 +19944,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 50,
@@ -20002,7 +20002,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 61,
@@ -20060,7 +20060,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 61,
@@ -20118,7 +20118,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 18,
@@ -20176,7 +20176,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 42,
@@ -20234,7 +20234,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 37,
@@ -20292,7 +20292,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 45,
@@ -20350,7 +20350,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 10,
@@ -20408,7 +20408,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 54,
@@ -20466,7 +20466,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 51,
@@ -20524,7 +20524,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -20582,7 +20582,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 57,
@@ -20640,7 +20640,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 58,
@@ -20698,7 +20698,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 66,
@@ -20756,7 +20756,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 59,
@@ -20814,7 +20814,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 59,
@@ -20872,7 +20872,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -20930,7 +20930,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 30,
@@ -20994,7 +20994,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21058,7 +21058,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 48,
@@ -21118,7 +21118,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21178,7 +21178,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21238,7 +21238,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21298,7 +21298,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21358,7 +21358,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21418,7 +21418,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21479,7 +21479,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21540,7 +21540,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 44,
@@ -21600,7 +21600,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -21660,7 +21660,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -21720,7 +21720,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -21780,7 +21780,7 @@
     "tel": null,
     "inside": null,
     "ingate": null,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 47,
@@ -21838,7 +21838,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -21896,7 +21896,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 40,
@@ -21954,7 +21954,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -22012,7 +22012,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -22070,7 +22070,7 @@
     "tel": "075-361-2022",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 44,
@@ -22128,7 +22128,7 @@
     "tel": "075-693-9998",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 39,
@@ -22186,7 +22186,7 @@
     "tel": "075-343-3372",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 12,
@@ -22244,7 +22244,7 @@
     "tel": "075-365-3353",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 99,
@@ -22302,7 +22302,7 @@
     "tel": "075-353-2066",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 98,
@@ -22360,7 +22360,7 @@
     "tel": "075-351-8555",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 50,
@@ -22418,7 +22418,7 @@
     "tel": "075-353-5518",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 28,
@@ -22477,7 +22477,7 @@
     "tel": "075-693-5560",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 33,
@@ -22535,7 +22535,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "7",
       "x": 80,
@@ -22593,7 +22593,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 38,
@@ -22651,7 +22651,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 39,
@@ -22710,7 +22710,7 @@
     "tel": "075-342-5630",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 53,
@@ -22769,7 +22769,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 53,
@@ -22828,7 +22828,7 @@
     "tel": "0120-234-888",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 24,
@@ -22887,7 +22887,7 @@
     "tel": "075-276-2072",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 48,
@@ -22946,7 +22946,7 @@
     "tel": "075-352-6542",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 53,
@@ -23005,7 +23005,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 53,
@@ -23127,7 +23127,7 @@
     "tel": "075-671-1551",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 55,
@@ -23187,7 +23187,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 59,
@@ -23247,7 +23247,7 @@
     "tel": "075-352-1111",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 58,
@@ -23368,7 +23368,7 @@
     "tel": "075-746-5386",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 33,
@@ -23426,7 +23426,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 48,
@@ -23485,7 +23485,7 @@
     "tel": null,
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B1",
       "x": 35,
@@ -23544,7 +23544,7 @@
     "tel": "075-365-3122",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -23603,7 +23603,7 @@
     "tel": "075-353-0080",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 89,
@@ -23662,7 +23662,7 @@
     "tel": "075-371-7027",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 43,
@@ -23721,7 +23721,7 @@
     "tel": "075-354-4720",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 36,
@@ -23780,7 +23780,7 @@
     "tel": "075-352-3563",
     "inside": true,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "B2",
       "x": 20,
@@ -23838,7 +23838,7 @@
     "tel": "075-353-0567",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 4,
@@ -23896,7 +23896,7 @@
     "tel": "075-344-8072",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 84,
@@ -23954,7 +23954,7 @@
     "tel": "075-694-1176",
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "2",
       "x": 68,
@@ -24012,7 +24012,7 @@
     "tel": "075-692-3510",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 7,
@@ -24070,7 +24070,7 @@
     "tel": "075-693-7066",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 18,
@@ -24128,7 +24128,7 @@
     "tel": null,
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 28,
@@ -24186,7 +24186,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 41,
@@ -24244,7 +24244,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 80,
@@ -24302,7 +24302,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 74,
@@ -24360,7 +24360,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 74,
@@ -24418,7 +24418,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 75,
@@ -24476,7 +24476,7 @@
     "tel": null,
     "inside": true,
     "ingate": true,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 80,
@@ -24535,7 +24535,7 @@
     "tel": "075-681-0311",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 72,
@@ -24593,7 +24593,7 @@
     "tel": "075-371-3020",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 87,
@@ -24651,7 +24651,7 @@
     "tel": "075-351-4123",
     "inside": false,
     "ingate": false,
-    "smoking": null,
+    "smoking": 9,
     "end_point": {
       "floor": "1",
       "x": 75,

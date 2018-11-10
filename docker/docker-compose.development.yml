@@ -1,8 +1,16 @@
 # enju
-enju:
-  build: ./enju/
-  ports:
-    - "8080:8080"
+version: '2'
+services:
+  enju:
+    build: ./enju/
+  lb:
+    image: dockercloud/haproxy
+    links:
+      - enju
+    ports:
+      - "8080:80"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
 # postgresql
 # postgresql:
 #   image: postgres
