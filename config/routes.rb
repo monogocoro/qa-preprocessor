@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'session_summaries/show'
+
   get 'map/show'
   get 'map/test'
   get 'map/test2f'

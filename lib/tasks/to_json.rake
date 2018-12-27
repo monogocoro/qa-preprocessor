@@ -104,13 +104,13 @@ namespace :to_json do
 
   desc "イベント情報に変更する"
   task :events do
-    csv_data = CSV.read(Rails.root.join('db', 'data', 'csv', '案内用データ - events（イベント情報）.csv'), headers: true)
+    csv_data = CSV.read(Rails.root.join('db', 'data', 'csv', '案内データ上野駅﻿ - イベント（Events）.csv'), headers: true)
 
     File.open(Rails.root.join('db', 'data', 'json', 'events.json'), 'w') do |file|
       results = csv_data.map do |data|
         data = data.to_h
       end
-      results.select!{|r| r['place'].present? && r['category'].present? && r['area'].present? && r['highlight_ja'].present? }
+      results.select!{|r| r['place'].present? && r['category'].present? && r['area'].present? }
       file.write(JSON.pretty_generate(results))
     end
   end
@@ -138,7 +138,8 @@ namespace :to_json do
         }
         hash['category_id'] = cat_map[data['カテゴリ（cat）']]
 
-        hash['subcat'] = data['サブカテゴリ（subcat）']
+        hash['subcat_ja'] = data['サブカテゴリ（subcat_ja）']
+        hash['subcat_en'] = data['サブカテゴリ（subcat_en）']
         hash['area'] = data['エリア（area）']
         hash['station'] = data['場所（station）']
         hash['keywords'] = data['キーワード（keywords）'].try(:split, ',')
@@ -201,6 +202,14 @@ namespace :to_json do
         }
 
         hash['url'] = data['公式サイトURL（url）']
+
+        hash['priority'] = data['priority'].to_i.to_s
+
+        if data['available'] == '○'
+          hash['available'] =  true
+        elsif data['available'] == '×'
+          hash['available'] =  false
+        end
 
         hash.each{|key, value| hash[key] = nil if value == ""}
         hash
