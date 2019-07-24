@@ -21,3 +21,6 @@
 .byebug_history
 
 /vendor/*
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
