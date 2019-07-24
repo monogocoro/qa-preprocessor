@@ -26,8 +26,6 @@ class TranslationController < ApplicationController
 
     if kind == 'google'
       text = EasyTranslate.translate(params[:sentence], from: params[:from], to: params[:to], model: :nmt)
-    elsif kind == 'mirai'
-      text = mirai params[:sentence], params[:from], params[:to]
     elsif kind == 'rozetta'
       text = rozetta params[:sentence], params[:from], params[:to]
     end
@@ -36,47 +34,6 @@ class TranslationController < ApplicationController
   end
 
   private
-  def mirai input, from, to
-    unless from == 'ja' &&  to == 'en'
-      return 'Mirai need "from: ja, to:en on this version."'
-    end
-
-    mirai_params = URI.encode_www_form(
-      {
-        'langFrom' => from,
-        'langTo' => to,
-        'profile' => 'monogocoro',
-        'subscription-key' => '78fa6d846f79469d81bf1a0cb772015f'
-      })
-
-    url = URI.parse("https://apigw.mirai-api.net/trial/mt/v1.0/translate?#{mirai_params}")
-    puts url
-    req = Net::HTTP::Post.new(url.request_uri)
-    req["Content-Type"] = "application/json; charset=UTF-8"
-    req["Host"] = "apigw.mirai-api.net"
-    json = "{\"source\": \"#{params[:sentence].to_s}\"}"
-    req["Content-Length"] = json.bytesize
-
-    puts req.each{|k, v| puts k +":"+ v}
-
-    req.body = json
-    https = Net::HTTP.new(url.host, url.port)
-    https.use_ssl = true
-    res = https.request(req)
-
-    puts res.code
-    puts res.body
-    puts res.header.each{|k, v| puts k +":"+ v}
-    response = JSON.load(res.body)
-    if response['error'].present?
-      text = response.to_json
-    else
-      text = response['response']['translation']
-    end
-
-    text
-  end
-
   def rozetta input, from, to
 
     unless from == 'ja' &&  to == 'en'
