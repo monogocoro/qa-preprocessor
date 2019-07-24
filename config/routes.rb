@@ -13,9 +13,7 @@ Rails.application.routes.draw do
   get 'analysis/:sentence', to: 'analysis#result'
   get 'enju_xml/:sentence', to: 'analysis#enju_xml'
   get 'en2enju_xml/:sentence', to: 'analysis#en2enju_xml', constraints: {sentence: /.*/}
-  get 'ja2en/:sentence', to: 'analysis#ja2en'
-  get 'en2ja/:sentence', to: 'analysis#en2ja'
-  get 'translation/:data', to: 'translation#perform'
+  get 'translate', to: 'translation#perform'
 
   get 'data/south_locations_download'
   get 'data/north_locations_download'

@@ -109,64 +109,6 @@ class AnalysisController < ApplicationController
 
   end
 
-require 'net/http'
-require 'uri'
-
-  def ja2en
-
-    ja_text = URI.unescape(params[:sentence])
-    ja_text << "。" unless ja_text[-1] == "。"
-
-    if params[:google]
-      en_text = EasyTranslate.translate(ja_text, from: :ja, to: :en, model: :nmt)
-    else
-      params = URI.encode_www_form(
-        {
-          'langFrom' => 'ja',
-          'langTo' => 'en',
-          'profile' => 'monogocoro',
-          'subscription-key' => '78fa6d846f79469d81bf1a0cb772015f'
-        })
-
-      url = URI.parse("https://apigw.mirai-api.net/trial/mt/v1.0/translate?#{params}")
-      puts url
-      req = Net::HTTP::Post.new(url.request_uri)
-      req["Content-Type"] = "application/json; charset=UTF-8"
-      req["Host"] = "apigw.mirai-api.net"
-      json = "{\"source\": \"#{ja_text}\"}"
-      req["Content-Length"] = json.bytesize
-
-      puts req.each{|k, v| puts k +":"+ v}
-
-      req.body = json
-      https = Net::HTTP.new(url.host, url.port)
-      https.use_ssl = true
-      res = https.request(req)
-
-      puts res.code
-      puts res.body
-      puts res.header.each{|k, v| puts k +":"+ v}
-      response = JSON.load(res.body)
-      if response['error'].present?
-        en_text = response.to_json
-      else
-        en_text = response['response']['translation']
-      end
-    end
-    render plain: en_text
-  end
-
-  def en2ja
-    en_text = URI.unescape(params[:sentence])
-    # ja_text << "." unless ja_text[-1] == "."
-
-    puts en_text
-
-    ja_text = EasyTranslate.translate(en_text, from: :en, to: :ja, model: :nmt)
-
-    render plain: ja_text
-  end
-
   def en2enju_xml
     en_text = URI.unescape(params[:sentence])
     puts en_text
