@@ -4,7 +4,7 @@ require 'openssl'
 require 'uri'
 class TranslationController < ApplicationController
   def perform
-    kind = params[:kind] || 'google'
+    kind = params[:kind] || 'googlev2'
     puts kind
 
     if params[:from] == 'ja'
@@ -14,20 +14,20 @@ class TranslationController < ApplicationController
       params[:sentence].gsub!(/\.?$/, '')
       params[:sentence] = params[:sentence] + '.'
     elsif params[:from] == 'zh-CN'
-      params[:sentence].gsub!(/。?$/, '')
-      params[:sentence] = params[:sentence] + '。'
+      # params[:sentence].gsub!(/。?$/, '')
+      # params[:sentence] = params[:sentence] + '。'
     elsif params[:from] == 'zh-TW'
-      params[:sentence].gsub!(/。?$/, '')
-      params[:sentence] = params[:sentence] + '。'
+      # params[:sentence].gsub!(/。?$/, '')
+      # params[:sentence] = params[:sentence] + '。'
     elsif params[:from] == 'ko'
-      params[:sentence].gsub!(/\.?$/, '')
-      params[:sentence] = params[:sentence] + '.'
+      # params[:sentence].gsub!(/\.?$/, '')
+      # params[:sentence] = params[:sentence] + '.'
     end
 
-    if kind == 'google'
-      # text = EasyTranslate.translate(params[:sentence], from: params[:from], to: params[:to], model: :nmt)
+    if kind == 'googlev1'
+      text = EasyTranslate.translate(params[:sentence], from: params[:from], to: params[:to], model: :nmt)
+    elsif kind == 'googlev2'
       text = google params[:sentence], params[:from], params[:to]
-
     elsif kind == 'rozetta'
       text = rozetta params[:sentence], params[:from], params[:to]
     end
@@ -40,12 +40,8 @@ class TranslationController < ApplicationController
 
     require "google/cloud/translate"
 
-    # ENV["TRANSLATE_PROJECT"]     = 'hardy-rhythm-160102'
-    # ENV["TRANSLATE_CREDENTIALS"] = "/Users/tanaka/credentials"
-    #
-
     translate   = Google::Cloud::Translate.new
-    translation = translate.translate input, to: to, model: "nmt"
+    translation = translate.translate input, to: to
 
     puts "Translated '#{input}' to '#{translation.text.inspect}'"
     puts "Original language: #{translation.from} translated to: #{translation.to}"
