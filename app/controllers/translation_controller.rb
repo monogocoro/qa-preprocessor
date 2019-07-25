@@ -25,7 +25,9 @@ class TranslationController < ApplicationController
     end
 
     if kind == 'google'
-      text = EasyTranslate.translate(params[:sentence], from: params[:from], to: params[:to], model: :nmt)
+      # text = EasyTranslate.translate(params[:sentence], from: params[:from], to: params[:to], model: :nmt)
+      text = google params[:sentence], params[:from], params[:to]
+
     elsif kind == 'rozetta'
       text = rozetta params[:sentence], params[:from], params[:to]
     end
@@ -34,6 +36,22 @@ class TranslationController < ApplicationController
   end
 
   private
+  def google input, from, to
+
+    require "google/cloud/translate"
+
+    # ENV["TRANSLATE_PROJECT"]     = 'hardy-rhythm-160102'
+    # ENV["TRANSLATE_CREDENTIALS"] = "/Users/tanaka/credentials"
+    #
+
+    translate   = Google::Cloud::Translate.new
+    translation = translate.translate input, to: to, model: "nmt"
+
+    puts "Translated '#{input}' to '#{translation.text.inspect}'"
+    puts "Original language: #{translation.from} translated to: #{translation.to}"
+    translation.text
+
+  end
   def rozetta input, from, to
 
     unless from == 'ja' &&  to == 'en'

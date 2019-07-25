@@ -58,11 +58,10 @@ gem 'verbs'
 gem 'haml-rails'
 gem 'erb2haml'
 
-gem 'mecab'
-gem 'natto'
-
 gem 'romaji'
 
 gem 'execjs'
 
 gem 'rubyzip'
+
+gem 'google-cloud'
