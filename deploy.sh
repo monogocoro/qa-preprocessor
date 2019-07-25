@@ -1,4 +1,4 @@
-cd /var/www/AI-talk-engine/preprocessor/
+#!/usr/bin/env bash
 git pull origin master
 bundle install
 bundle exec rake db:migrate
