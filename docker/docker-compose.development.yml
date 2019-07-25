@@ -3,6 +3,11 @@ version: '2'
 services:
   enju:
     build: ./enju/
+    logging:
+      driver: "json-file" # defaults if not specified
+      options:
+        max-size: "10m"
+        max-file: "3"
   lb:
     image: dockercloud/haproxy
     links:
@@ -11,6 +16,11 @@ services:
       - "8080:80"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+    logging:
+      driver: "json-file" # defaults if not specified
+      options:
+        max-size: "10m"
+        max-file: "3"
 # postgresql
 # postgresql:
 #   image: postgres
@@ -27,16 +37,21 @@ services:
 #   ports:
 #     - "6379:6379"
 # nginx
-# nginx:
-#   image: nginx
-#   ports:
-#     - "80:80"
-#     - "443:443"
-#   volumes:
-#     - /var/www/AI-talk-engine/preprocessor/docker/nginx/default.template:/etc/nginx/conf.d/default.template
-#     - /etc/letsencrypt:/etc/letsencrypt:ro
-#   environment:
-#    - NGINX_SERVER_NAME=preprocessor.monogocoro.ai
-#    - NGINX_HOST=${HOST_IP}
-#    - NGINX_PORT=3000
-#   command: /bin/bash -c "envsubst '$$NGINX_HOST$$NGINX_PORT$$NGINX_SERVER_NAME' < /etc/nginx/conf.d/default.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"
+ nginx:
+   image: nginx
+   ports:
+     - "80:80"
+     - "443:443"
+   logging:
+     driver: "json-file" # defaults if not specified
+     options:
+       max-size: "10m"
+       max-file: "3"
+   volumes:
+     - /var/www/AI-talk-engine/preprocessor/docker/nginx/default.template:/etc/nginx/conf.d/default.template
+     - /etc/letsencrypt:/etc/letsencrypt:ro
+   environment:
+    - NGINX_SERVER_NAME=preprocessor.monogocoro.ai
+    - NGINX_HOST=${HOST_IP}
+    - NGINX_PORT=3000
+   command: /bin/bash -c "envsubst '$$NGINX_HOST$$NGINX_PORT$$NGINX_SERVER_NAME' < /etc/nginx/conf.d/default.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"
