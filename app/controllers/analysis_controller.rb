@@ -116,25 +116,6 @@ class AnalysisController < ApplicationController
     render xml: e.output
   end
 
-  def enju_xml
-    ja_text = URI.unescape(params[:sentence])
-    ja_text << "。" unless ja_text[-1] == "。"
-
-    puts ja_text
-
-    en_text = EasyTranslate.translate(ja_text, from: :ja, to: :en, model: :nmt)
-    # # 可能ならgoolishを英語に修正する。
-    # en_text = SCode::GoolishToEnglish.translate(en_text)
-    # #文の一部を置換する。
-    # en_text = SCode::Formatter.en_format(en_text)
-
-    puts en_text
-
-    e = Enju.new(en_text)
-
-    render xml: e.output
-  end
-
   def result
     # begin
       ja_text = URI.unescape(params[:sentence])

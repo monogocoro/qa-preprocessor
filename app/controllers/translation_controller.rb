@@ -3,6 +3,16 @@ require 'net/https'
 require 'openssl'
 require 'uri'
 class TranslationController < ApplicationController
+  def detect
+
+    require "google/cloud/translate"
+
+    translate   = Google::Cloud::Translate.new
+    detect = translate.detect params[:q]
+
+    render plain: detect.language
+
+  end
   def perform
     kind = params[:kind] || 'googlev2'
     puts kind
@@ -75,7 +85,7 @@ class TranslationController < ApplicationController
     request['signature'] = generateSignature(nonce, path, secretKey)
     requestBody = {
       'fieldId' => '1',
-      'text' => [input + '。'],
+      'text' => [input],
       'sourceLang' => from,
       'targetLang' => to
     }.to_json
