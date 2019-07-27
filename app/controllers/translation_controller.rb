@@ -18,11 +18,11 @@ class TranslationController < ApplicationController
     puts kind
 
     if params[:from] == 'ja'
-      params[:sentence].gsub!(/。?$/, '')
-      params[:sentence] = params[:sentence] + '。'
+      # params[:sentence].gsub!(/。?$/, '')
+      # params[:sentence] = params[:sentence] + '。'
     elsif params[:from] == 'en'
-      params[:sentence].gsub!(/\.?$/, '')
-      params[:sentence] = params[:sentence] + '.'
+      # params[:sentence].gsub!(/\.?$/, '')
+      # params[:sentence] = params[:sentence] + '.'
     elsif params[:from] == 'zh-CN'
       # params[:sentence].gsub!(/。?$/, '')
       # params[:sentence] = params[:sentence] + '。'
