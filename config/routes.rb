@@ -11,7 +11,7 @@ Rails.application.routes.draw do
   get 'paraphrase/:sentence', to: 'analysis#paraphrase'
   get 'complement/:sentence', to: 'analysis#complement'
   get 'analysis/:sentence', to: 'analysis#result'
-  get 'en2enju_xml/:sentence', to: 'analysis#en2enju_xml', constraints: {sentence: /\.?/}
+  get 'en2enju_xml/:sentence', to: 'analysis#en2enju_xml', constraints: {sentence: /.*/}
   get 'translate', to: 'translation#perform'
   get 'detect', to: 'translation#detect'
 
