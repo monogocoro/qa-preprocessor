@@ -51,7 +51,7 @@ class TranslationController < ApplicationController
     require "google/cloud/translate"
 
     translate   = Google::Cloud::Translate.new
-    translation = translate.translate input, to: to
+    translation = translate.translate input, from: from, to: to
 
     puts "Translated '#{input}' to '#{translation.text.inspect}'"
     puts "Original language: #{translation.from} translated to: #{translation.to}"
